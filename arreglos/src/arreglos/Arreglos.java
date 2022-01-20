@@ -22,7 +22,7 @@ public class Arreglos {
 //        int [] numeros;
 //numeros = new int [10];
         
-        Scanner leer = new Scanner(System.in);
+Scanner leer = new Scanner(System.in);
 String [] Semana = {"Lunes","Martes"};
 char [] Letras = {'L','M'};
 
@@ -34,7 +34,6 @@ System.out.println("Numero de elementos del arreglo");
 nElementos = leer.nextInt();
 int[] m = new int [nElementos];
 int k = 0;
-
 System.out.println("Ingresa los valores del arreglo");
 for ( k = 0; k< nElementos; k++)
 {
@@ -42,7 +41,6 @@ for ( k = 0; k< nElementos; k++)
     m[k] = leer.nextInt();
 }
 System.out.println();
-
 for ( k = 0; k< nElementos; k++)
 {
     System.out.println(m[k] + " ");
@@ -70,47 +68,38 @@ for (l = 0; l<nalumnos; l++)
     System.out.println();
     System.out.printf("Nota media del curso: %5.2f" , suma/nalumnos);
 }
-
 int car;
 for(int i=0; i<=11; i++)
 {
     System.out.println("Mes de tu nacimiento");
     Meses[i]=leer.next();     
 }
-
 for(int i=0; i<=11; i++)
 {
     System.out.println("Los meses son: " + Meses[i]);
   //  Meses[i]=leer.next();     
 }
-
 for(int j=0; j<=6; j++)
 {
     System.out.println("Dias de la semana");
     car = System.in.read(); //Lee un arreglo de caracteres
-
-   System.in.read(); //Lee una linea en blanco 
+    System.in.read(); //Lee una linea en blanco 
 Letras2[j] = (char)car; //Se asigna lo que vaya leyedo en la variable car a el arreglo Letras2
     //Letras2[i]= (char) leer.toString();
     //(int) variable.charAt(1); 
 }
-
 for(int j=0; j<=6; j++)
 {
     System.out.println("Los meses son: " + Letras2[j]);
   //  Meses[i]=leer.next();     
 }
 
-
 //int [] numeros = new int [10];
-        
 //        int [ ] numeros = {1,2,3,4,5,6,7,8,9,10 } ;
 //
 //        int valor = numeros[2];
 //  System.out.println(numeros[2]);
 //  System.out.println(valor);
-        
-
 System.out.println(Semana[1]);//for (int i=0; i<=9; i++)
 System.out.println(Letras[1]);
 //{
@@ -121,7 +110,5 @@ System.out.println(Letras[1]);
 ////    System.out.println(" ");
 //  
 //}
-
-
     }
 }

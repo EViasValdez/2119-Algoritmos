@@ -38,5 +38,4 @@ public class Condicion {
         total = precio * cantidad;
         System.out.println("El total es:" + total);
     }
-    
 }

@@ -26,17 +26,16 @@ public class Ciclos {
         int aprobaron=0, reprobaron=0, invalida=0;
         float suma = 0, promedio = 0;
         float calificacion [] = new float [5];
-        for(int i = 0; i<calificacion.length; i++){
-            System.out.println("Escribe la calsificacion");
-        calificacion[i]=Float.parseFloat(br.readLine());
-        if(calificacion[i]>10 || calificacion[i]<0){
-                        invalida++;
+            for (int i = 0; i<calificacion.length; i++){
+                System.out.println("Escribe la calsificacion");
+            calificacion[i]=Float.parseFloat(br.readLine());
+                if (calificacion[i]>10 || calificacion[i]<0){
+                    invalida++;
                 }else{
-        if (calificacion[i]>=7){
-            aprobaron++;
-        }
-        else{
-                if(calificacion[i]<7){
+                if (calificacion[i]>=7){
+                    aprobaron++;
+                }else{
+                if (calificacion[i]<7){
                     reprobaron++;
         }
     }                

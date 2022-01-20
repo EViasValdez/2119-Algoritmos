@@ -24,7 +24,5 @@ public class Cambio {
     BufferedReader br = new BufferedReader(isr);
     
     int numero1, suma = 0, contador;
-    
     }
-    
 }

@@ -28,17 +28,17 @@ public class Asesorias2 {
 
         precio = Float.parseFloat(br.readLine());
 
-        if(precio < 0){
-        System.out.println("Error");
-        }else{
-        if (precio>=500){
-        descuento = precio*.11f;
-        preciototal = precio - descuento;
-        System.out.println("El precio total es"+preciototal);
-        }else{
-        descuento = precio*.03f;
-        preciototal = precio - descuento;
-        System.out.println("El precio total es"+preciototal);
+            if(precio < 0){
+                System.out.println("Error");
+            }else{
+            if (precio>=500){
+                descuento = precio*.11f;
+                preciototal = precio - descuento;
+                System.out.println("El precio total es"+preciototal);
+            }else{
+                descuento = precio*.03f;
+                preciototal = precio - descuento;
+                System.out.println("El precio total es"+preciototal);
     }         
     }
     }

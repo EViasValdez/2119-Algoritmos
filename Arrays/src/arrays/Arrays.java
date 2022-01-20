@@ -19,10 +19,9 @@ public class Arrays {
         String[ ] objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola","Refrigerador", "Mesa", "Tetera", "Horno"};
         Boolean[ ] datos = {true, false, true, false, true, false, true, false};
         int [ ] numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
-        
         int num = 0;
         float calificaciones = 
-        float calificacion =      
+        float calificacion = 
         //True = Grupo A
         //False = Grupo B
         

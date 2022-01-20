@@ -22,7 +22,6 @@ public class Ciclo2 {
     public static void main(String[] args) throws IOException {
     InputStreamReader isr = new InputStreamReader(System.in);
     BufferedReader br = new BufferedReader(isr);
-    
     //Se declaran 3 variables de tipo entero numero1, suma y contador
             //Las variable suma  se inicializan en cero debido a que
             //suma mostrara el resultado de una operacion 
@@ -36,9 +35,7 @@ public class Ciclo2 {
             // a inicializa contador =0 dede que se declara como en la instruccion while y do-while
             //despues se indica la condicion contador<=4 que es equivalente a la condicione qeu se evalua
             // en while y do-while y por ultimo contador++ que es equivalente a contador=contador+1
-            // como se indicaba en wihle y do-while  
-
-           
+            // como se indicaba en wihle y do-while
                 for(contador = 0; contador<=4; contador--)
             {
                 //La instruccion  ConsoleWriteLine se utiliza para enviar mesajes 
@@ -52,21 +49,12 @@ public class Ciclo2 {
                 //variable numero1 y cada vez qeu se entre al ciclo se ira sumando
                 // a la variable suma el ultmo valor de suma + el valor de la variable
                 //numero1
-                suma = suma + numero1;
-                            
+                suma = suma + numero1;      
             } 
-           
             //Se imprime el resulatdo final de la variable suma
             System.out.println("La suma es:" + suma);
 
             //Esta isntrucion se utiliza para realizar una pausa en la consola y que muestre el mensaje en pantalla
             System.out.println();
         }
-    
-    
-    
-    
-    
     }
-    
-
