@@ -1,3 +1,5 @@
 # Algoritmos
 
-*Todo todavia continua sin poder ser definido.
+Documentos de la asignatura de algoritmos.
+
+**Todo todavia continua sin poder ser definido.**
