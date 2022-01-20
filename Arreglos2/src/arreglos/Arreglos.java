@@ -44,7 +44,6 @@ System.out.println();
 for ( k = 0; k< nElementos; k++)
 {
     System.out.println(m[k] + " ");
-    
 }
 ArrayList <Float> notas = new ArrayList<>(); //La Clase ArrayList se utiliza para crear arreglos unidimensionales
 //En este caso se creo un arreglo llamado notas de tipo Flot y no se especifio el tamaño del mimo
@@ -75,13 +74,11 @@ for(int i=0; i<=11; i++)
     System.out.println("Mes de tu nacimiento");
     Meses[i]=leer.next();     
 }
-
 for(int i=0; i<=11; i++)
 {
     System.out.println("Los meses son: " + Meses[i]);
   //  Meses[i]=leer.next();     
 }
-
 for(int j=0; j<=6; j++)
 {
     System.out.println("Dias de la semana");
@@ -92,7 +89,6 @@ Letras2[j] = (char)car; //Se asigna lo que vaya leyedo en la variable car a el a
     //Letras2[i]= (char) leer.toString();
     //(int) variable.charAt(1); 
 }
-
 for(int j=0; j<=6; j++)
 {
     System.out.println("Los meses son: " + Letras2[j]);
@@ -107,8 +103,6 @@ for(int j=0; j<=6; j++)
 //        int valor = numeros[2];
 //  System.out.println(numeros[2]);
 //  System.out.println(valor);
-        
-
 System.out.println(Semana[1]);//for (int i=0; i<=9; i++)
 System.out.println(Letras[1]);
 //{
@@ -119,11 +113,5 @@ System.out.println(Letras[1]);
 ////    System.out.println(" ");
 //  
 //}
-
-
     }
 }
-
-   
-    
-

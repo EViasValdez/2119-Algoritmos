@@ -34,8 +34,6 @@ public class EjemplosArray {
             System.out.print(animales [i] + "|");
             animales2.add(animales[i]);
         }
-        
-        
         int op = 1;
         while(op == 1){
             System.out.println("¿Desea agregar otro animal?");
@@ -46,11 +44,8 @@ public class EjemplosArray {
                 animales2.add("d");
             }
         }
-        
         for(int i = 0; i < animales2.size(); i++){
             System.out.println(animales2.get(i));
-        }
-                
+        }     
     }
-    
 }

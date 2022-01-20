@@ -23,29 +23,29 @@ public class AesoriasArreglos {
     String apellidos[] = new String[5];
     
     for (int i = 1;i <= 7; i++){
-    System.out.println("Escribe el nombre");
-    nombres[i] = leer.next();
+        System.out.println("Escribe el nombre");
+        nombres[i] = leer.next();
     }
     for (int i = 1;i <= 5; i++){
-    System.out.println("Escribe el apellido");
-    apellidos[i] = leer.next();
+        System.out.println("Escribe el apellido");
+        apellidos[i] = leer.next();
     }
     
     String nombre= "Alicia";
     String apellido= "Ffores";
     
     for(int i = 1; i < 7; i++){
-    if(nombre.equals(nombres[i])){
-    System.out.println("Si esta");
-    }else{
-    System.out.println("No esta");    
-    }    
+        if(nombre.equals(nombres[i])){
+            System.out.println("Si esta");
+        }else{
+            System.out.println("No esta");    
+        }    
     }
     for(int i = 1; i < 5; i++)
-    if(apellido.equals(apellidos[i])){
-    System.out.println("Si existe");    
-    }else{
-    System.out.println("No existe");    
-    }
+        if(apellido.equals(apellidos[i])){
+            System.out.println("Si existe");    
+        }else{
+            System.out.println("No existe");    
+        }
     }
 }

@@ -102,13 +102,6 @@ public class Tablasdeverdad {
                                 else{
                                 System.out.println("No puede retirar el dinero");
                                 }
-                                }
-                                }
-                                }
-                            
-    
-    
-                        
-                        
-                        
-    
+    }
+  }
+}

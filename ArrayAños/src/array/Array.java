@@ -25,9 +25,9 @@ public class Array {
     int num = alea.nextInt(2019);
     
     while (num > 1950){
-    if (num < 1950){
-    break;    
-    }
+        if (num < 1950){
+            break;    
+        }
     num = alea.nextInt(2019);
     }
     nums.add(num);

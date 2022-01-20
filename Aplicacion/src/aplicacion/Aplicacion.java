@@ -36,7 +36,7 @@ public class Aplicacion {
         System.out.println("Esta es la lista de alumnos disponibles");
         
         for(int i = 0; i < names.size(); i++){
-        System.out.print(names.get(i) + "|");
+            System.out.print(names.get(i) + "|");
         }
         
         System.out.println("¿Desea agregar a alguien mas?");
@@ -45,21 +45,21 @@ public class Aplicacion {
         boolean alumno = leer.nextBoolean();
         
         if (alumno == true){
-        while (alumno == true){
-        System.out.println("Ingrese nombre");
-        String nombre = leer.next();
-        names.add(nombre);
-        System.out.println(names);
-        System.out.println("¿Desea agregar a alguien mas?");
-        System.out.println("true = si, false = no");
+            while (alumno == true){
+                System.out.println("Ingrese nombre");
+                String nombre = leer.next();
+                names.add(nombre);
+                System.out.println(names);
+                System.out.println("¿Desea agregar a alguien mas?");
+                System.out.println("true = si, false = no");
         
-        alumno = leer.nextBoolean(); 
+                alumno = leer.nextBoolean(); 
         if (alumno == false){
-        System.out.println("El programa se cerrara");
+            System.out.println("El programa se cerrara");
         }
         }
         }else{
-        System.out.println("El programa se cerrara");
+            System.out.println("El programa se cerrara");
         }
     }    
 }
