@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package arrays;
-
 /**
  *
  * @author ALUMNOS
@@ -56,14 +55,6 @@ public class Arrays {
             suma=0;
             int i;
             for (int 1 = 0; i < 5; 1++);
-            
-           
-            
-            
         }
-                
-                
-        
     }
-    
 }
