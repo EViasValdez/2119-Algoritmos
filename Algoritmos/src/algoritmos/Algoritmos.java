@@ -23,10 +23,8 @@ public class Algoritmos {
         
         if (n1 < 1 && n1 > 3){
             System.out.println("Dato Incorrecto");
-                    }else{
+            }else{
             System.out.println(":D");
-           
         }
     }
-    
 }

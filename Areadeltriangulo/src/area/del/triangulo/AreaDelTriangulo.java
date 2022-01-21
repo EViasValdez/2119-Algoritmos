@@ -25,10 +25,9 @@ public class AreaDelTriangulo {
         System.out.println("Ingresar altura");
         
         int n2= leer.nextInt();
-      int r;
-      r= (n1*n2)/2;
-              System.out.println("El resultado del area es"+r);
+        int r;
+        r= (n1*n2)/2;
+        System.out.println("El resultado del area es"+r);
         // TODO code application logic here
     }
-    
 }

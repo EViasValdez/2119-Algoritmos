@@ -26,5 +26,4 @@ public class Algoritmos2 {
         System.out.println("El numero ingresado es"+n1);
         // TODO code application logic here
     }
-    
 }
