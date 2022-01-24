@@ -31,6 +31,18 @@ Tablasdeverdad/build.xml,
 Tablasdeverdad/manifest.mf)
 
 ###### Holamundo - 02/10/19
+(Holamundo/build/classes/holamundo/Holamundo.class, 
+Holamundo/build/classes/incio/i.class, 
+Holamundo/build/classes/incio/inicio.class, 
+Holamundo/nbproject/private/private.properties, 
+Holamundo/nbproject/private/private.xml, 
+Holamundo/nbproject/build-impl.xml, 
+Holamundo/nbproject/genfiles.properties, 
+Holamundo/nbproject/project.properties, 
+Holamundo/nbproject/project.xml, 
+Holamundo/build.xml, 
+Holamundo/manifest.mf)
+
 ###### Zinjal - 05/10/19
 (Zinjal/sin_titulo.cpp)
 
