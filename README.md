@@ -62,5 +62,15 @@ Areadeltriangulo/build.xml,
 Areadeltriangulo/manifest.mf)
 
 ###### Areadetriangulo2 - 09/10/19
+(Areadetriagulo2/nbproject/private/private.properties, 
+Areadetriagulo2/nbproject/private/private.xml, 
+Areadetriagulo2/nbproject/build-impl.xml, 
+Areadetriagulo2/nbproject/genfiles.properties, 
+Areadetriagulo2/nbproject/project.properties, 
+Areadetriagulo2/nbproject/project.xml, 
+Areadetriagulo2/src/areadetriagulo2/Areadetriagulo2.java, 
+Areadetriagulo2/build.xml, 
+Areadetriagulo2/manifest.mf)
+
 ###### Algoritmos2 - 09/10/19
 ###### Ciclo, Cambio - 12/10/19
