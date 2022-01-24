@@ -15,6 +15,9 @@ datos_boleanos/build.xml,
 datos_boleanos/manifest.mf)
 
 ###### Datos_boleanos_2 - 21/09/19
+(Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
+Datos_boleanos_2/manifest.mf)
+
 ###### Tablasdeverdad - 28/09/19
 ###### Holamundo - 02/10/19
 ###### Zinjal - 05/10/19
