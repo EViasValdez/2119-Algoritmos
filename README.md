@@ -6,5 +6,7 @@ Documentos de la asignatura de algoritmos, normalmente son archivos de java.
 ###### Tablasdeverdad - 28/09/19
 ###### Holamundo - 02/10/19
 ###### Zinjal - 05/10/19
+###### Algoritmos, Areadeltriangulo, Algoritmos, Algoritmos - 09/10/19
+###### Ciclo, Cambio - 12/10/19
 
 **Todo todavia continua sin poder ser definido.**
