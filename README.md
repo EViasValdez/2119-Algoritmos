@@ -13,5 +13,3 @@ Documentos de la asignatura de algoritmos, normalmente son archivos de java.
 ###### Areadetriangulo2 - 09/10/19
 ###### Algoritmos2 - 09/10/19
 ###### Ciclo, Cambio - 12/10/19
-
-**Todo todavia continua sin poder ser definido.**
