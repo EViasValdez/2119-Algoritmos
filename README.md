@@ -19,6 +19,17 @@ datos_boleanos/manifest.mf)
 Datos_boleanos_2/manifest.mf)
 
 ###### Tablasdeverdad - 28/09/19
+(Tablasdeverdad/build/classes/tablasdeverdad/Tablasdeverdad.class, 
+Tablasdeverdad/nbproject/private/private.properties, 
+Tablasdeverdad/nbproject/private/private.xml, 
+Tablasdeverdad/nbproject/build-impl.xml, 
+Tablasdeverdad/nbproject/genfiles.properties, 
+Tablasdeverdad/nbproject/project.properties, 
+Tablasdeverdad/nbproject/project.xml, 
+Tablasdeverdad/src/tablasdeverdad/Tablasdeverdad.java, 
+Tablasdeverdad/build.xml, 
+Tablasdeverdad/manifest.mf)
+
 ###### Holamundo - 02/10/19
 ###### Zinjal - 05/10/19
 (Zinjal/sin_titulo.cpp)
