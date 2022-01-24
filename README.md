@@ -47,7 +47,20 @@ Holamundo/manifest.mf)
 (Zinjal/sin_titulo.cpp)
 
 ###### Algoritmos - 09/10/19
+(Algoritmos/src/algoritmos/Algoritmos.java, 
+Algoritmos/manifest.mf)
+
 ###### Areadeltriangulo - 09/10/19
+(Areadeltriangulo/nbproject/private/private.properties, 
+Areadeltriangulo/nbproject/private/private.xml, 
+Areadeltriangulo/nbproject/build-impl.xml, 
+Areadeltriangulo/nbproject/genfiles.properties, 
+Areadeltriangulo/nbproject/project.properties, 
+Areadeltriangulo/nbproject/project.xml, 
+Areadeltriangulo/src/area/del/triangulo/AreaDelTriangulo.java, 
+Areadeltriangulo/build.xml, 
+Areadeltriangulo/manifest.mf)
+
 ###### Areadetriangulo2 - 09/10/19
 ###### Algoritmos2 - 09/10/19
 ###### Ciclo, Cambio - 12/10/19
