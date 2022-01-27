@@ -1,7 +1,6 @@
 # Algoritmos
 
 Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java (uno de ellos realizado en C++).
-
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml, 
@@ -110,7 +109,19 @@ Cambio/manifest.mf)
 ###### suma, metodosarreglos - 09/11/19
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
 ###### Clases, ArrayAños, Colores - 16/11/19
+
 ###### Aplicacion - 25/11/19
+(Aplicacion/build/classes/aplicacion/Aplicacion.class, 
+Aplicacion/nbproject/private/private.properties, 
+Aplicacion/nbproject/private/private.xml, 
+Aplicacion/nbproject/build-impl.xml, 
+Aplicacion/nbproject/genfiles.properties, 
+Aplicacion/nbproject/project.properties, 
+Aplicacion/nbproject/project.xml, 
+Aplicacion/src/aplicacion/Aplicacion.java, 
+Aplicacion/build.xml, 
+Aplicacion/manifest.mf)
+
 ###### Asesorias, Asesorias2, AsesoriasArreglos - 29/11/19
 ###### PromedioCalificaciones, Edad - 30/11/19
 ###### Arreglos3, Menu - 06/12/19
