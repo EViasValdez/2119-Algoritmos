@@ -49,14 +49,14 @@ public class PromedioCalificaciones {
             if(promedio >= 8 && promedio <= 9){
                 pagototal = mensualidad - (mensualidad * .10f);
                 System.out.println("El pago total es"+pagototal);        
-        }else{
+            }else{
             if(promedio >= 9 && promedio <= 10){
                 pagototal = mensualidad - (mensualidad * .10f);
                 System.out.println("El pago total es"+pagototal);
+            }
+            }        
+            }
+            }
         }
-    }        
     }
-    }
-    }
-}
 }

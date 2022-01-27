@@ -39,7 +39,7 @@ public class Asesorias2 {
                 descuento = precio*.03f;
                 preciototal = precio - descuento;
                 System.out.println("El precio total es"+preciototal);
-    }         
-    }
+            }         
+        }
     }
 }
