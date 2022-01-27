@@ -1,6 +1,6 @@
 # Algoritmos
 
-Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java.
+Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java (uno de ellos realizado en C++).
 
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
