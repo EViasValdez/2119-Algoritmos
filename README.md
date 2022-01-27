@@ -73,4 +73,15 @@ Areadetriagulo2/build.xml,
 Areadetriagulo2/manifest.mf)
 
 ###### Algoritmos2 - 09/10/19
+(Algoritmos2/build/classes/algoritmos2/Algoritmos2.class, 
+Algoritmos2/nbproject/private/private.properties, 
+Algoritmos2/nbproject/private/private.xml, 
+Algoritmos2/nbproject/build-impl.xml, 
+Algoritmos2/nbproject/genfiles.properties, 
+Algoritmos2/nbproject/project.properties, 
+Algoritmos2/nbproject/project.xml, 
+Algoritmos2/src/algoritmos2/Algoritmos2.java, 
+Algoritmos2/build.xml, 
+Algoritmos2/manifest.mf)
+
 ###### Ciclo, Cambio - 12/10/19
