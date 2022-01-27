@@ -104,7 +104,19 @@ Cambio/build.xml,
 Cambio/manifest.mf)
 
 ###### arreglos, Arreglos2, Salarios - 19/10/2019
+
 ###### Arrays - 06/11/19
+(Arrays/build/classes/arrays/Arrays.class, 
+Arrays/nbproject/private/private.properties, 
+Arrays/nbproject/private/private.xml, 
+Arrays/nbproject/build-impl.xml, 
+Arrays/nbproject/genfiles.properties, 
+Arrays/nbproject/project.properties, 
+Arrays/nbproject/project.xml, 
+Arrays/src/arrays/Arrays.java, 
+Arrays/build.xml, 
+Arrays/manifest.mf)
+
 ###### Ciclos - 08/11/19
 ###### suma, metodosarreglos - 09/11/19
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
