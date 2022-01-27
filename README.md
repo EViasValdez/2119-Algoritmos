@@ -118,6 +118,17 @@ Arrays/build.xml,
 Arrays/manifest.mf)
 
 ###### Ciclos - 08/11/19
+(Ciclos/build/classes/ciclos/Ciclos.class, 
+Ciclos/nbproject/private/private.properties, 
+Ciclos/nbproject/private/private.xml, 
+Ciclos/nbproject/build-impl.xml, 
+Ciclos/nbproject/genfiles.properties, 
+Ciclos/nbproject/project.properties, 
+Ciclos/nbproject/project.xml, 
+Ciclos/src/ciclos/Ciclos.java, 
+Ciclos/build.xml, 
+Ciclos/manifest.mf)
+
 ###### suma, metodosarreglos - 09/11/19
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
 ###### Clases, ArrayAños, Colores - 16/11/19
