@@ -21,21 +21,15 @@ int main(int argc, char *argv[]) {
 			if(calificacion <=0 || calificacion >10)
 			{
 				cout<<"Calificaicon no valida";         
-				
-	
 			}
 			else{
-		if(calificacion <=0 || calificacion >10)
-		{
-			cout<<"Calificaicon no valida";                 
-		} 
-	}
+			if(calificacion <=0 || calificacion >10)
+			{
+				cout<<"Calificaicon no valida";                 
+			} 
+			}
 		}
 	}
-
-
-		
-	
 	getche();
 	return 0;
 }

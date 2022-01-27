@@ -20,39 +20,39 @@ public class Datos_boleanos_2 {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-    //UN TANQUE DE AGUA SE LLENA EN BASE A LO SIGUIENTE:
-    //1.VALVULA 1 ESTA ABIERTA
-    //2.VALVULA 2 ESTA ABIERTA
-    //3.VALVULA 3 ESTA ABIERTA
-    //4.VALVULA 4 ESTA ABERTA
-    //5. LA BOMBA ESTA ABIERTA
-    //6.LA ENERGIA ELECTRICA ESTA APAGADA
-    InputStreamReader isr = new InputStreamReader(System.in);
-    BufferedReader br = new BufferedReader(isr);
-    boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
+        //UN TANQUE DE AGUA SE LLENA EN BASE A LO SIGUIENTE:
+        //1.VALVULA 1 ESTA ABIERTA
+        //2.VALVULA 2 ESTA ABIERTA
+        //3.VALVULA 3 ESTA ABIERTA
+        //4.VALVULA 4 ESTA ABERTA
+        //5. LA BOMBA ESTA ABIERTA
+        //6.LA ENERGIA ELECTRICA ESTA APAGADA
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
+        boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
     
-    System.out.println("Estado de la valvula 1");
-    valvula1 = Boolean.parseBoolean(br.readLine());
+        System.out.println("Estado de la valvula 1");
+        valvula1 = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la valvula 2");
-    valvula2 = Boolean.parseBoolean(br.readLine());
+        System.out.println("Estado de la valvula 2");
+        valvula2 = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la valvula 3");
-    valvula3 = Boolean.parseBoolean(br.readLine());
+        System.out.println("Estado de la valvula 3");
+        valvula3 = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la valvula 4");
-    valvula4 = Boolean.parseBoolean(br.readLine());
+        System.out.println("Estado de la valvula 4");
+        valvula4 = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la bomba");
-    bomba = Boolean.parseBoolean(br.readLine());
+        System.out.println("Estado de la bomba");
+        bomba = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la energiaelectrica");
-    energiaelectrica = Boolean.parseBoolean(br.readLine());
+        System.out.println("Estado de la energiaelectrica");
+        energiaelectrica = Boolean.parseBoolean(br.readLine());
     
-        if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)){
-            System.out.println("Tanque lleno");
-        }else{
-            System.out.println("Tanque vacio");
-        }
+            if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)){
+                System.out.println("Tanque lleno");
+            }else{
+                System.out.println("Tanque vacio");
+            }
     }
 }
