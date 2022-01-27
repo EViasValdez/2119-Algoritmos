@@ -85,3 +85,23 @@ Algoritmos2/build.xml,
 Algoritmos2/manifest.mf)
 
 ###### Ciclo, Cambio - 12/10/19
+(Ciclo/nbproject/private/private.properties, 
+Ciclo/nbproject/private/private.xml, 
+Ciclo/nbproject/build-impl.xml, 
+Ciclo/nbproject/genfiles.properties, 
+Ciclo/nbproject/project.properties, 
+Ciclo/nbproject/project.xml, 
+Ciclo/src/ciclo2/Ciclo2.java, 
+Ciclo/build.xml)
+
+(Cambio/nbproject/private/private.properties, 
+Cambio/nbproject/private/private.xml, 
+Cambio/nbproject/build-impl.xml, 
+Cambio/nbproject/genfiles.properties, 
+Cambio/nbproject/project.properties, 
+Cambio/nbproject/project.xml, 
+Cambio/src/cambio/Cambio.java, 
+Cambio/build.xml, 
+Cambio/manifest.mf)
+
+
