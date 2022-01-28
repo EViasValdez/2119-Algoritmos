@@ -22,18 +22,17 @@ public class Array {
         ArrayList<Integer> nums = new ArrayList<Integer>();
         int n = 0;
         for (int i = 0; i < n; i++){
-        int num = alea.nextInt(2019);
-    
-        while (num > 1950){
-            if (num < 1950){
-                break;    
-            }
-        num = alea.nextInt(2019);
-        }
-        nums.add(num);
+            int num = alea.nextInt(2019);
+            while (num > 1950){
+                if (num < 1950){
+                    break;    
+                }
+                    num = alea.nextInt(2019);
+                }
+                    nums.add(num);
         }
         return = nums;
         }
-        public static ArrayList <Integer> matricula(int s){
-            String letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
+    public static ArrayList <Integer> matricula(int s){
+        String letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
     }

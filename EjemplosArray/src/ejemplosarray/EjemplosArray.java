@@ -19,7 +19,7 @@ public class EjemplosArray {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        // TODO code application logic here
         System.out.println("Esta es la lista de animales disponibles");
         
         Scanner leer = new Scanner (System.in);
@@ -46,6 +46,6 @@ public class EjemplosArray {
         }
         for(int i = 0; i < animales2.size(); i++){
             System.out.println(animales2.get(i));
-        }     
+        }
     }
 }

@@ -20,7 +20,6 @@ public class Aplicacion {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner leer = new Scanner (System.in);
-                
         ArrayList<String> names = new ArrayList<String>();
         
         names.add("Javier");

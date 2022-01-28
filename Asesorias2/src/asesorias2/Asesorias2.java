@@ -25,7 +25,6 @@ public class Asesorias2 {
 
         float precio, descuento = 0, preciototal = 0;     
         System.out.println("Escribe un precio");
-
         precio = Float.parseFloat(br.readLine());
 
             if(precio < 0){

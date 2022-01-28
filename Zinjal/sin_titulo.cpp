@@ -14,18 +14,18 @@ int main(int argc, char *argv[]) {
 	{
 		if(calificacion >=1 && calificacion <8)   
 		{
-			cout<<"Alumno reprobado";                 
+			cout<<"Alumno reprobado";
 		}    
 		else
 		{
 			if(calificacion <=0 || calificacion >10)
 			{
-				cout<<"Calificaicon no valida";         
+				cout<<"Calificaicon no valida";
 			}
 			else{
 			if(calificacion <=0 || calificacion >10)
 			{
-				cout<<"Calificaicon no valida";                 
+				cout<<"Calificaicon no valida";
 			} 
 			}
 		}

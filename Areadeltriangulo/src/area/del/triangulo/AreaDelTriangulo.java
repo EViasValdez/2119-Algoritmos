@@ -17,7 +17,7 @@ public class AreaDelTriangulo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        // TODO code application logic here
         Scanner leer = new Scanner (System.in);
         System.out.println("Ingresar base");
         
@@ -28,6 +28,5 @@ public class AreaDelTriangulo {
         int r;
         r= (n1*n2)/2;
         System.out.println("El resultado del area es"+r);
-        // TODO code application logic here
     }
 }

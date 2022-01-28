@@ -54,6 +54,7 @@ public class Arreglos {
 
         System.out.println("Itroducir calificaiones. Finalizar ocn -1");
         System.out.printf("Alumnno numero %3d, calificaion meida:", ++l);
+        
         float calif = leer.nextFloat();
         while(calif != -1)
         {
@@ -80,7 +81,7 @@ public class Arreglos {
         for(int i=0; i<=11; i++)
         {
             System.out.println("Los meses son: " + Meses[i]);
-          //  Meses[i]=leer.next();     
+            //Meses[i]=leer.next();     
         }
         for(int j=0; j<=6; j++)
         {
@@ -94,23 +95,22 @@ public class Arreglos {
         for(int j=0; j<=6; j++)
         {
             System.out.println("Los meses son: " + Letras2[j]);
-          //  Meses[i]=leer.next();     
+            //Meses[i]=leer.next();     
         }
         //int [] numeros = new int [10];
-        //        int [ ] numeros = {1,2,3,4,5,6,7,8,9,10 } ;
+        //int [ ] numeros = {1,2,3,4,5,6,7,8,9,10 } ;
         //
-        //        int valor = numeros[2];
-        //  System.out.println(numeros[2]);
-        //  System.out.println(valor);
+        //int valor = numeros[2];
+        //System.out.println(numeros[2]);
+        //System.out.println(valor);
         System.out.println(Semana[1]);//for (int i=0; i<=9; i++)
         System.out.println(Letras[1]);
         //{
-        //    //int valor = numeros[2];
-        //   System.out.println("26");
-        ////    System.out.println(numeros[i]);
-        ////    System.out.println(" ");
-        ////    System.out.println(" ");
-        //  
+        //int valor = numeros[2];
+        //System.out.println("26");
+        //System.out.println(numeros[i]);
+        //System.out.println(" ");
+        //System.out.println(" ");
         //}
     }
 }
