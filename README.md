@@ -78,7 +78,6 @@ Algoritmos2/nbproject/project.xml,
 Algoritmos2/src/algoritmos2/Algoritmos2.java, 
 Algoritmos2/build.xml, 
 Algoritmos2/manifest.mf)
-
 ###### Ciclo, Cambio - 12/10/19
 (Ciclo/nbproject/private/private.properties, 
 Ciclo/nbproject/private/private.xml, 
