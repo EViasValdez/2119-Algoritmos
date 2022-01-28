@@ -1,7 +1,6 @@
 # Algoritmos
 
-Documentos de la asignatura de algoritmos, normalmente son archivos de java.
-
+Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java (uno de ellos realizado en C++).
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml, 
@@ -104,4 +103,49 @@ Cambio/src/cambio/Cambio.java,
 Cambio/build.xml, 
 Cambio/manifest.mf)
 
+###### arreglos, Arreglos2, Salarios - 19/10/2019
 
+###### Arrays - 06/11/19
+(Arrays/build/classes/arrays/Arrays.class, 
+Arrays/nbproject/private/private.properties, 
+Arrays/nbproject/private/private.xml, 
+Arrays/nbproject/build-impl.xml, 
+Arrays/nbproject/genfiles.properties, 
+Arrays/nbproject/project.properties, 
+Arrays/nbproject/project.xml, 
+Arrays/src/arrays/Arrays.java, 
+Arrays/build.xml, 
+Arrays/manifest.mf)
+
+###### Ciclos - 08/11/19
+(Ciclos/build/classes/ciclos/Ciclos.class, 
+Ciclos/nbproject/private/private.properties, 
+Ciclos/nbproject/private/private.xml, 
+Ciclos/nbproject/build-impl.xml, 
+Ciclos/nbproject/genfiles.properties, 
+Ciclos/nbproject/project.properties, 
+Ciclos/nbproject/project.xml, 
+Ciclos/src/ciclos/Ciclos.java, 
+Ciclos/build.xml, 
+Ciclos/manifest.mf)
+
+###### suma, metodosarreglos - 09/11/19
+###### EjemplosArray, EjemplosArray2 - 13/11/19
+###### Clases, ArrayAños, Colores - 16/11/19
+
+###### Aplicacion - 25/11/19
+(Aplicacion/build/classes/aplicacion/Aplicacion.class, 
+Aplicacion/nbproject/private/private.properties, 
+Aplicacion/nbproject/private/private.xml, 
+Aplicacion/nbproject/build-impl.xml, 
+Aplicacion/nbproject/genfiles.properties, 
+Aplicacion/nbproject/project.properties, 
+Aplicacion/nbproject/project.xml, 
+Aplicacion/src/aplicacion/Aplicacion.java, 
+Aplicacion/build.xml, 
+Aplicacion/manifest.mf)
+
+###### Asesorias, Asesorias2, AsesoriasArreglos - 29/11/19
+###### PromedioCalificaciones, Edad - 30/11/19
+###### Arreglos3, Menu - 06/12/19
+###### Menu2, Condicion - 07/12/19
