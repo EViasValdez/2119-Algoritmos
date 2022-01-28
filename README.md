@@ -2,6 +2,7 @@
 
 Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java (uno de ellos realizado en C++).
 
+# ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml, 
@@ -27,6 +28,8 @@ Tablasdeverdad/nbproject/project.xml,
 Tablasdeverdad/src/tablasdeverdad/Tablasdeverdad.java, 
 Tablasdeverdad/build.xml, 
 Tablasdeverdad/manifest.mf)
+
+# ● Unidad 2 ●
 ###### Holamundo - 02/10/19
 (Holamundo/build/classes/holamundo/Holamundo.class, 
 Holamundo/build/classes/incio/i.class, 
@@ -95,6 +98,8 @@ Cambio/src/cambio/Cambio.java,
 Cambio/build.xml, 
 Cambio/manifest.mf)
 ###### arreglos, Arreglos2, Salarios - 19/10/2019
+
+# ● Unidad 3 ●
 ###### Arrays - 06/11/19
 (Arrays/build/classes/arrays/Arrays.class, 
 Arrays/nbproject/private/private.properties, 
