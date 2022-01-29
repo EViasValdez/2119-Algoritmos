@@ -122,6 +122,28 @@ Ciclos/src/ciclos/Ciclos.java,
 Ciclos/build.xml, 
 Ciclos/manifest.mf)
 ###### suma, metodosarreglos - 09/11/19
+(suma/build/classes/suma/Suma.class, 
+suma/nbproject/private/private.properties, 
+suma/nbproject/private/private.xml, 
+suma/nbproject/build-impl.xml, 
+suma/nbproject/genfiles.properties, 
+suma/nbproject/project.properties, 
+suma/nbproject/project.xml, 
+suma/src/suma/Suma.java, 
+suma/build.xml, 
+suma/manifest.mf)
+(metodosarreglos/build/classes/metodosarreglos/Metodosarreglos.class, 
+metodosarreglos/build/classes/metodosarreglos/retrun.class, 
+metodosarreglos/nbproject/private/private.properties, 
+metodosarreglos/nbproject/private/private.xml, 
+metodosarreglos/nbproject/build-impl.xml, 
+metodosarreglos/nbproject/genfiles.properties, 
+metodosarreglos/nbproject/project.properties, 
+metodosarreglos/nbproject/project.xml, 
+metodosarreglos/src/metodosarreglos/Metodosarreglos.java, 
+metodosarreglos/src/metodosarreglos/retrun.java, 
+metodosarreglos/build.xml, 
+metodosarreglos/manifest.mf)
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
 ###### Clases, ArrayAños, Colores - 16/11/19
 ###### Aplicacion - 25/11/19
