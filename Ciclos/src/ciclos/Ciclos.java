@@ -43,7 +43,7 @@ public class Ciclos {
             }                
             }
         suma = suma + calificacion[i];    
-    }
+        }
     
         promedio = suma/5;
         System.out.println("El promedio es" + promedio);  

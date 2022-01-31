@@ -25,9 +25,7 @@ public class Ciclo2 {
         //Se declaran 3 variables de tipo entero numero1, suma y contador
         //Las variable suma  se inicializan en cero debido a que
         //suma mostrara el resultado de una operacion 
-
         int numero1, suma = 0, contador;
-
         //La instrucion for indica qeu se comenzara con un ciclo
         // y que las instrucciones que estan detro de las llaves de for
         // son las que se repetiran mientras se cumpla la condicion de contador<=4
@@ -53,7 +51,6 @@ public class Ciclo2 {
         } 
             //Se imprime el resulatdo final de la variable suma
             System.out.println("La suma es:" + suma);
-
             //Esta isntrucion se utiliza para realizar una pausa en la consola y que muestre el mensaje en pantalla
             System.out.println();
         }

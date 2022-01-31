@@ -20,34 +20,33 @@ public class Arrays {
         Boolean[ ] datos = {true, false, true, false, true, false, true, false};
         int [ ] numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
         int num = 0;
-        float calificaciones = 
-        float calificacion = 
+
+        // float calificaciones = 
+        // float calificacion = 
         //True = Grupo A
         //False = Grupo B
-        
         //0 = Hombre
         //1 = Mujer
                 
         System.out.println("Sea bienvenido");
         System.out.println("Asignacion de elementos de alumnos");
         System.out.println("");
-        for(int x = 0; x < 10; x++){
+        for (int x = 0; x < 10; x++){
             num=num+1;
-        System.out.println("Alumno"+num);
+            System.out.println("Alumno"+num);
             String[] nombre;
-        System.out.println("Nombre:"+nombre[x]);
-        if (datos[x]==true){
-            System.out.println("Grupo asignado: A");
-        }else{
-            System.out.println("Grupo asifando: B");
-        }
-            int[] binarios
-        if (binarios[x]==1){
-            System.out.println("Genero: Mujer");
-        }else{
-            System.out.println("Genero: Hombre");
-        
-        }
+            System.out.println("Nombre:"+nombre[x]);
+                if (datos[x]==true){
+                    System.out.println("Grupo asignado: A");
+                }else{
+                    System.out.println("Grupo asifando: B");
+                }
+                int[] binarios
+                if (binarios[x]==1){
+                    System.out.println("Genero: Mujer");
+                }else{
+                    System.out.println("Genero: Hombre");
+                }
             System.out.println("Materias aprovadas"+numero[x]);
             System.out.println("");
         //Calificaciones

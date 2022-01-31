@@ -30,7 +30,7 @@ public class EjemplosArray {
         System.out.println("");
         System.out.println("");
         
-        for(int i = 0; i < animales.length; i++){
+        for (int i = 0; i < animales.length; i++){
             System.out.print(animales [i] + "|");
             animales2.add(animales[i]);
         }
@@ -44,7 +44,7 @@ public class EjemplosArray {
                 animales2.add("d");
             }
         }
-        for(int i = 0; i < animales2.size(); i++){
+        for (int i = 0; i < animales2.size(); i++){
             System.out.println(animales2.get(i));
         }
     }
