@@ -2,13 +2,15 @@
 Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java (uno de ellos realizado en C++).
 
 <!----Aqui van las notas---->
-**Notas: Realize identacion en los archivos para que no se vieran tan juntos.**
+**Notas**
 
-**Corregi algunos errores de algunos textos**
+**- Realize identacion en los archivos para que no se vieran tan juntos.**
 
-**Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones**
+**- Corregi algunos errores de algunos textos**
 
-**Esto todavia es un trabajo en proceso**
+**- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones**
+
+**- Esto todavia es un trabajo en proceso**
 <!----Separador---->
 
 # ● Unidad 1 ●
