@@ -19,8 +19,8 @@ public class Arreglos {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        //int [] numeros;
-        //numeros = new int [10];
+        // int [] numeros;
+        // numeros = new int [10];
         
         Scanner leer = new Scanner(System.in);
         String [] Semana = {"Lunes","Martes"};
@@ -48,8 +48,8 @@ public class Arreglos {
             {
                 System.out.println(m[k] + " ");
             }
-        ArrayList <Float> notas = new ArrayList<>(); //La Clase ArrayList se utiliza para crear arreglos unidimensionales
-        //En este caso se creo un arreglo llamado notas de tipo Flot y no se especifio el tamaño del mimo
+        ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales
+        // En este caso se creo un arreglo llamado notas de tipo Flot y no se especifio el tamaño del mimo
         int l = 0;
 
         System.out.println("Itroducir calificaiones. Finalizar ocn -1");
@@ -73,17 +73,17 @@ public class Arreglos {
             System.out.printf("Nota media del curso: %5.2f" , suma/nalumnos);
             }
         int car;
-            for(int i=0; i<=11; i++)
+            for (int i=0; i<=11; i++)
             {
         System.out.println("Mes de tu nacimiento");
         Meses[i]=leer.next();     
         }
-        for(int i=0; i<=11; i++)
+        for (int i=0; i<=11; i++)
         {
             System.out.println("Los meses son: " + Meses[i]);
             //Meses[i]=leer.next();     
         }
-        for(int j=0; j<=6; j++)
+        for (int j=0; j<=6; j++)
         {
             System.out.println("Dias de la semana");
             car = System.in.read(); //Lee un arreglo de caracteres
@@ -92,7 +92,7 @@ public class Arreglos {
             //Letras2[i]= (char) leer.toString();
             //(int) variable.charAt(1); 
         }
-        for(int j=0; j<=6; j++)
+        for (int j=0; j<=6; j++)
         {
             System.out.println("Los meses son: " + Letras2[j]);
             //Meses[i]=leer.next();     

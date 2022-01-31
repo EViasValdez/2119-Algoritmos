@@ -27,7 +27,7 @@ public class Asesorias2 {
         System.out.println("Escribe un precio");
         precio = Float.parseFloat(br.readLine());
 
-            if(precio < 0){
+            if (precio < 0){
                 System.out.println("Error");
             }else{
             if (precio>=500){

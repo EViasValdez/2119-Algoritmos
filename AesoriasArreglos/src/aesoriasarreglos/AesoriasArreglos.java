@@ -30,7 +30,7 @@ public class AesoriasArreglos {
                 System.out.println("Escribe el apellido");
                 apellidos[i] = leer.next();
             }
-    
+        
         String nombre= "Alicia";
         String apellido= "Ffores";
     

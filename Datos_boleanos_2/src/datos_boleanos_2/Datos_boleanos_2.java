@@ -20,13 +20,13 @@ public class Datos_boleanos_2 {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-        //UN TANQUE DE AGUA SE LLENA EN BASE A LO SIGUIENTE:
-        //1.VALVULA 1 ESTA ABIERTA
-        //2.VALVULA 2 ESTA ABIERTA
-        //3.VALVULA 3 ESTA ABIERTA
-        //4.VALVULA 4 ESTA ABERTA
-        //5. LA BOMBA ESTA ABIERTA
-        //6.LA ENERGIA ELECTRICA ESTA APAGADA
+        // UN TANQUE DE AGUA SE LLENA EN BASE A LO SIGUIENTE:
+        // 1. VALVULA 1 ESTA ABIERTA
+        // 2. VALVULA 2 ESTA ABIERTA
+        // 3. VALVULA 3 ESTA ABIERTA
+        // 4. VALVULA 4 ESTA ABERTA
+        // 5. LA BOMBA ESTA ABIERTA
+        // 6. LA ENERGIA ELECTRICA ESTA APAGADA
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
         boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;

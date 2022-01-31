@@ -32,11 +32,11 @@ public class Colores {
         int blue = 0;       
     
         for (int i = 0; i<100; i++){
-            if(numeros [i] == 1)
+            if (numeros [i] == 1)
             {
                 red++;
             }
-            if(numeros [i] == 2)
+            if (numeros [i] == 2)
             {
                 black++;    
             }

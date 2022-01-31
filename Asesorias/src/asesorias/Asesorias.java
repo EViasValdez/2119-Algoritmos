@@ -27,7 +27,7 @@ public class Asesorias {
         String nombre;
         int categoria;
         
-        for(int i=1; i<=3; i++){
+        for (int i=1; i<=3; i++){
             System.out.println("Escribe el nombre");    
         
             nombre = br.readLine();
