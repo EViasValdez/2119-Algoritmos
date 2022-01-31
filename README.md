@@ -9,11 +9,11 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Realize identacion en los archivos para que no se vieran tan juntos.**
 
-**- Corregi algunos errores de algunos textos**
+**- Corregi algunos errores de algunos textos.**
 
-**- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones**
+**- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones.**
 
-**- Esto todavia es un trabajo en proceso**
+**- Esto todavia es un trabajo en proceso.**
 <!----Separador---->
 
 # ● Unidad 1 ●
