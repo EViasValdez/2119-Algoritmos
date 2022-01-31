@@ -30,7 +30,6 @@ public class Suma {
         System.out.println("Escribe el segundo numero");
         numero2 = Float.parseFloat(br.readLine());
         // suma = numero1 + numero2;
-        
         // System.out.println("La suma es" + suma(numero1,numero2));
         System.out.println("La suma es" + suma(numero1,numero2));
         System.out.println("La resta es" + resta(numero1,numero2));

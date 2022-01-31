@@ -36,7 +36,6 @@ public class PromedioCalificaciones {
             }
             promedio = suma / 4;    
             System.out.println("Promedio es"+promedio);
-        
                 if (promedio >= 6 && promedio <= 7){
                     pagototal = mensualidad - (mensualidad * .10f);
                     System.out.println("El pago total es"+pagototal);
