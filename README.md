@@ -211,3 +211,24 @@ Aplicacion/manifest.mf)
 ###### PromedioCalificaciones, Edad - 30/11/19
 ###### Arreglos3, Menu - 06/12/19
 ###### Menu2, Condicion - 07/12/19
+(Menu2/build/classes/menu2/Menu2.class, 
+Menu2/nbproject/private/private.properties, 
+Menu2/nbproject/private/private.xml, 
+Menu2/nbproject/private/build-impl.xml, 
+Menu2/nbproject/private/genfiles.properties, 
+Menu2/nbproject/private/project.properties, 
+Menu2/nbproject/private/project.xml, 
+Menu2/src/menu2/Menu2.java, 
+Menu2/build.xml, 
+Menu2/manifest.mf)
+<!----Separador---->
+(Condicion/build/classes/condicion/condicion.class, 
+Condicion/nbproject/private/private.properties, 
+Condicion/nbproject/private/private.xml, 
+Condicion/nbproject/private/build-impl.xml, 
+Condicion/nbproject/private/genfiles.properties, 
+Condicion/nbproject/private/project.properties, 
+Condicion/nbproject/private/project.xml, 
+Condicion/src/condicion/condicion.java, 
+Condicion/build.xml, 
+Condicion/manifest.mf)
