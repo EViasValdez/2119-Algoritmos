@@ -17,8 +17,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 # ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
-(datos_boleanos/nbproject/private/private.properties, 
-datos_boleanos/nbproject/private/private.xml, 
+(datos_boleanos/nbproject/private/private.properties
+datos_boleanos/nbproject/private/private.xml
 datos_boleanos/nbproject/build-impl.xml, 
 datos_boleanos/nbproject/genfiles.properties, 
 datos_boleanos/nbproject/project.properties, 
