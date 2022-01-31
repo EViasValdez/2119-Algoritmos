@@ -1,6 +1,7 @@
 # Algoritmos
 Documentos de la asignatura de algoritmos, la mayoria de estos son archvios realizados en java (uno de ellos realizado en C++).
 
+<!----Aqui van las notas---->
 **Notas: Realize identacion en los archivos para que no se vieran tan juntos.**
 
 **Corregi algunos errores de algunos textos**
