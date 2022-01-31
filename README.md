@@ -3,8 +3,7 @@
 Documentos de la asignatura de algoritmos que fue la primera materia donde aprendi (de forma un poco complicada) sobre los entornos de programacion, la mayoria de estos son archvios que fueron realizados usando java (aunque uno de ellos se realizado en C++).
 <!----Separador de la descripcion ---->
 
-
-<!----Aqui van las notas---->
+<!----Notas---->
 **Notas**
 
 **- Realize identacion en los archivos para que no se vieran tan juntos.**
@@ -14,7 +13,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones.**
 
 **- Esto todavia es un trabajo en proceso.**
-<!----Separador---->
+<!----Separador de las notas---->
 
 # ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
@@ -28,9 +27,11 @@ datos_boleanos/src/datos_boleanos/Datos_boleanos.java,
 datos_boleanos/src/java/io/Iception.java, 
 datos_boleanos/build.xml, 
 datos_boleanos/manifest.mf)
+<!----Separador---->
 ###### Datos_boleanos_2 - 21/09/19
 (Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
 Datos_boleanos_2/manifest.mf)
+<!----Separador---->
 ###### Tablasdeverdad - 28/09/19
 (Tablasdeverdad/build/classes/tablasdeverdad/Tablasdeverdad.class, 
 Tablasdeverdad/nbproject/private/private.properties, 
@@ -56,11 +57,14 @@ Holamundo/nbproject/project.properties,
 Holamundo/nbproject/project.xml, 
 Holamundo/build.xml, 
 Holamundo/manifest.mf)
+<!----Separador---->
 ###### Zinjal - 05/10/19
 (Zinjal/sin_titulo.cpp)
+<!----Separador---->
 ###### Algoritmos - 09/10/19
 (Algoritmos/src/algoritmos/Algoritmos.java, 
 Algoritmos/manifest.mf)
+<!----Separador---->
 ###### Areadeltriangulo - 09/10/19
 (Areadeltriangulo/nbproject/private/private.properties, 
 Areadeltriangulo/nbproject/private/private.xml, 
@@ -71,6 +75,7 @@ Areadeltriangulo/nbproject/project.xml,
 Areadeltriangulo/src/area/del/triangulo/AreaDelTriangulo.java, 
 Areadeltriangulo/build.xml, 
 Areadeltriangulo/manifest.mf)
+<!----Separador---->
 ###### Areadetriangulo2 - 09/10/19
 (Areadetriagulo2/nbproject/private/private.properties, 
 Areadetriagulo2/nbproject/private/private.xml, 
@@ -81,6 +86,7 @@ Areadetriagulo2/nbproject/project.xml,
 Areadetriagulo2/src/areadetriagulo2/Areadetriagulo2.java, 
 Areadetriagulo2/build.xml, 
 Areadetriagulo2/manifest.mf)
+<!----Separador---->
 ###### Algoritmos2 - 09/10/19
 (Algoritmos2/build/classes/algoritmos2/Algoritmos2.class, 
 Algoritmos2/nbproject/private/private.properties, 
@@ -92,6 +98,7 @@ Algoritmos2/nbproject/project.xml,
 Algoritmos2/src/algoritmos2/Algoritmos2.java, 
 Algoritmos2/build.xml, 
 Algoritmos2/manifest.mf)
+<!----Separador---->
 ###### Ciclo, Cambio - 12/10/19
 (Ciclo/nbproject/private/private.properties, 
 Ciclo/nbproject/private/private.xml, 
@@ -101,6 +108,7 @@ Ciclo/nbproject/project.properties,
 Ciclo/nbproject/project.xml, 
 Ciclo/src/ciclo2/Ciclo2.java, 
 Ciclo/build.xml)
+<!----Separador---->
 (Cambio/nbproject/private/private.properties, 
 Cambio/nbproject/private/private.xml, 
 Cambio/nbproject/build-impl.xml, 
@@ -110,6 +118,7 @@ Cambio/nbproject/project.xml,
 Cambio/src/cambio/Cambio.java, 
 Cambio/build.xml, 
 Cambio/manifest.mf)
+<!----Separador---->
 ###### arreglos, Arreglos2, Salarios - 19/10/2019
 
 # ● Unidad 3 ●
@@ -124,6 +133,7 @@ Arrays/nbproject/project.xml,
 Arrays/src/arrays/Arrays.java, 
 Arrays/build.xml, 
 Arrays/manifest.mf)
+<!----Separador---->
 ###### Ciclos - 08/11/19
 (Ciclos/build/classes/ciclos/Ciclos.class, 
 Ciclos/nbproject/private/private.properties, 
@@ -135,6 +145,7 @@ Ciclos/nbproject/project.xml,
 Ciclos/src/ciclos/Ciclos.java, 
 Ciclos/build.xml, 
 Ciclos/manifest.mf)
+<!----Separador---->
 ###### suma, metodosarreglos - 09/11/19
 (suma/build/classes/suma/Suma.class, 
 suma/nbproject/private/private.properties, 
@@ -146,6 +157,7 @@ suma/nbproject/project.xml,
 suma/src/suma/Suma.java, 
 suma/build.xml, 
 suma/manifest.mf)
+<!----Separador---->
 (metodosarreglos/build/classes/metodosarreglos/Metodosarreglos.class, 
 metodosarreglos/build/classes/metodosarreglos/retrun.class, 
 metodosarreglos/nbproject/private/private.properties, 
@@ -158,6 +170,7 @@ metodosarreglos/src/metodosarreglos/Metodosarreglos.java,
 metodosarreglos/src/metodosarreglos/retrun.java, 
 metodosarreglos/build.xml, 
 metodosarreglos/manifest.mf)
+<!----Separador---->
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
 (EjemplosArray/build/classes/ejemplosarray/EjemplosArray.class, 
 EjemplosArray/build/built-jar.properties, 
@@ -169,6 +182,7 @@ EjemplosArray/nbproject/project.properties,
 EjemplosArray/nbproject/project.xml, 
 EjemplosArray/build.xml, 
 EjemplosArray/manifest.mf)
+<!----Separador---->
 (EjemplosArray2/build/classes/ejemplosarray2/EjemplosArray2.class, 
 EjemplosArray2/nbproject/private/private.properties, 
 EjemplosArray2/nbproject/private/private.xml, 
@@ -179,6 +193,7 @@ EjemplosArray2/nbproject/project.xml,
 EjemplosArray2/src/ejemplosarray2/EjemplosArray2.java, 
 EjemplosArray2/build.xml, 
 EjemplosArray2/manifest.mf)
+<!----Separador---->
 ###### Clases, ArrayAños, Colores - 16/11/19
 ###### Aplicacion - 25/11/19
 (Aplicacion/build/classes/aplicacion/Aplicacion.class, 
@@ -191,6 +206,7 @@ Aplicacion/nbproject/project.xml,
 Aplicacion/src/aplicacion/Aplicacion.java, 
 Aplicacion/build.xml, 
 Aplicacion/manifest.mf)
+<!----Separador---->
 ###### Asesorias, Asesorias2, AsesoriasArreglos - 29/11/19
 ###### PromedioCalificaciones, Edad - 30/11/19
 ###### Arreglos3, Menu - 06/12/19
