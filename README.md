@@ -145,6 +145,26 @@ metodosarreglos/src/metodosarreglos/retrun.java,
 metodosarreglos/build.xml, 
 metodosarreglos/manifest.mf)
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
+(EjemplosArray/build/classes/ejemplosarray/EjemplosArray.class, 
+EjemplosArray/build/built-jar.properties, 
+EjemplosArray/nbproject/private/private.properties, 
+EjemplosArray/nbproject/private/private.xml, 
+EjemplosArray/nbproject/build-impl.xml, 
+EjemplosArray/nbproject/genfiles.properties, 
+EjemplosArray/nbproject/project.properties, 
+EjemplosArray/nbproject/project.xml, 
+EjemplosArray/build.xml, 
+EjemplosArray/manifest.mf)
+(EjemplosArray2/build/classes/ejemplosarray2/EjemplosArray2.class, 
+EjemplosArray2/nbproject/private/private.properties, 
+EjemplosArray2/nbproject/private/private.xml, 
+EjemplosArray2/nbproject/build-impl.xml, 
+EjemplosArray2/nbproject/genfiles.properties, 
+EjemplosArray2/nbproject/project.properties, 
+EjemplosArray2/nbproject/project.xml, 
+EjemplosArray2/src/ejemplosarray2/EjemplosArray2.java, 
+EjemplosArray2/build.xml, 
+EjemplosArray2/manifest.mf)
 ###### Clases, ArrayAños, Colores - 16/11/19
 ###### Aplicacion - 25/11/19
 (Aplicacion/build/classes/aplicacion/Aplicacion.class, 
