@@ -108,7 +108,7 @@ Ciclo/nbproject/project.properties,
 Ciclo/nbproject/project.xml, 
 Ciclo/src/ciclo2/Ciclo2.java, 
 Ciclo/build.xml)
-<!----Separador---->
+<!--Separador-->
 (Cambio/nbproject/private/private.properties, 
 Cambio/nbproject/private/private.xml, 
 Cambio/nbproject/build-impl.xml, 
@@ -157,7 +157,7 @@ suma/nbproject/project.xml,
 suma/src/suma/Suma.java, 
 suma/build.xml, 
 suma/manifest.mf)
-<!----Separador---->
+<!--Separador-->
 (metodosarreglos/build/classes/metodosarreglos/Metodosarreglos.class, 
 metodosarreglos/build/classes/metodosarreglos/retrun.class, 
 metodosarreglos/nbproject/private/private.properties, 
@@ -182,7 +182,7 @@ EjemplosArray/nbproject/project.properties,
 EjemplosArray/nbproject/project.xml, 
 EjemplosArray/build.xml, 
 EjemplosArray/manifest.mf)
-<!----Separador---->
+<!--Separador-->
 (EjemplosArray2/build/classes/ejemplosarray2/EjemplosArray2.class, 
 EjemplosArray2/nbproject/private/private.properties, 
 EjemplosArray2/nbproject/private/private.xml, 
@@ -210,6 +210,29 @@ Aplicacion/manifest.mf)
 ###### Asesorias, Asesorias2, AsesoriasArreglos - 29/11/19
 ###### PromedioCalificaciones, Edad - 30/11/19
 ###### Arreglos3, Menu - 06/12/19
+(Arreglos3/build/classes/arreglos3/private.properties, 
+Arreglos3/build/classes/arreglos3/private.xml, 
+Arreglos3/nbproject/private/private.properties, 
+Arreglos3/nbproject/private/private.xml, 
+Arreglos3/nbproject/build-impl.xml, 
+Arreglos3/nbproject/genfiles.properties, 
+Arreglos3/nbproject/project.properties, 
+Arreglos3/nbproject/project.xml, 
+Arreglos3/src/arreglos3/Arreglos3.java, 
+Arreglos3/build.xml, 
+Arreglos3/manifest.mf)
+<!--Separador-->
+(Menu/build/classes/menu/Menu.class, 
+Menu/nbproject/private/private.properties, 
+Menu/nbproject/private/private.xml, 
+Menu/nbproject/build-impl.xml, 
+Menu/nbproject/genfiles.properties, 
+Menu/nbproject/project.properties, 
+Menu/nbproject/project.xml, 
+Menu/src/menu/Menu.java, 
+Menu/build.xml, 
+Menu/manifest.mf)
+<!----Separador---->
 ###### Menu2, Condicion - 07/12/19
 (Menu2/build/classes/menu2/Menu2.class, 
 Menu2/nbproject/private/private.properties, 
@@ -221,7 +244,7 @@ Menu2/nbproject/private/project.xml,
 Menu2/src/menu2/Menu2.java, 
 Menu2/build.xml, 
 Menu2/manifest.mf)
-<!----Separador---->
+<!--Separador-->
 (Condicion/build/classes/condicion/condicion.class, 
 Condicion/nbproject/private/private.properties, 
 Condicion/nbproject/private/private.xml, 
