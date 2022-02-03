@@ -209,6 +209,26 @@ Aplicacion/manifest.mf)
 <!----Separador---->
 ###### Asesorias, Asesorias2, AsesoriasArreglos - 29/11/19
 ###### PromedioCalificaciones, Edad - 30/11/19
+(PromedioCalificaciones/build/classes/promediocalificaciones/PromedioCalificaciones.class, 
+PromedioCalificaciones/nbproject/private/private.properties, 
+PromedioCalificaciones/nbproject/private/private.xml, 
+PromedioCalificaciones/nbproject/build-impl.xml, 
+PromedioCalificaciones/nbproject/genfiles.properties, 
+PromedioCalificaciones/nbproject/project.properties, 
+PromedioCalificaciones/nbproject/project.xml, 
+PromedioCalificaciones/build.xml, 
+PromedioCalificaciones/manifest.mf)
+<!--Separador-->
+(Edad/build/classes/edad/Edad.class, 
+Edad/nbproject/private/private.properties, 
+Edad/nbproject/private/private.xml, 
+Edad/nbproject/build-impl.xml, 
+Edad/nbproject/genfiles.properties, 
+Edad/nbproject/project.properties, 
+Edad/nbproject/project.xml, 
+Edad/build.xml, 
+Edad/manifest.mf)
+<!----Separador---->
 ###### Arreglos3, Menu - 06/12/19
 (Arreglos3/build/classes/arreglos3/private.properties, 
 Arreglos3/build/classes/arreglos3/private.xml, 
