@@ -12,7 +12,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones.**
 
-**- Esto todavia es un trabajo en proceso.**
+**- Esta descripcion toadiva es un trabajo en proceso.**
 <!----Separador de las notas---->
 
 # ● Unidad 1 ●
