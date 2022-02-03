@@ -120,7 +120,42 @@ Cambio/build.xml,
 Cambio/manifest.mf)
 <!----Separador---->
 ###### arreglos, Arreglos2, Salarios - 19/10/2019
-
+(arreglos/build/classes/arreglos/Arreglos.class, 
+arreglos/nbproject/private/private.properties, 
+arreglos/nbproject/private/private.xml, 
+arreglos/nbproject/build-impl.xml, 
+arreglos/nbproject/genfiles.properties, 
+arreglos/nbproject/project.properties, 
+arreglos/nbproject/project.xml, 
+arreglos/src/arreglos/Arreglos.java, 
+arreglos/build.xml, 
+arreglos/manifest.mf)
+<!--Separador-->
+(Arreglos2/build/classes/arreglos/Arreglos.class, 
+Arreglos2/build/built-jar.properties, 
+Arreglos2/dist/Arreglos2.jar, 
+Arreglos2/dist/README.TXT, 
+Arreglos2/nbproject/private/private.properties, 
+Arreglos2/nbproject/private/private.xml, 
+Arreglos2/nbproject/build-impl.xml, 
+Arreglos2/nbproject/genfiles.properties, 
+Arreglos2/nbproject/project.properties, 
+Arreglos2/nbproject/project.xml, 
+Arreglos2/src/arreglos/Arreglos.java, 
+Arreglos2/build.xml, 
+Arreglos2/manifest.mf)
+<!--Separador-->
+(Salarios/build/classes/salarios/Salarios.class, 
+Salarios/nbproject/private/private.properties, 
+Salarios/nbproject/private/private.xml, 
+Salarios/nbproject/build-impl.xml, 
+Salarios/nbproject/genfiles.properties, 
+Salarios/nbproject/project.properties, 
+Salarios/nbproject/project.xml, 
+Salarios/src/salarios/Salarios.java, 
+Salarios/build.xml, 
+Salarios/manifest.mf)
+<!----Separador---->
 # ● Unidad 3 ●
 ###### Arrays - 06/11/19
 (Arrays/build/classes/arrays/Arrays.class, 
