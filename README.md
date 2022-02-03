@@ -216,6 +216,7 @@ PromedioCalificaciones/nbproject/build-impl.xml,
 PromedioCalificaciones/nbproject/genfiles.properties, 
 PromedioCalificaciones/nbproject/project.properties, 
 PromedioCalificaciones/nbproject/project.xml, 
+PromedioCalificaciones/src/promediocalificaciones/PromedioCalificaciones.java, 
 PromedioCalificaciones/build.xml, 
 PromedioCalificaciones/manifest.mf)
 <!--Separador-->
@@ -226,6 +227,7 @@ Edad/nbproject/build-impl.xml,
 Edad/nbproject/genfiles.properties, 
 Edad/nbproject/project.properties, 
 Edad/nbproject/project.xml, 
+Edad/src/edad/Edad.java, 
 Edad/build.xml, 
 Edad/manifest.mf)
 <!----Separador---->
