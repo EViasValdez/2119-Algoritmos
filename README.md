@@ -12,6 +12,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones.**
 
+**- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia la cual todavia no puedo recordar el nombre.**
+
 **- Esta descripcion toadiva es un trabajo en proceso.**
 <!----Separador de las notas---->
 
