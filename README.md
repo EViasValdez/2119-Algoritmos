@@ -19,7 +19,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 <!----Lista de directorios y archivos---->
 # Lista de directorios y archivos
-# ● Unidad 1 ●
+## ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml
@@ -48,7 +48,7 @@ Tablasdeverdad/src/tablasdeverdad/Tablasdeverdad.java,
 Tablasdeverdad/build.xml, 
 Tablasdeverdad/manifest.mf)
 <!----Separador---->
-# ● Unidad 2 ●
+## ● Unidad 2 ●
 ###### Holamundo - 02/10/19
 (Holamundo/build/classes/holamundo/Holamundo.class, 
 Holamundo/build/classes/incio/i.class, 
@@ -160,7 +160,7 @@ Salarios/src/salarios/Salarios.java,
 Salarios/build.xml, 
 Salarios/manifest.mf)
 <!----Separador---->
-# ● Unidad 3 ●
+## ● Unidad 3 ●
 ###### Arrays - 06/11/19
 (Arrays/build/classes/arrays/Arrays.class, 
 Arrays/nbproject/private/private.properties, 
