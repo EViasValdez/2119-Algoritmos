@@ -17,6 +17,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Esta descripcion toadiva es un trabajo en proceso.**
 <!----Separador de las notas---->
 
+<!----Lista de directorios y archivos---->
+# Lista de directorios y archivos
 # ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
@@ -45,7 +47,7 @@ Tablasdeverdad/nbproject/project.xml,
 Tablasdeverdad/src/tablasdeverdad/Tablasdeverdad.java, 
 Tablasdeverdad/build.xml, 
 Tablasdeverdad/manifest.mf)
-
+<!----Separador---->
 # ● Unidad 2 ●
 ###### Holamundo - 02/10/19
 (Holamundo/build/classes/holamundo/Holamundo.class, 
@@ -351,3 +353,4 @@ Condicion/nbproject/private/project.xml,
 Condicion/src/condicion/condicion.java, 
 Condicion/build.xml, 
 Condicion/manifest.mf)
+<!----Separador de los directorios y archivos---->
