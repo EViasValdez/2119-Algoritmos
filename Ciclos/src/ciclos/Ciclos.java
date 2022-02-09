@@ -42,7 +42,7 @@ public class Ciclos {
             }
             }                
             }
-        suma = suma + calificacion[i];    
+            suma = suma + calificacion[i];    
         }
     
         promedio = suma/5;

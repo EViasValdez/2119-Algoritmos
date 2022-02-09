@@ -21,7 +21,6 @@ public class Arreglos {
         // TODO code application logic here
         // int [] numeros;
         // numeros = new int [10];
-        
         Scanner leer = new Scanner(System.in);
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
@@ -49,7 +48,7 @@ public class Arreglos {
                 System.out.println(m[k] + " ");
             }
         ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales
-        // En este caso se creo un arreglo llamado notas de tipo Flot y no se especifio el tamaño del mimo
+        // en este caso se creo un arreglo llamado "notas de tipo float" y no se especifio el tamaño del mismo.
         int l = 0;
 
         System.out.println("Itroducir calificaiones. Finalizar ocn -1");
@@ -58,17 +57,17 @@ public class Arreglos {
         float calif = leer.nextFloat();
         while(calif != -1)
         {
-            notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo
-            System.out.printf("Alumno numero %3d, nota mdia: " , ++l); // printf muestra un mensaje en pantalla 
-            // en el cual se especifica el formato de los datos con %d para datos de tipo entero
+            notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
+            System.out.printf("Alumno numero %3d, nota mdia: " , ++l); // "printf" muestra un mensaje en pantalla
+            // en el cual se especifica el formato de los datos con "%d "para datos de tipo entero.
             calif = leer.nextFloat();
         }
-        int nalumnos = notas.size(); // el metodo size obtiene el tamaño del arreglo
+        int nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
         float suma = 0;
             for (l = 0; l<nalumnos; l++)
             {
             suma += notas.get(l); // El metodo get obtiene un elemento del arreglo en este
-            // caso obtiene el dato de la posicion 1 del arreglo 
+            // caso obtiene el dato de la posicion 1 del arreglo.
             System.out.println();
             System.out.printf("Nota media del curso: %5.2f" , suma/nalumnos);
             }
@@ -86,19 +85,19 @@ public class Arreglos {
         for (int j=0; j<=6; j++)
         {
             System.out.println("Dias de la semana");
-            car = System.in.read(); // Lee un arreglo de caracteres
-            System.in.read(); // Lee una linea en blanco 
-        Letras2[j] = (char)car; //Se asigna lo que vaya leyedo en la variable car a el arreglo Letras2
+            car = System.in.read(); // Lee un arreglo de caracteres.
+            System.in.read(); // Lee una linea en blanco.
+        Letras2[j] = (char)car; // Se asigna lo que vaya leyedo en la variable car a el arreglo "Letras2".
             // Letras2[i]= (char) leer.toString();
             // (int) variable.charAt(1); 
         }
         for (int j=0; j<=6; j++)
         {
             System.out.println("Los meses son: " + Letras2[j]);
-            //Meses[i]=leer.next();     
+            // Meses[i]=leer.next();     
         }
         // int [] numeros = new int [10];
-        // int [] numeros = {1,2,3,4,5,6,7,8,9,10 } ;
+        // int [] numeros = {1,2,3,4,5,6,7,8,9,10};
         //
         // int valor = numeros[2];
         // System.out.println(numeros[2]);

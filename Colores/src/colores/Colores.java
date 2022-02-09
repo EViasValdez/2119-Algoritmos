@@ -49,12 +49,12 @@ public class Colores {
                 blue++;    
             }
         }
-    
+
         String rojo [] = new String [red];
         String negro [] = new String [black];
         String blanco [] = new String [white];
         String azul [] = new String [blue];
-    
+
         for (int i = 0; i < 100; i++){
             if (numeros [i] == 1)
             {

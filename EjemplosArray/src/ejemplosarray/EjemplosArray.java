@@ -35,11 +35,11 @@ public class EjemplosArray {
             animales2.add(animales[i]);
         }
         int op = 1;
-        while(op == 1){
+        while (op == 1){
             System.out.println("¿Desea agregar otro animal?");
             op = leer.nextInt();
             
-            if(op == 1){
+            if (op == 1){
                 System.out.println("Ingrese un animal");
                 animales2.add("d");
             }

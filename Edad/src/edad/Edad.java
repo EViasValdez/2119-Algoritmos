@@ -36,7 +36,7 @@ public class Edad {
             System.out.println("Escribe el promedio");
             promedio = Float.parseFloat(br.readLine());
         
-                if (edad == 6 || edad >= 8 && edad <= 10 && promedio >=9 && promedio <=10){
+                if (edad == 6 || edad >= 8 && edad <= 10 && promedio >= 9 && promedio <= 10){
                     System.out.println("Pordras ingresar al futbol");    
                 }else{
                 if (edad >= 8 && edad <= 10 || promedio >= 8 && promedio <= 10){

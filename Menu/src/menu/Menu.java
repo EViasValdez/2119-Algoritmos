@@ -22,8 +22,10 @@ public class Menu {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
+
         float n1, n2, suma = 0, resta = 0, multiplicacion = 0, division = 0;
         int opc;
+
         System.out.println("1.- Suma");
         System.out.println("2.- Resta");
         System.out.println("3.- Multiplicacion");
@@ -39,6 +41,7 @@ public class Menu {
         suma = n1 + n2;
         System.out.println("La suma es:" + suma);
         break;
+
         case 2:
         System.out.println("Escribe el primer numero");
         n1 = Float.parseFloat(br.readLine());
@@ -47,6 +50,7 @@ public class Menu {
         resta = n1 - n2;
         System.out.println("La resta es:" + resta);
         break;
+
         case 3:
         System.out.println("Escribe el primer numero");
         n1 = Float.parseFloat(br.readLine());
@@ -55,6 +59,7 @@ public class Menu {
         multiplicacion = n1 * n2;
         System.out.println("La multiplicacion es" + multiplicacion);
         break;
+
         case 4:
         System.out.println("Escribe el primer numero");
         n1 = Float.parseFloat(br.readLine());
@@ -63,6 +68,7 @@ public class Menu {
         division = n1 / n2;
         System.out.println("La division es" + division);
         break;
+
         default:
         System.out.println("Opcion no valida");
         break;

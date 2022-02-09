@@ -33,7 +33,7 @@ public class AesoriasArreglos {
         
         String nombre= "Alicia";
         String apellido= "Flores";
-    
+
             for (int i = 1; i < 7; i++){
                 if (nombre.equals(nombres[i])){
                     System.out.println("Si esta");
