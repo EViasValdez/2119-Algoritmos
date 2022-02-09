@@ -101,6 +101,7 @@ public class Tablasdeverdad {
             System.out.println("Puede retirar el dinero");
         }else{
         System.out.println("No puede retirar el dinero");
+        break;
       }
     }
   }

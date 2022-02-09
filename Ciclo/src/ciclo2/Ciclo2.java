@@ -34,7 +34,7 @@ public class Ciclo2 {
         // condicion "contador <= 4" que es equivalente a la condicion que se evalua en while
         // y do-while y por ultimo "contador++"" que es equivalente a "contador = contador + 1"
         // como se indicaba en while y do-while.
-        for(contador = 0; contador<=4; contador--)
+        for (contador = 0; contador<=4; contador--)
         {
             // La instruccion "ConsoleWriteLine" se utiliza para enviar mesajes a la consola.
             System.out.println("Ingresa un numero entero positivo:");

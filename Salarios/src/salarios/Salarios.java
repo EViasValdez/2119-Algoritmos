@@ -29,7 +29,7 @@ public class Salarios {
         int k = 0;
 
         System.out.println("Ingresa los valores del arreglo");
-        for ( k = 0; k< nElementos; k++)
+        for (k = 0; k< nElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
             salario[k] = leer.nextDouble();

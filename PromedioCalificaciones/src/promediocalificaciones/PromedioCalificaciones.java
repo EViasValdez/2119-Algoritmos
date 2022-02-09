@@ -29,7 +29,7 @@ public class PromedioCalificaciones {
         System.out.println("¿Cuantos alumnos?");
         cuantos = Integer.parseInt(br.readLine());
         for (int j = 0; j <= cuantos; j++){
-            for (int i = 0; i<=3; i++){
+            for (int i = 0; i <= 3; i++){
                 System.out.println("Calificacion"); 
                 calificacion = Float.parseFloat(br.readLine());
                 suma = suma + calificacion;
@@ -55,6 +55,6 @@ public class PromedioCalificaciones {
                     }        
                     }
                     }
-            }
+        }
     }
 }

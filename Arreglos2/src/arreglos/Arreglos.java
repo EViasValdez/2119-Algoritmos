@@ -52,7 +52,7 @@ public class Arreglos {
         System.out.println("Itroducir calificaiones. Finalizar ocn -1");
         System.out.printf("Alumnno numero %3d, calificaion meida:", ++l);
         float calif = leer.nextFloat();
-        while(calif != -1)
+        while (calif != -1)
         {
             notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota mdia: " , ++l); // "printf" muestra un mensaje en pantalla
@@ -71,17 +71,17 @@ public class Arreglos {
         }
 
         int car;
-        for(int i = 0; i <= 11; i++)
+        for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");
             Meses[i]=leer.next();     
         }
-        for(int i = 0; i <= 11; i++)
+        for (int i = 0; i <= 11; i++)
         {
             System.out.println("Los meses son: " + Meses[i]);
           //  Meses[i]=leer.next();     
         }
-        for(int j = 0; j <= 6; j++)
+        for (int j = 0; j <= 6; j++)
         {
             System.out.println("Dias de la semana");
             car = System.in.read(); // Lee un arreglo de caracteres.
@@ -90,7 +90,7 @@ public class Arreglos {
             // Letras2[i] = (char) leer.toString();
             // (int) variable.charAt(1); 
         }
-        for(int j = 0; j <= 6; j++)
+        for (int j = 0; j <= 6; j++)
         {
             System.out.println("Los meses son: " + Letras2[j]);
           //  Meses[i]=leer.next();     
