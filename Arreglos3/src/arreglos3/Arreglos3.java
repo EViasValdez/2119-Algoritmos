@@ -27,7 +27,7 @@ public class Arreglos3 {
 
         for (int x = 0; x < 10; x++){
             System.out.println("Escribe el precio");
-        precios [x] = Float.parseFloat(br.readLine());
+            precios [x] = Float.parseFloat(br.readLine());
         }
         for (int x = 0; x < 10; x++){
             System.out.println("Los precios son: " + precios [x]);

@@ -28,7 +28,7 @@ public class Ciclos {
         float suma = 0, promedio = 0;
         float calificacion [] = new float [5];
 
-        for (int i = 0; i<calificacion.length; i++){
+        for (int i = 0; i < calificacion.length; i++){
             System.out.println("Escribe la calsificacion");
             calificacion[i]=Float.parseFloat(br.readLine());
             if (calificacion[i]>10 || calificacion[i]<0){

@@ -62,7 +62,7 @@ public class Arreglos {
 
         int nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
         float suma = 0;
-        for (l = 0; l<nalumnos; l++)
+        for (l = 0; l < nalumnos; l++)
         {
             suma += notas.get(l); // El metodo get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posicion 1 del arreglo.

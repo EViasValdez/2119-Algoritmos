@@ -37,13 +37,13 @@ public class Arreglos {
 
         System.out.println("Ingresa los valores del arreglo");
 
-        for ( k = 0; k < nElementos; k++)
+        for (k = 0; k < nElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
             m[k] = leer.nextInt();
         }
         System.out.println();
-        for ( k = 0; k < nElementos; k++)
+        for (k = 0; k < nElementos; k++)
         {
             System.out.println(m[k] + " ");
         }
@@ -55,7 +55,7 @@ public class Arreglos {
         System.out.printf("Alumnno numero %3d, calificaion meida:", ++l);
         
         float calif = leer.nextFloat();
-        while(calif != -1)
+        while (calif != -1)
         {
             notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota mdia: " , ++l); // "printf" muestra un mensaje en pantalla

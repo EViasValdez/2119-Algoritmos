@@ -52,7 +52,7 @@ public class Metodosarreglos {
     }
     private static double menor(double[] numeros) {
         double menor = 0;
-        for (int i = 0; i<numeros.length; i++){
+        for (int i = 0; i < numeros.length; i++){
             if (numeros[1] > menor)
             {
                 menor = numeros[i];
