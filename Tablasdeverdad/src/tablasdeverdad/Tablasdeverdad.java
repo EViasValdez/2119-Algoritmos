@@ -23,13 +23,13 @@ public class Tablasdeverdad {
         1. UNA CASA CUENTA CON SENSORES DE FUEGO EN LAS HABITACIONES, ESTOS SENSORES DE FUEGO EN LAS HABITACIONES
         ESTOS SENSORES SE ACTIVARAN DE ACUERDO A LAS SIGUIENTES CONDICIONES;
         A) SI OCURRE UN INCENDIO EN LAS CASA
-        B) O SI HAY HUMO EN LAS CASA                 
+        B) O SI HAY HUMO EN LAS CASA
         C) EN CASO CONTRARIO NO SE ENCIENDE
         2. EL CLIENTE TENDRA ACCESO A UNA CAJA FUERTE DE VALORES:
         A) CONOCE LA COMBINACION PARA INGRESAR DE 4 DIGITOS
         3. EL CLIENT DE UN BANCO REQUIERE RETIRAR DINERO DE UN CAJERO AUTOMATICO
         A) CONOCE LOS 4 DIGITOS DE SU TARJETA
-        B) TIENE LOS DATOS DEL CLIENTE (Codigo 16 digitos, otro 4 digitos)                    
+        B) TIENE LOS DATOS DEL CLIENTE (Codigo 16 digitos, otro 4 digitos)
     */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here  

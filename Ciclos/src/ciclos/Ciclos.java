@@ -24,7 +24,7 @@ public class Ciclos {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        int aprobaron=0, reprobaron=0, invalida=0;
+        int aprobaron = 0, reprobaron = 0, invalida = 0;
         float suma = 0, promedio = 0;
         float calificacion [] = new float [5];
 
@@ -45,7 +45,7 @@ public class Ciclos {
             suma = suma + calificacion[i];    
         }
     
-        promedio = suma/5;
+        promedio = suma / 5;
         System.out.println("El promedio es" + promedio);  
         System.out.println("Alumnos reprobados" + reprobaron);
         System.out.println("Alumnos aprobados" + aprobaron);

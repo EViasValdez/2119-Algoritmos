@@ -26,7 +26,7 @@ public class AreaDelTriangulo {
         
         int n2= leer.nextInt();
         int r;
-        r = (n1 * n2)/2;
+        r = (n1 * n2) / 2;
         System.out.println("El resultado del area es"+r);
     }
 }

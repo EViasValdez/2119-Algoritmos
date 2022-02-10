@@ -41,7 +41,7 @@ public class Metodosarreglos {
             return suma;
     }
     private static double mayor(double[] numeros) {
-        double mayor=0;
+        double mayor = 0;
         for (int i = 0; i < numeros.length; i++){
             if (numeros[1] > mayor)
             {

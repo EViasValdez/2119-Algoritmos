@@ -37,22 +37,22 @@ public class Suma {
         System.out.println("La disvision es" + resta(numero1,numero2));
     }
     private static float suma(float numero1, float numero2) {
-        float suma=0;
+        float suma = 0;
         suma = numero1 + numero2;
         return suma;      
     }
     private static float resta(float numero1, float numero2) {
-        float resta=0;
+        float resta = 0;
         resta = numero1 - numero2;
         return resta;      
     }
     private static float multiplicacion(float numero1, float numero2) {
-        float multiplicacion=0;
+        float multiplicacion = 0;
         multiplicacion = numero1 * numero2;
         return multiplicacion;      
     }
     private static float division(float numero1, float numero2) {
-        float division=0;
+        float division = 0;
         division = numero1 / numero2;
         return division;      
     }

@@ -36,6 +36,6 @@ public class Salarios {
             suma = suma + salario[k];
         }
         System.out.println("La suma es" + suma);
-        System.out.println("El promedio es" + suma/10);
+        System.out.println("El promedio es" + suma / 10);
     }
 }

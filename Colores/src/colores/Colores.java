@@ -31,7 +31,7 @@ public class Colores {
         int white = 0;
         int blue = 0;       
     
-        for (int i = 0; i<100; i++){
+        for (int i = 0; i < 100; i++){
             if (numeros [i] == 1)
             {
                 red++;
