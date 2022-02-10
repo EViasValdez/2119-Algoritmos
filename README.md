@@ -13,8 +13,6 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones.**
 
 **- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia la cual todavia no puedo recordar el nombre.**
-
-**- Esta descripcion toadiva es un trabajo en proceso.**
 <!----Separador de las notas---->
 
 <!----Lista de directorios y archivos---->
@@ -234,6 +232,38 @@ EjemplosArray2/build.xml,
 EjemplosArray2/manifest.mf)
 <!----Separador---->
 ###### Clases, ArrayAños, Colores - 16/11/19
+(Clases/nbproject/private/private.properties, 
+Clases/nbproject/private/private.xml, 
+Clases/nbproject/build-impl.xml, 
+Clases/nbproject/genfiles.properties, 
+Clases/nbproject/project.properties, 
+Clases/nbproject/project.xml, 
+Clases/src/clases/Clases.java, 
+Clases/build.xml, 
+Clases/manifest.mf)
+<!--Separador-->
+(ArrayAños/build/classes/array/Array.class, 
+ArrayAños/nbproject/private/private.properties, 
+ArrayAños/nbproject/private/private.xml, 
+ArrayAños/nbproject/build-impl.xml, 
+ArrayAños/nbproject/genfiles.properties, 
+ArrayAños/nbproject/project.properties
+ArrayAños/nbproject/project.xml, 
+ArrayAños/src/array/Array.java, 
+ArrayAños/build.xml, 
+ArrayAños/manifest.mf)
+<!--Separador-->
+Colores/build/classes/colores/Colores.class
+Colores/nbproject/private/private.properties
+Colores/nbproject/private/private.xml
+Colores/nbproject/build-impl.xml
+Colores/nbproject/genfiles.properties
+Colores/nbproject/project.properties
+Colores/nbproject/project.xml
+Colores/src/colores/Colores.java
+Colores/build.xml
+Colores/manifest.mf
+<!----Separador---->
 ###### Aplicacion - 25/11/19
 (Aplicacion/build/classes/aplicacion/Aplicacion.class, 
 Aplicacion/nbproject/private/private.properties, 
