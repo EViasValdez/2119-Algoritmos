@@ -34,10 +34,10 @@ public class Ciclos {
             if (calificacion[i]>10 || calificacion[i]<0){
                 invalida++;
             }else{
-            if (calificacion[i]>=7){
+            if (calificacion[i] >= 7){
                 aprobaron++;
             }else{
-            if (calificacion[i]<7){
+            if (calificacion[i] < 7){
                 reprobaron++;
             }
             }                

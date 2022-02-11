@@ -38,19 +38,19 @@ public class PromedioCalificaciones {
             System.out.println("Promedio es"+promedio);
                 if (promedio >= 6 && promedio <= 7){
                     pagototal = mensualidad - (mensualidad * .10f);
-                    System.out.println("El pago total es"+pagototal);
+                    System.out.println("El pago total es" + pagototal);
                 }else{
                 if (promedio >= 7 && promedio <= 8){
                     pagototal = mensualidad - (mensualidad * .10f);
-                    System.out.println("El pago total es"+pagototal); 
+                    System.out.println("El pago total es" + pagototal); 
                 }else{
                 if (promedio >= 8 && promedio <= 9){
                     pagototal = mensualidad - (mensualidad * .10f);
-                    System.out.println("El pago total es"+pagototal);        
+                    System.out.println("El pago total es" + pagototal);        
                 }else{
                 if (promedio >= 9 && promedio <= 10){
                     pagototal = mensualidad - (mensualidad * .10f);
-                    System.out.println("El pago total es"+pagototal);
+                    System.out.println("El pago total es" + pagototal);
                     }
                     }        
                     }

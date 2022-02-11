@@ -35,7 +35,7 @@ public class Asesorias2 {
                 preciototal = precio - descuento;
                 System.out.println("El precio total es"+preciototal);
             }else{
-                descuento = precio*.03f;
+                descuento = precio * .03f;
                 preciototal = precio - descuento;
                 System.out.println("El precio total es"+preciototal);
             }         
