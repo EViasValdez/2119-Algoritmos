@@ -27,7 +27,7 @@ public class EjemplosArray2 {
         }
     }
    public static String getName (String i){
-        String nombre = "Eduardo:"+ i;
+        String nombre = "Eduardo: "+ i;
         return nombre;
    }
 }

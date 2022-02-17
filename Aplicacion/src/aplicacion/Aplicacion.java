@@ -53,9 +53,9 @@ public class Aplicacion {
                 System.out.println("true = si, false = no");
         
                 alumno = leer.nextBoolean(); 
-            if (alumno == false){
-                System.out.println("El programa se cerrara");
-            }
+                if (alumno == false){
+                    System.out.println("El programa se cerrara");
+                }
         }
         }else{
             System.out.println("El programa se cerrara");

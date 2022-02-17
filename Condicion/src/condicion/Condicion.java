@@ -30,11 +30,13 @@ public class Condicion {
         precio = Float.parseFloat(br.readLine());
         System.out.println("¿Cual es la cantidad?");
         cantidad = Integer.parseInt(br.readLine());
-            if (precio >= 5000){
-                System.out.println("Precio muy caro");    
-            }else{
-                System.out.println("Precio muy barato");    
-            }
+
+        if (precio >= 5000){
+            System.out.println("Precio muy caro");    
+        }else{
+            System.out.println("Precio muy barato");    
+        }
+        
         total = precio * cantidad;
         System.out.println("El total es:" + total);
     }

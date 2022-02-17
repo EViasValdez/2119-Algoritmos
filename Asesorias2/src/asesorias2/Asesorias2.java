@@ -31,7 +31,7 @@ public class Asesorias2 {
                 System.out.println("Error");
             }else{
             if (precio >= 500){
-                descuento = precio*.11f;
+                descuento = precio * .11f;
                 preciototal = precio - descuento;
                 System.out.println("El precio total es"+preciototal);
             }else{

@@ -46,7 +46,7 @@ public class Ciclo2 {
             // y cada vez que se entre al ciclo se ira sumando a la variable suma
             // el ultmo valor de "suma" mas el valor de la variable "numero1".
             suma = suma + numero1;      
-        } 
+        }
             // Se imprime el resulatdo final de la variable "suma".
             System.out.println("La suma es:" + suma);
             // Esta instruccion se utiliza para realizar una pausa en la consola y que muestre el mensaje en pantalla.

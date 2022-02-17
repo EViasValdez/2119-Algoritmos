@@ -16,8 +16,8 @@ public class Arrays {
     @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
         // TODO code application logic here
-        String[] objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola","Refrigerador", "Mesa", "Tetera", "Horno"};
-        Boolean[] datos = {true, false, true, false, true, false, true, false};
+        String [] objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola","Refrigerador", "Mesa", "Tetera", "Horno"};
+        Boolean [] datos = {true, false, true, false, true, false, true, false};
         int [] numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
         int num = 0;
 
@@ -32,7 +32,7 @@ public class Arrays {
         System.out.println("Asignacion de elementos de alumnos");
         System.out.println("");
         for (int x = 0; x < 10; x++){
-            num = num+1;
+            num = num + 1;
             System.out.println("Alumno"+num);
             String[] nombre;
             System.out.println("Nombre:"+nombre[x]);

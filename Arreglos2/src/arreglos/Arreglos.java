@@ -93,7 +93,7 @@ public class Arreglos {
         for (int j = 0; j <= 6; j++)
         {
             System.out.println("Los meses son: " + Letras2[j]);
-          //  Meses[i]=leer.next();     
+          //  Meses[i] = leer.next();     
         }
 
         // int [] numeros = new int [10];
@@ -103,7 +103,7 @@ public class Arreglos {
         // System.out.println(numeros[2]);
         // System.out.println(valor);
         System.out.println(Semana[1]);
-        // for (int i=0; i<=9; i++)
+        // for (int i = 0; i <= 9; i++)
         System.out.println(Letras[1]);
         // {
         //     int valor = numeros[2];
