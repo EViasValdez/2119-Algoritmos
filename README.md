@@ -253,16 +253,16 @@ ArrayAños/src/array/Array.java,
 ArrayAños/build.xml, 
 ArrayAños/manifest.mf)
 <!--Separador-->
-Colores/build/classes/colores/Colores.class
-Colores/nbproject/private/private.properties
-Colores/nbproject/private/private.xml
-Colores/nbproject/build-impl.xml
-Colores/nbproject/genfiles.properties
-Colores/nbproject/project.properties
-Colores/nbproject/project.xml
-Colores/src/colores/Colores.java
-Colores/build.xml
-Colores/manifest.mf
+(Colores/build/classes/colores/Colores.class, 
+Colores/nbproject/private/private.properties, 
+Colores/nbproject/private/private.xml, 
+Colores/nbproject/build-impl.xml, 
+Colores/nbproject/genfiles.properties, 
+Colores/nbproject/project.properties, 
+Colores/nbproject/project.xml, 
+Colores/src/colores/Colores.java, 
+Colores/build.xml, 
+Colores/manifest.mf)
 <!----Separador---->
 ###### Aplicacion - 25/11/19
 (Aplicacion/build/classes/aplicacion/Aplicacion.class, 
