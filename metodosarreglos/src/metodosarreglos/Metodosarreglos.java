@@ -29,6 +29,7 @@ public class Metodosarreglos {
             System.out.println("Escribir un numero");
             numeros[i] = Double.parseDouble(br.readLine());
         }
+
         System.out.println("La suma es"+ sumar (numeros));
         System.out.println("El mayor es"+ mayor (numeros));
         System.out.println("El menor es"+ menor (numeros));
@@ -38,7 +39,8 @@ public class Metodosarreglos {
         for (int i = 0; i < numeros.length; i++){
             suma = suma + numeros [i];
         }
-            return suma;
+
+        return suma;
     }
     private static double mayor(double[] numeros) {
         double mayor = 0;
@@ -48,6 +50,7 @@ public class Metodosarreglos {
                 mayor = numeros[i];
             }
         }
+
         return mayor;
     }
     private static double menor(double[] numeros) {
@@ -58,6 +61,7 @@ public class Metodosarreglos {
                 menor = numeros[i];
             }
         }
+        
         return menor;
     }
 }

@@ -44,8 +44,10 @@ public class Tablasdeverdad {
         System.out.println("2. Problema sensores");
         System.out.println("3. Problema caja fuerte");
         System.out.println("4. Problema cajero automatico");
+        
         System.out.println("Elige una opcion");
         opcion = Integer.parseInt(br.readLine());
+
         switch (opcion){
         case 1:
         System.out.println("Estado de la ventana 1");
@@ -53,7 +55,8 @@ public class Tablasdeverdad {
         System.out.println("Estado de la ventana 2");
         ventana2 = Boolean.parseBoolean(br.readLine());
         System.out.println("Estado de la puerta");
-            puerta = Boolean.parseBoolean(br.readLine());
+        puerta = Boolean.parseBoolean(br.readLine());
+
         if (ventana1 == true || ventana2 == true || puerta == true){
             System.out.println("La alarma se activa");
         }else{
@@ -81,6 +84,7 @@ public class Tablasdeverdad {
         digito3 = Boolean.parseBoolean(br.readLine());
         System.out.println("Cuarto digito");
         digito4 = Boolean.parseBoolean(br.readLine());
+
         if (digito1 == true || digito2 == true || digito3 == true || digito3 == true){
             System.out.println("La caja se abre");
         }else{
@@ -97,6 +101,7 @@ public class Tablasdeverdad {
         digit3 = Boolean.parseBoolean(br.readLine());
         System.out.println("Cuarto digito");
         digit4 = Boolean.parseBoolean(br.readLine());
+
         if (digit1 == true || digit2 == true || digit3 == true){
             System.out.println("Puede retirar el dinero");
         }else{

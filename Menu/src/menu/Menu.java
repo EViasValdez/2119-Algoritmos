@@ -32,6 +32,7 @@ public class Menu {
         System.out.println("4.- Division");
         System.out.println("Elige una opcion");
         opc = Integer.parseInt(br.readLine());
+        
         switch(opc){
         case 1:
         System.out.println("Escribe el primer numero");

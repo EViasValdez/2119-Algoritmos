@@ -52,7 +52,8 @@ public class Aplicacion {
                 System.out.println("¿Desea agregar a alguien mas?");
                 System.out.println("true = si, false = no");
         
-                alumno = leer.nextBoolean(); 
+                alumno = leer.nextBoolean();
+                
                 if (alumno == false){
                     System.out.println("El programa se cerrara");
                 }

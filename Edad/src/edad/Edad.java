@@ -26,6 +26,7 @@ public class Edad {
         float edad, numeroniños, promedio;
         
         int cuantos;
+        
         System.out.println("¿Cuantos niños?");
         cuantos = Integer.parseInt(br.readLine());
 
@@ -36,18 +37,18 @@ public class Edad {
             System.out.println("Escribe el promedio");
             promedio = Float.parseFloat(br.readLine());
         
-                if (edad == 6 || edad >= 8 && edad <= 10 && promedio >= 9 && promedio <= 10){
-                    System.out.println("Pordras ingresar al futbol");    
-                }else{
-                if (edad >= 8 && edad <= 10 || promedio >= 8 && promedio <= 10){
-                    System.out.println("Podras ingresar al basquetbol");    
-                }else{
-                if (edad >= 6 && edad <= 10 || promedio == 10){
-                    System.out.println("Podras ingesas al deporte que quieras");        
-                }else{
-                if (edad >= 6 && edad <= 10 || promedio == 7){     
-                    System.out.println("");    
-                }
+            if (edad == 6 || edad >= 8 && edad <= 10 && promedio >= 9 && promedio <= 10){
+                System.out.println("Pordras ingresar al futbol");    
+            }else{
+            if (edad >= 8 && edad <= 10 || promedio >= 8 && promedio <= 10){
+                System.out.println("Podras ingresar al basquetbol");    
+            }else{
+            if (edad >= 6 && edad <= 10 || promedio == 10){
+                System.out.println("Podras ingesas al deporte que quieras");        
+            }else{
+            if (edad >= 6 && edad <= 10 || promedio == 7){     
+                System.out.println("");    
+            }
                 }
                 }
                 }

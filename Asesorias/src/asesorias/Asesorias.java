@@ -28,28 +28,28 @@ public class Asesorias {
         int categoria;
         
         for (int i = 1; i <= 3; i++){
-            System.out.println("Escribe el nombre");    
-        
+            System.out.println("Escribe el nombre");
             nombre = br.readLine();
             System.out.println("Escribe el salario");
             salario = Float.parseFloat(br.readLine());
             System.out.println("Escribe la categoria");
             categoria = Integer.parseInt(br.readLine());
+
             switch (categoria){
-            
-            case 1:        
+            case 1:
             totalsalario = salario * 15;
             System.out.println("Total salario es:"+totalsalario);
             break;
             
-            case 2:        
+            case 2:
             totalsalario = salario * 0.10f;
             System.out.println("Total salario es:"+totalsalario);
-            break;    
+            break;
         
             case 3:
             totalsalario = salario;
-            break; 
+            break;
+            
             }
         }
     }

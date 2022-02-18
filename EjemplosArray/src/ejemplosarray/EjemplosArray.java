@@ -25,6 +25,7 @@ public class EjemplosArray {
         Scanner leer = new Scanner (System.in);
         Random alea = new Random();
         String animales [] = {"Pez", "Caballo", "Mapàche", "Gato", "Oso"};
+        
         ArrayList<String> animales2 = new ArrayList<String>();
         
         System.out.println("");

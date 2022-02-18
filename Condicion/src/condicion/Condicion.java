@@ -32,9 +32,9 @@ public class Condicion {
         cantidad = Integer.parseInt(br.readLine());
 
         if (precio >= 5000){
-            System.out.println("Precio muy caro");    
+            System.out.println("Precio muy caro");
         }else{
-            System.out.println("Precio muy barato");    
+            System.out.println("Precio muy barato");
         }
         
         total = precio * cantidad;

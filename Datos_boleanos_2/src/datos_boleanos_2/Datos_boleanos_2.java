@@ -46,13 +46,13 @@ public class Datos_boleanos_2 {
         System.out.println("Estado de la bomba");
         bomba = Boolean.parseBoolean(br.readLine());
     
-        System.out.println("Estado de la energiaelectrica");
+        System.out.println("Estado de la energia electrica");
         energiaelectrica = Boolean.parseBoolean(br.readLine());
     
-            if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)){
-                System.out.println("Tanque lleno");
-            }else{
-                System.out.println("Tanque vacio");
-            }
+        if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)){
+            System.out.println("Tanque lleno");
+        }else{
+            System.out.println("Tanque vacio");
+        }
     }
 }

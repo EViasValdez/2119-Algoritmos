@@ -32,8 +32,8 @@ public class Salarios {
         for (k = 0; k < nElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
-            salario[k] = leer.nextDouble();
-            suma = suma + salario[k];
+            salario [k] = leer.nextDouble();
+            suma = suma + salario [k];
         }
         System.out.println("La suma es" + suma);
         System.out.println("El promedio es" + suma / 10);

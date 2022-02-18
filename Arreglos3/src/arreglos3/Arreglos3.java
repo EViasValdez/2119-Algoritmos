@@ -55,19 +55,19 @@ public class Arreglos3 {
             }
             }
         }
-    float mayor = precios [0];
+        float mayor = precios [0];
         for (int x = 0; x < 10; x++){
             if (precios [x] > mayor){
                 mayor = precios [x];    
-        }    
-    }
-    System.out.println("El mayor es:" + mayor);
-    float menor = precios [0];
+            }    
+        }
+        System.out.println("El mayor es:" + mayor);
+        float menor = precios [0];
         for (int x = 0; x < 10; x++){
             if (precios [x] < menor){
                 menor = precios [x];    
+            }
         }
-    }
-    System.out.println("El menor es:" + menor);
+        System.out.println("El menor es:" + menor);
     }
 }
