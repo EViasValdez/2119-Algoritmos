@@ -16,8 +16,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 <!----Separador de las notas---->
 
 <!----Lista de directorios y archivos---->
-# Lista de directorios y archivos
-## ● Unidad 1 ●
+<!----Directorio de archivos---->
+# Directorio de archivos
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml
