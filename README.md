@@ -15,9 +15,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia la cual todavia no puedo recordar el nombre.**
 <!----Separador de las notas---->
 
-<!----Lista de directorios y archivos---->
-<!----Directorio de archivos---->
-# Directorio de archivos
+<!----Directorio con ubicacion de archivos---->
+# Directorio con ubicacion de archivos
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml
@@ -383,4 +382,4 @@ Condicion/nbproject/private/project.xml,
 Condicion/src/condicion/condicion.java, 
 Condicion/build.xml, 
 Condicion/manifest.mf)
-<!----Separador de los directorios y archivos---->
+<!----Separador del direrctorio con ubicacion de archivos---->
