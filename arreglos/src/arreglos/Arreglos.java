@@ -39,7 +39,7 @@ public class Arreglos {
 
         for (k = 0; k < nElementos; k++)
         {
-            System.out.print("m[" + k + "] = ");
+            System.out.print("m [" + k + "] = ");
             m [k] = leer.nextInt();
         }
         System.out.println();
@@ -47,7 +47,7 @@ public class Arreglos {
         {
             System.out.println(m [k] + " ");
         }
-        ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales
+        ArrayList <Float> notas = new ArrayList <>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales
         // en este caso se creo un arreglo llamado "notas de tipo float" y no se especifio el tamaño del mismo.
         int l = 0;
 

@@ -39,7 +39,6 @@ public class Metodosarreglos {
         for (int i = 0; i < numeros.length; i++){
             suma = suma + numeros [i];
         }
-
         return suma;
     }
     private static double mayor(double [] numeros) {
@@ -50,7 +49,6 @@ public class Metodosarreglos {
                 mayor = numeros [i];
             }
         }
-
         return mayor;
     }
     private static double menor(double [] numeros) {
@@ -61,7 +59,6 @@ public class Metodosarreglos {
                 menor = numeros [i];
             }
         }
-        
         return menor;
     }
 }

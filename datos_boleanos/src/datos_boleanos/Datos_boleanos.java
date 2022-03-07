@@ -28,7 +28,7 @@ public class Datos_boleanos {
     System.out.println("Esta encendido el foco");
     contacto = Boolean.parseBoolean(br.readLine());
 
-    if (contacto == true) {
+    if (contacto == true){
         System.out.println("El foco esta encendido" + contacto);
     }
 

@@ -21,7 +21,7 @@ public class PromedioCalificaciones {
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader(isr);
+        BufferedReader br = new BufferedReader (isr);
         
         float calificacion, promedio, porcentaje, pagototal, mensualidad = 2000, suma = 0;
         int cuantos;

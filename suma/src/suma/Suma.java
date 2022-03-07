@@ -25,35 +25,36 @@ public class Suma {
         BufferedReader br = new BufferedReader (isr);
         
         float suma, numero1, numero2;
+
         System.out.println("Escribe el primer numero");
         numero1 = Float.parseFloat(br.readLine());
         System.out.println("Escribe el segundo numero");
         numero2 = Float.parseFloat(br.readLine());
         // suma = numero1 + numero2;
         // System.out.println("La suma es" + suma(numero1,numero2));
-        System.out.println("La suma es" + suma(numero1,numero2));
-        System.out.println("La resta es" + resta(numero1,numero2));
-        System.out.println("La mutliplicacion es" + resta(numero1,numero2));
-        System.out.println("La disvision es" + resta(numero1,numero2));
+        System.out.println("La suma es" + suma (numero1,numero2));
+        System.out.println("La resta es" + resta (numero1,numero2));
+        System.out.println("La mutliplicacion es" + resta (numero1,numero2));
+        System.out.println("La disvision es" + resta (numero1,numero2));
     }
     private static float suma(float numero1, float numero2) {
         float suma = 0;
         suma = numero1 + numero2;
-        return suma;      
+        return suma;
     }
     private static float resta(float numero1, float numero2) {
         float resta = 0;
         resta = numero1 - numero2;
-        return resta;      
+        return resta;
     }
     private static float multiplicacion(float numero1, float numero2) {
         float multiplicacion = 0;
         multiplicacion = numero1 * numero2;
-        return multiplicacion;      
+        return multiplicacion;
     }
     private static float division(float numero1, float numero2) {
         float division = 0;
         division = numero1 / numero2;
-        return division;      
+        return division;
     }
 }

@@ -46,8 +46,10 @@ public class Aplicacion {
         if (alumno == true){
             while (alumno == true){
                 System.out.println("Ingrese nombre");
+                
                 String nombre = leer.next();
                 names.add(nombre);
+
                 System.out.println(names);
                 System.out.println("¿Desea agregar a alguien mas?");
                 System.out.println("true = si, false = no");
