@@ -33,9 +33,10 @@ public class EjemplosArray {
         
         for (int i = 0; i < animales.length; i++){
             System.out.print(animales [i] + "|");
-            animales2.add(animales[i]);
+            animales2.add(animales [i]);
         }
         int op = 1;
+        
         while (op == 1){
             System.out.println("¿Desea agregar otro animal?");
             op = leer.nextInt();

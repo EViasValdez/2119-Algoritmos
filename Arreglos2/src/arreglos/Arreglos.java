@@ -37,25 +37,25 @@ public class Arreglos {
         for (k = 0; k < nElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
-            m[k] = leer.nextInt();
+            m [k] = leer.nextInt();
         }
         System.out.println();
 
         for (k = 0; k < nElementos; k++)
         {
-            System.out.println(m[k] + " ");
+            System.out.println(m [k] + " ");
         }
 
         ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales.
         // En este caso se creo un arreglo llamado "notas de tipo float" y no se especifico el tamaño del mismo.
         int l = 0;
-        System.out.println("Itroducir calificaiones. Finalizar ocn -1");
-        System.out.printf("Alumnno numero %3d, calificaion meida:", ++l);
+        System.out.println("Itroducir calificaiones. Finalizar con -1");
+        System.out.printf("Alumnno numero %3d, calificaion media:", ++l);
         float calif = leer.nextFloat();
         while (calif != -1)
         {
             notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
-            System.out.printf("Alumno numero %3d, nota mdia: " , ++l); // "printf" muestra un mensaje en pantalla
+            System.out.printf("Alumno numero %3d, nota media: " , ++l); // "printf" muestra un mensaje en pantalla
             // en el cual se especifica el formato de los datos con %d para datos de tipo entero.
             calif = leer.nextFloat();
         }
@@ -67,7 +67,7 @@ public class Arreglos {
             suma += notas.get(l); // El metodo get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posicion 1 del arreglo.
             System.out.println();
-            System.out.printf("Nota media del curso: %5.2f" , suma/nalumnos);
+            System.out.printf("Nota media del curso: %5.2f" , suma / nalumnos);
         }
 
         int car;
@@ -78,7 +78,7 @@ public class Arreglos {
         }
         for (int i = 0; i <= 11; i++)
         {
-            System.out.println("Los meses son: " + Meses[i]);
+            System.out.println("Los meses son: " + Meses [i]);
           //  Meses [i] = leer.next();     
         }
         for (int j = 0; j <= 6; j++)

@@ -27,7 +27,7 @@ public class Metodosarreglos {
         double numeros [] = new double [4];
         for (int i = 0; i < numeros.length; i++){
             System.out.println("Escribir un numero");
-            numeros[i] = Double.parseDouble(br.readLine());
+            numeros [i] = Double.parseDouble(br.readLine());
         }
 
         System.out.println("La suma es"+ sumar (numeros));
@@ -45,9 +45,9 @@ public class Metodosarreglos {
     private static double mayor(double[] numeros) {
         double mayor = 0;
         for (int i = 0; i < numeros.length; i++){
-            if (numeros[1] > mayor)
+            if (numeros [1] > mayor)
             {
-                mayor = numeros[i];
+                mayor = numeros [i];
             }
         }
 
@@ -56,9 +56,9 @@ public class Metodosarreglos {
     private static double menor(double[] numeros) {
         double menor = 0;
         for (int i = 0; i < numeros.length; i++){
-            if (numeros[1] > menor)
+            if (numeros [1] > menor)
             {
-                menor = numeros[i];
+                menor = numeros [i];
             }
         }
         

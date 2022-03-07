@@ -58,7 +58,7 @@ public class Colores {
         for (int i = 0; i < 100; i++){
             if (numeros [i] == 1)
             {
-                rojo[red] = "rojo";
+                rojo [red] = "rojo";
                 red++;
             }
             if (numeros [i] == 2)

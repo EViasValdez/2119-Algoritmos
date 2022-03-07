@@ -34,15 +34,15 @@ public class Arrays {
         for (int x = 0; x < 10; x++){
             num = num + 1;
             System.out.println("Alumno" + num);
-            String[] nombre;
+            String [] nombre;
             System.out.println("Nombre:" + nombre[x]);
-            if (datos[x] == true){
+            if (datos [x] == true){
                 System.out.println("Grupo asignado: A");
             }else{
                 System.out.println("Grupo asifando: B");
             }
-            int[] binarios
-            if (binarios[x] == 1){
+            int [] binarios
+            if (binarios [x] == 1){
                 System.out.println("Genero: Mujer");
             }else{
                 System.out.println("Genero: Hombre");

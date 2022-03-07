@@ -24,11 +24,11 @@ public class AesoriasArreglos {
     
         for (int i = 1; i <= 7; i++){
             System.out.println("Escribe el nombre");
-            nombres[i] = leer.next();
+            nombres [i] = leer.next();
         }
         for (int i = 1; i <= 5; i++){
             System.out.println("Escribe el apellido");
-            apellidos[i] = leer.next();
+            apellidos [i] = leer.next();
         }
         
         String nombre = "Alicia";
