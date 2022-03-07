@@ -20,7 +20,7 @@ public class Arreglos {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        Scanner leer = new Scanner(System.in);
+        Scanner leer = new Scanner (System.in);
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
 

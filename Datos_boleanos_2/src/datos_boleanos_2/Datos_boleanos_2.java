@@ -27,8 +27,8 @@ public class Datos_boleanos_2 {
         // 4. VALVULA 4 ESTA ABERTA
         // 5. LA BOMBA ESTA ABIERTA
         // 6. LA ENERGIA ELECTRICA ESTA APAGADA
-        InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(isr);
+        InputStreamReader isr = new InputStreamReader (System.in);
+        BufferedReader br = new BufferedReader (isr);
         boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
     
         System.out.println("Estado de la valvula 1");

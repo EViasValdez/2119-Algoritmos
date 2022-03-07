@@ -33,6 +33,6 @@ public class Clases {
         
         a = ran.nextInt(49);
         b = ran.nextInt(49);
-        c = nom [b] + " " + ape [d];    
+        c = nom [b] + " " + ape [d];
     }
 }

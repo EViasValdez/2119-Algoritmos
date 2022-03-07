@@ -19,8 +19,8 @@ public class Cambio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(isr);
+        InputStreamReader isr = new InputStreamReader (System.in);
+        BufferedReader br = new BufferedReader (isr);
     
         int numero1, suma = 0, contador;
     }

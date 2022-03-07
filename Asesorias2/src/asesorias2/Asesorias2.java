@@ -20,8 +20,8 @@ public class Asesorias2 {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(isr);    
+        InputStreamReader isr = new InputStreamReader (System.in);
+        BufferedReader br = new BufferedReader (isr);    
 
         float precio, descuento = 0, preciototal = 0;     
         System.out.println("Escribe un precio");
@@ -34,11 +34,11 @@ public class Asesorias2 {
         if (precio >= 500){
             descuento = precio * .11f;
             preciototal = precio - descuento;
-            System.out.println("El precio total es"+preciototal);
+            System.out.println("El precio total es" + preciototal);
         }else{
             descuento = precio * .03f;
             preciototal = precio - descuento;
-            System.out.println("El precio total es"+preciototal);
+            System.out.println("El precio total es" + preciototal);
         }         
         }
     }

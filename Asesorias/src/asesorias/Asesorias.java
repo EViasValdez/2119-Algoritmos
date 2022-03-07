@@ -20,8 +20,8 @@ public class Asesorias {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(isr);
+        InputStreamReader isr = new InputStreamReader (System.in);
+        BufferedReader br = new BufferedReader (isr);
         
         float salario, totalsalario = 0;
         String nombre;
@@ -38,12 +38,12 @@ public class Asesorias {
             switch (categoria){
             case 1:
             totalsalario = salario * 15;
-            System.out.println("Total salario es:"+totalsalario);
+            System.out.println("Total salario es:" + totalsalario);
             break;
             
             case 2:
             totalsalario = salario * 0.10f;
-            System.out.println("Total salario es:"+totalsalario);
+            System.out.println("Total salario es:" + totalsalario);
             break;
         
             case 3:

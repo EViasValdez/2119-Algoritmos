@@ -18,7 +18,7 @@ public class Algoritmos2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner leer = new Scanner(System.in);
+        Scanner leer = new Scanner (System.in);
         
         System.out.println("Numero");
         int n1 = leer.nextInt();

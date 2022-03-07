@@ -20,8 +20,8 @@ public class Datos_boleanos {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-    InputStreamReader isr = new InputStreamReader(System.in);
-    BufferedReader br = new BufferedReader(isr);
+    InputStreamReader isr = new InputStreamReader (System.in);
+    BufferedReader br = new BufferedReader (isr);
 
     boolean contacto, ventana1, ventana2, puerta;
     

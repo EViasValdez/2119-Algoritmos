@@ -105,7 +105,7 @@ public class Tablasdeverdad {
         if (digit1 == true || digit2 == true || digit3 == true){
             System.out.println("Puede retirar el dinero");
         }else{
-        System.out.println("No puede retirar el dinero");
+            System.out.println("No puede retirar el dinero");
         break;
       }
     }

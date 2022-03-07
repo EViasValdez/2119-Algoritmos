@@ -18,7 +18,7 @@ public class Salarios {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner leer = new Scanner(System.in);
+        Scanner leer = new Scanner (System.in);
         
         int nElementos;
         System.out.println("Numero de elementos del arreglo");

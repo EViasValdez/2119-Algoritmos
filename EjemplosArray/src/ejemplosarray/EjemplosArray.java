@@ -23,10 +23,10 @@ public class EjemplosArray {
         System.out.println("Esta es la lista de animales disponibles");
         
         Scanner leer = new Scanner (System.in);
-        Random alea = new Random();
-        String animales [] = {"Pez", "Caballo", "Mapàche", "Gato", "Oso"};
+        Random alea = new Random ();
+        String animales [] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
         
-        ArrayList<String> animales2 = new ArrayList<String>();
+        ArrayList <String> animales2 = new ArrayList <String>();
         
         System.out.println("");
         System.out.println("");
