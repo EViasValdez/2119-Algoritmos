@@ -52,7 +52,7 @@ public class Arreglos {
         // en este caso se creo un arreglo llamado "notas de tipo float" y no se especifio el tamaño del mismo.
         int l = 0;
 
-        System.out.println("Itroducir calificaiones. Finalizar con -1");
+        System.out.println("Introducir calificaiones, finalizar con -1");
         System.out.printf("Alumnno numero %3d, calificaion media:", ++l);
 
         float calif = leer.nextFloat();

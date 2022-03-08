@@ -35,6 +35,7 @@ public class EjemplosArray {
             System.out.print(animales [i] + "|");
             animales2.add(animales [i]);
         }
+        
         int op = 1;
         
         while (op == 1){

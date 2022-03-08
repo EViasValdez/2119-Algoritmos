@@ -35,21 +35,21 @@ public class Asesorias {
             System.out.println("Escribe la categoria");
             categoria = Integer.parseInt(br.readLine());
 
-        switch (categoria){
-        case 1:
-            totalsalario = salario * 15;
-            System.out.println("Total salario es:" + totalsalario);
-        break;
+            switch (categoria){
+            case 1:
+                totalsalario = salario * 15;
+                System.out.println("Total salario es:" + totalsalario);
+            break;
 
-        case 2:
-            totalsalario = salario * 0.10f;
-            System.out.println("Total salario es:" + totalsalario);
-        break;
+            case 2:
+                totalsalario = salario * 0.10f;
+                System.out.println("Total salario es:" + totalsalario);
+            break;
 
-        case 3:
-            totalsalario = salario;
-        break;
-            
+            case 3:
+                totalsalario = salario;
+            break;
+
             }
         }
     }
