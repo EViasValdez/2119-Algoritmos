@@ -49,7 +49,7 @@ public class Arreglos {
         ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales.
         // En este caso se creo un arreglo llamado "notas de tipo float" y no se especifico el tamaño del mismo.
         int l = 0;
-        System.out.println("Itroducir calificaiones. Finalizar con -1");
+        System.out.println("Introducir calificaiones, finalizar con -1");
         System.out.printf("Alumnno numero %3d, calificaion media:", ++l);
         float calif = leer.nextFloat();
         while (calif != -1)
@@ -79,7 +79,7 @@ public class Arreglos {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Los meses son: " + Meses [i]);
-          //  Meses [i] = leer.next();     
+          // Meses [i] = leer.next();
         }
         for (int j = 0; j <= 6; j++)
         {
@@ -88,12 +88,12 @@ public class Arreglos {
             System.in.read(); // Lee una linea en blanco.
             Letras2 [j] = (char)car; // Se asigna lo que vaya leyedo en la variable car a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
-            // (int) variable.charAt(1); 
+            // (int) variable.charAt(1);
         }
         for (int j = 0; j <= 6; j++)
         {
             System.out.println("Los meses son: " + Letras2 [j]);
-          //  Meses [i] = leer.next();     
+          //  Meses [i] = leer.next();
         }
 
         // int [] numeros = new int [10];
@@ -110,7 +110,7 @@ public class Arreglos {
         //     System.out.println("26");
         //     System.out.println(numeros [i]);
         //     System.out.println(" ");
-        //     System.out.println(" ");  
+        //     System.out.println(" ");
         // }
     }
 }

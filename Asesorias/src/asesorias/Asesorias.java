@@ -26,7 +26,7 @@ public class Asesorias {
         float salario, totalsalario = 0;
         String nombre;
         int categoria;
-        
+
         for (int i = 1; i <= 3; i++){
             System.out.println("Escribe el nombre");
             nombre = br.readLine();
@@ -40,12 +40,12 @@ public class Asesorias {
             totalsalario = salario * 15;
             System.out.println("Total salario es:" + totalsalario);
             break;
-            
+
             case 2:
             totalsalario = salario * 0.10f;
             System.out.println("Total salario es:" + totalsalario);
             break;
-        
+
             case 3:
             totalsalario = salario;
             break;

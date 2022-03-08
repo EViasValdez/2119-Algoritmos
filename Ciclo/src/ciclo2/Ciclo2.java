@@ -20,8 +20,8 @@ public class Ciclo2 {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-        InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader(isr);
+        InputStreamReader isr = new InputStreamReader (System.in);
+        BufferedReader br = new BufferedReader (isr);
         // Se declaran 3 variables de tipo entero "numero1", "suma" y "contador"
         // La variable "suma" iniciara en cero debido a que mostrara el resultado de una operacion.
         int numero1, suma = 0, contador;

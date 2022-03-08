@@ -21,7 +21,7 @@ public class AesoriasArreglos {
         Scanner leer = new Scanner (System.in);
         String nombres [] = new String [7];
         String apellidos [] = new String [5];
-    
+        
         for (int i = 1; i <= 7; i++){
             System.out.println("Escribe el nombre");
             nombres [i] = leer.next();

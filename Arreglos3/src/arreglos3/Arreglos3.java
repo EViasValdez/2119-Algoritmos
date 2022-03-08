@@ -41,31 +41,31 @@ public class Arreglos3 {
 
         for (int x = 0; x < 10; x++){
             if (precios [x] >= 5000){
-                System.out.println("El precio es muy alto");    
+                System.out.println("El precio es muy alto");
             }else{
-                System.out.println("El precio es muy bajo");    
+                System.out.println("El precio es muy bajo");
             }
         }
         for (int x = 0; x < 10; x++){
             if (precios [x] < 0){
-                System.out.println("No puede haber precios negativos");    
+                System.out.println("No puede haber precios negativos");
             }else{
             if (precios [x] == 0){    
-                System.out.println("El precio debe ser mayor que 0");    
+                System.out.println("El precio debe ser mayor que 0");
             }
             }
         }
         float mayor = precios [0];
         for (int x = 0; x < 10; x++){
             if (precios [x] > mayor){
-                mayor = precios [x];    
-            }    
+                mayor = precios [x];
+            }
         }
         System.out.println("El mayor es:" + mayor);
         float menor = precios [0];
         for (int x = 0; x < 10; x++){
             if (precios [x] < menor){
-                menor = precios [x];    
+                menor = precios [x];
             }
         }
         System.out.println("El menor es:" + menor);
