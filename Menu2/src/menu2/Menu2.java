@@ -33,8 +33,8 @@ public class Menu2 {
         
         opc = Integer.parseInt(br.readLine());
         
-        switch(opc){
-        case 1:    
+        switch (opc){
+        case 1:
             System.out.println("¿Cuanto es la base?");
             base = Float.parseFloat(br.readLine());
             System.out.println("¿Cuanto es la altura?");
@@ -42,14 +42,14 @@ public class Menu2 {
             area = base * altura;
             System.out.println("El area del cuadrado es:" + area);
         break;
-            
+        
         case 2:
             System.out.println("¿Cuanto es el radio?");
             radio = Float.parseFloat(br.readLine());
             area = pi * (radio * radio);
             System.out.println("El area de circulo es:" + area);
         break;
-            
+        
         case 3:
             System.out.println("¿Cuanto es la base?");
             base = Float.parseFloat(br.readLine());
@@ -57,10 +57,11 @@ public class Menu2 {
             altura = Float.parseFloat(br.readLine());
             area = base * altura;
             System.out.println("El area del triangulo es:" + area);
-        break;
-        default:
+        break
 
-        System.out.println("Opcion invalida");   
+        default:
+        System.out.println("Opcion invalida");
+
         break;
         }
     }

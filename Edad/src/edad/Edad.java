@@ -33,7 +33,7 @@ public class Edad {
         for (int j = 0; j <= cuantos; j++){
             System.out.println("Escribe la edad");
             edad = Float.parseFloat(br.readLine());
-
+            
             System.out.println("Escribe el promedio");
             promedio = Float.parseFloat(br.readLine());
 

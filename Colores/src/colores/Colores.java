@@ -25,12 +25,12 @@ public class Colores {
         {
             numeros [1] = rng.nextInt(4) + 1;
         }
-    
+
         int red = 0;
         int black = 0;
         int white = 0;
         int blue = 0;
-    
+
         for (int i = 0; i < 100; i++){
             if (numeros [i] == 1)
             {
@@ -79,7 +79,7 @@ public class Colores {
         }
         for (int i = 0; i < 100; i++){
         {
-
+            
         }
         }
     }   

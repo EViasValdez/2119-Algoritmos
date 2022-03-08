@@ -30,7 +30,7 @@ public class Datos_boleanos_2 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
         boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
-    
+
         System.out.println("Estado de la valvula 1");
         valvula1 = Boolean.parseBoolean(br.readLine());
         
@@ -48,7 +48,7 @@ public class Datos_boleanos_2 {
 
         System.out.println("Estado de la energia electrica");
         energiaelectrica = Boolean.parseBoolean(br.readLine());
-    
+        
         if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)){
             System.out.println("Tanque lleno");
         }else{
