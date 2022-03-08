@@ -28,6 +28,7 @@ public class Arreglos {
         char [] Letras2 = new char [7];
 
         int nElementos;
+
         System.out.println("Numero de elementos del arreglo");
         nElementos = leer.nextInt();
         int [] m = new int [nElementos];
@@ -86,7 +87,7 @@ public class Arreglos {
             System.out.println("Dias de la semana");
             car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char)car; // Se asigna lo que vaya leyedo en la variable car a el arreglo "Letras2".
+            Letras2 [j] = (char) car; // Se asigna lo que vaya leyedo en la variable car a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }

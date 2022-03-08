@@ -44,7 +44,7 @@ public class Arrays {
                 System.out.println("Grupo asifando: B");
             }
 
-            int [] binarios
+            int [] binarios;
 
             if (binarios [x] == 1){
                 System.out.println("Genero: Mujer");

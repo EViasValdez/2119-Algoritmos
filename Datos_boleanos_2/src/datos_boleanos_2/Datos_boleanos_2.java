@@ -33,19 +33,19 @@ public class Datos_boleanos_2 {
     
         System.out.println("Estado de la valvula 1");
         valvula1 = Boolean.parseBoolean(br.readLine());
-    
+        
         System.out.println("Estado de la valvula 2");
         valvula2 = Boolean.parseBoolean(br.readLine());
-    
+
         System.out.println("Estado de la valvula 3");
         valvula3 = Boolean.parseBoolean(br.readLine());
-    
+
         System.out.println("Estado de la valvula 4");
         valvula4 = Boolean.parseBoolean(br.readLine());
-    
+
         System.out.println("Estado de la bomba");
         bomba = Boolean.parseBoolean(br.readLine());
-    
+
         System.out.println("Estado de la energia electrica");
         energiaelectrica = Boolean.parseBoolean(br.readLine());
     

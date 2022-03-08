@@ -50,62 +50,61 @@ public class Tablasdeverdad {
 
         switch (opcion){
         case 1:
-        System.out.println("Estado de la ventana 1");
-        ventana1 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Estado de la ventana 2");
-        ventana2 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Estado de la puerta");
-        puerta = Boolean.parseBoolean(br.readLine());
+            System.out.println("Estado de la ventana 1");
+            ventana1 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Estado de la ventana 2");
+            ventana2 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Estado de la puerta");
+            puerta = Boolean.parseBoolean(br.readLine());
 
-        if (ventana1 == true || ventana2 == true || puerta == true){
-            System.out.println("La alarma se activa");
-        }else{
-            System.out.println("La alarma no se activa");
-        }
+            if (ventana1 == true || ventana2 == true || puerta == true){
+                System.out.println("La alarma se activa");
+            }else{
+                System.out.println("La alarma no se activa");
+            }
         break;
-
         case 2:                                
-        System.out.println("Sensores de fuego");
-        fuego = Boolean.parseBoolean(br.readLine());
-        humo = Boolean.parseBoolean(br.readLine());
-        if (fuego == true || humo == true){
-            System.out.println("Los sensores se activan");
-        }else{
-            System.out.println("Los sensores no se activan");
-        }  
+            System.out.println("Sensores de fuego");
+            fuego = Boolean.parseBoolean(br.readLine());
+            humo = Boolean.parseBoolean(br.readLine());
+            if (fuego == true || humo == true){
+                System.out.println("Los sensores se activan");
+            }else{
+                System.out.println("Los sensores no se activan");
+            }  
         break;
 
         case 3:
-        System.out.println("Primer digito");
-        digito1 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Segundo digito");
-        digito2 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Tercer digito");
-        digito3 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Cuarto digito");
-        digito4 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Primer digito");
+            digito1 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Segundo digito");
+            digito2 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Tercer digito");
+            digito3 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Cuarto digito");
+            digito4 = Boolean.parseBoolean(br.readLine());
 
-        if (digito1 == true || digito2 == true || digito3 == true || digito3 == true){
-            System.out.println("La caja se abre");
-        }else{
-            System.out.println("La caja no se abre");
-        }
+            if (digito1 == true || digito2 == true || digito3 == true || digito3 == true){
+                System.out.println("La caja se abre");
+            }else{
+                System.out.println("La caja no se abre");
+            }
         break;
 
         case 4:
-        System.out.println("Primer digito");
-        digit1 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Segundo digito");
-        digit2 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Tercer digito");
-        digit3 = Boolean.parseBoolean(br.readLine());
-        System.out.println("Cuarto digito");
-        digit4 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Primer digito");
+            digit1 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Segundo digito");
+            digit2 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Tercer digito");
+            digit3 = Boolean.parseBoolean(br.readLine());
+            System.out.println("Cuarto digito");
+            digit4 = Boolean.parseBoolean(br.readLine());
 
-        if (digit1 == true || digit2 == true || digit3 == true){
-            System.out.println("Puede retirar el dinero");
-        }else{
-            System.out.println("No puede retirar el dinero");
+            if (digit1 == true || digit2 == true || digit3 == true){
+                System.out.println("Puede retirar el dinero");
+            }else{
+                System.out.println("No puede retirar el dinero");
         break;
       }
     }

@@ -45,21 +45,21 @@ public class Aplicacion {
         
         if (alumno == true){
             while (alumno == true){
-            System.out.println("Ingrese nombre");
+                System.out.println("Ingrese nombre");
             
-            String nombre = leer.next();
-            names.add(nombre);
+                String nombre = leer.next();
+                names.add(nombre);
 
-            System.out.println(names);
-            System.out.println("¿Desea agregar a alguien mas?");
-            System.out.println("true = si, false = no");
+                System.out.println(names);
+                System.out.println("¿Desea agregar a alguien mas?");
+                System.out.println("true = si, false = no");
         
-            alumno = leer.nextBoolean();
+                alumno = leer.nextBoolean();
                 
-            if (alumno == false){
-                System.out.println("El programa se cerrara");
+                if (alumno == false){
+                    System.out.println("El programa se cerrara");
+                }
             }
-        }
         }else{
             System.out.println("El programa se cerrara");
         }

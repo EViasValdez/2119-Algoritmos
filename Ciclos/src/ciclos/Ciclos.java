@@ -29,7 +29,7 @@ public class Ciclos {
         float calificacion [] = new float [5];
 
         for (int i = 0; i < calificacion.length; i++){
-            System.out.println("Escribe la calsificacion");
+            System.out.println("Escribe la clasificacion");
             calificacion [i] = Float.parseFloat(br.readLine());
             
             if (calificacion [i] > 10 || calificacion [i] < 0){
@@ -41,9 +41,9 @@ public class Ciclos {
             if (calificacion [i] < 7){
                 reprobaron++;
             }
-            }                
             }
-            suma = suma + calificacion [i];    
+            }
+            suma = suma + calificacion [i];
         }
     
         promedio = suma / 5;

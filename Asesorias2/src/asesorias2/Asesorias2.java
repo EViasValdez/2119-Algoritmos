@@ -23,7 +23,7 @@ public class Asesorias2 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);    
 
-        float precio, descuento = 0, preciototal = 0;     
+        float precio, descuento = 0, preciototal = 0;
         System.out.println("Escribe un precio");
 
         precio = Float.parseFloat(br.readLine());
@@ -39,7 +39,7 @@ public class Asesorias2 {
             descuento = precio * .03f;
             preciototal = precio - descuento;
             System.out.println("El precio total es" + preciototal);
-        }         
+        }
         }
     }
 }

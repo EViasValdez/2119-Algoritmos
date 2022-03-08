@@ -35,43 +35,43 @@ public class Menu {
         
         switch(opc){
         case 1:
-        System.out.println("Escribe el primer numero");
-        n1 = Float.parseFloat(br.readLine());
-        System.out.println("Escriba el segundo numero");
-        n2 = Float.parseFloat(br.readLine());
-        suma = n1 + n2;
-        System.out.println("La suma es:" + suma);
+            System.out.println("Escribe el primer numero");
+            n1 = Float.parseFloat(br.readLine());
+            System.out.println("Escriba el segundo numero");
+            n2 = Float.parseFloat(br.readLine());
+            suma = n1 + n2;
+            System.out.println("La suma es:" + suma);
         break;
 
         case 2:
-        System.out.println("Escribe el primer numero");
-        n1 = Float.parseFloat(br.readLine());
-        System.out.println("Escribe el segundo numero");
-        n2 = Float.parseFloat(br.readLine());
-        resta = n1 - n2;
-        System.out.println("La resta es:" + resta);
+            System.out.println("Escribe el primer numero");
+            n1 = Float.parseFloat(br.readLine());
+            System.out.println("Escribe el segundo numero");
+            n2 = Float.parseFloat(br.readLine());
+            resta = n1 - n2;
+            System.out.println("La resta es:" + resta);
         break;
 
         case 3:
-        System.out.println("Escribe el primer numero");
-        n1 = Float.parseFloat(br.readLine());
-        System.out.println("Escribe el segundo numero");
-        n2 = Float.parseFloat(br.readLine());
-        multiplicacion = n1 * n2;
-        System.out.println("La multiplicacion es" + multiplicacion);
+            System.out.println("Escribe el primer numero");
+            n1 = Float.parseFloat(br.readLine());
+            System.out.println("Escribe el segundo numero");
+            n2 = Float.parseFloat(br.readLine());
+            multiplicacion = n1 * n2;
+            System.out.println("La multiplicacion es" + multiplicacion);
         break;
 
         case 4:
-        System.out.println("Escribe el primer numero");
-        n1 = Float.parseFloat(br.readLine());
-        System.out.println("Escribe el segundo numero");
-        n2 = Float.parseFloat(br.readLine());
-        division = n1 / n2;
-        System.out.println("La division es" + division);
+            System.out.println("Escribe el primer numero");
+            n1 = Float.parseFloat(br.readLine());
+            System.out.println("Escribe el segundo numero");
+            n2 = Float.parseFloat(br.readLine());
+            division = n1 / n2;
+            System.out.println("La division es" + division);
         break;
 
         default:
-        System.out.println("Opcion no valida");
+            System.out.println("Opcion no valida");
         break;
         }
     }
