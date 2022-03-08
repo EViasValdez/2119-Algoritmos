@@ -41,7 +41,7 @@ public class Arrays {
             if (datos [x] == true){
                 System.out.println("Grupo asignado: A");
             }else{
-                System.out.println("Grupo asifando: B");
+                System.out.println("Grupo asignado: B");
             }
 
             int [] binarios;
@@ -51,7 +51,7 @@ public class Arrays {
             }else{
                 System.out.println("Genero: Hombre");
             }
-            System.out.println("Materias aprovadas" + numero [x]);
+            System.out.println("Materias aprobadas" + numero [x]);
             System.out.println("");
             // Calificaciones
             suma = 0;
