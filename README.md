@@ -302,16 +302,16 @@ Arreglos2/src/arreglos/Arreglos.java,
 Arreglos2/build.xml, 
 Arreglos2/manifest.mf)
 <!--Separador-->
-(AesoriasArreglos/build/classes, 
-AesoriasArreglos/nbproject/private/private.properties, 
-AesoriasArreglos/nbproject/private/private.xml, 
-AesoriasArreglos/nbproject/build-impl.xml, 
-AesoriasArreglos/nbproject/genfiles.properties, 
-AesoriasArreglos/nbproject/project.properties, 
-AesoriasArreglos/nbproject/project.xml, 
-AesoriasArreglos/src/aesoriasarreglos/AesoriasArreglos.java, 
-AesoriasArreglos/build.xml, 
-AesoriasArreglos/manifest.mf)
+(AsesoriasArreglos/build/classes, 
+AsesoriasArreglos/nbproject/private/private.properties, 
+AsesoriasArreglos/nbproject/private/private.xml, 
+AsesoriasArreglos/nbproject/build-impl.xml, 
+AsesoriasArreglos/nbproject/genfiles.properties, 
+AsesoriasArreglos/nbproject/project.properties, 
+AsesoriasArreglos/nbproject/project.xml, 
+AsesoriasArreglos/src/asesoriasarreglos/AsesoriasArreglos.java, 
+AsesoriasArreglos/build.xml, 
+AsesoriasArreglos/manifest.mf)
 <!----Separador---->
 ###### PromedioCalificaciones, Edad - 30/11/19
 (PromedioCalificaciones/build/classes/promediocalificaciones/PromedioCalificaciones.class, 
