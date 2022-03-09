@@ -50,9 +50,12 @@ public class Arreglos {
         ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales.
         // En este caso se creo un arreglo llamado "notas de tipo float" y no se especifico el tamaño del mismo.
         int l = 0;
+
         System.out.println("Introducir calificaiones, finalizar con -1");
         System.out.printf("Alumnno numero %3d, calificaion media:", ++l);
+
         float calif = leer.nextFloat();
+
         while (calif != -1)
         {
             notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
@@ -63,6 +66,7 @@ public class Arreglos {
 
         int nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
         float suma = 0;
+
         for (l = 0; l < nalumnos; l++)
         {
             suma += notas.get(l); // El metodo get obtiene un elemento del arreglo en este
@@ -72,6 +76,7 @@ public class Arreglos {
         }
 
         int car;
+
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");
@@ -94,7 +99,7 @@ public class Arreglos {
         for (int j = 0; j <= 6; j++)
         {
             System.out.println("Los meses son: " + Letras2 [j]);
-          //  Meses [i] = leer.next();
+          // Meses [i] = leer.next();
         }
 
         // int [] numeros = new int [10];

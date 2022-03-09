@@ -21,10 +21,10 @@ public class AreaDelTriangulo {
         Scanner leer = new Scanner (System.in);
         System.out.println("Ingresar base");
         
-        int n1= leer.nextInt();
+        int n1 = leer.nextInt();
         System.out.println("Ingresar altura");
         
-        int n2= leer.nextInt();
+        int n2 = leer.nextInt();
         int r;
         r = (n1 * n2) / 2;
         System.out.println("El resultado del area es" + r);

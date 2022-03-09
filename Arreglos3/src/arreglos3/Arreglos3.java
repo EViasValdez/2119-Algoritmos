@@ -36,6 +36,7 @@ public class Arreglos3 {
             suma = suma + precios [x];
         }
         promedio = suma / 10;
+
         System.out.println("El total de los precios es" + suma);
         System.out.println("El promedio de los precios es" + promedio);
 
@@ -55,14 +56,18 @@ public class Arreglos3 {
             }
             }
         }
+
         float mayor = precios [0];
+
         for (int x = 0; x < 10; x++){
             if (precios [x] > mayor){
                 mayor = precios [x];
             }
         }
         System.out.println("El mayor es:" + mayor);
+        
         float menor = precios [0];
+
         for (int x = 0; x < 10; x++){
             if (precios [x] < menor){
                 menor = precios [x];

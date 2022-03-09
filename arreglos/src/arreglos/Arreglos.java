@@ -82,7 +82,7 @@ public class Arreglos {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Los meses son: " + Meses [i]);
-            // Meses [i] = leer.next();     
+            // Meses [i] = leer.next();
         }
         for (int j = 0; j <= 6; j++)
         {
@@ -91,7 +91,7 @@ public class Arreglos {
             System.in.read(); // Lee una linea en blanco.
             Letras2 [j] = (char) car; // Se asigna lo que vaya leyedo en la variable car a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
-            // (int) variable.charAt(1); 
+            // (int) variable.charAt(1);
         }
         for (int j = 0; j <= 6; j++)
         {
