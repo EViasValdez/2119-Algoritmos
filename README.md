@@ -8,15 +8,16 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Realize identacion en los archivos para que no se vieran tan juntos.**
 
-**- Corregi algunos errores de algunos textos.**
+**- Corregi algunos errores ortograficos que tenian algunos textos.**
 
-**- Trate de completar algunas cosas que no estaban conclusas antes de estas revisiones.**
+**- Trate de completar algunas partes que no estaban conclusas antes de estas revisiones.**
 
 **- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia la cual todavia no puedo recordar el nombre.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
 # Directorio con ubicacion de archivos
+## ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
 datos_boleanos/nbproject/private/private.xml
@@ -45,6 +46,7 @@ Tablasdeverdad/src/tablasdeverdad/Tablasdeverdad.java,
 Tablasdeverdad/build.xml, 
 Tablasdeverdad/manifest.mf)
 <!----Separador---->
+
 ## ● Unidad 2 ●
 ###### Holamundo - 02/10/19
 (Holamundo/build/classes/holamundo/Holamundo.class, 
@@ -157,6 +159,7 @@ Salarios/src/salarios/Salarios.java,
 Salarios/build.xml, 
 Salarios/manifest.mf)
 <!----Separador---->
+
 ## ● Unidad 3 ●
 ###### Arrays - 06/11/19
 (Arrays/build/classes/arrays/Arrays.class, 
