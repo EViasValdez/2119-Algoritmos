@@ -8,11 +8,9 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Realize identacion en los archivos para que no se vieran tan juntos.**
 
-
 **- Corregi algunos errores ortograficos que tenian algunos textos.**
 
 **- Corregi algunos errores ortograficos de algunos textos.**
-
 
 **- Trate de completar algunas partes que no estaban conclusas antes de estas revisiones.**
 
