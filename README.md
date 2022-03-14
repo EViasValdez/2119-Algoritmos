@@ -73,7 +73,15 @@ Holamundo/manifest.mf)
 (Zinjal/sin_titulo.cpp)
 <!----Separador---->
 ###### Algoritmos - 09/10/19
-(Algoritmos/src/algoritmos/Algoritmos.java, 
+(Algoritmos/build/classes/algoritmos/Algoritmos.class, 
+Algoritmos/nbproject/private/private.properties, 
+Algoritmos/nbproject/private/private.xml, 
+Algoritmos/nbproject/build-impl.xml, 
+Algoritmos2/nbproject/genfiles.properties, 
+Algoritmos/nbproject/project.properties, 
+Algoritmos/nbproject/project.xml, 
+Algoritmos/src/algoritmos2/Algoritmos.java, 
+Algoritmos/build.xml, 
 Algoritmos/manifest.mf)
 <!----Separador---->
 ###### Areadeltriangulo - 09/10/19
