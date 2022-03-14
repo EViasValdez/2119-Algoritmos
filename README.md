@@ -12,7 +12,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Trate de completar algunas partes que no estaban conclusas antes de estas revisiones.**
 
-**- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia la cual todavia no puedo recordar el nombre.**
+**- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia de ese mismo parcial.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
