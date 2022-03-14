@@ -77,10 +77,10 @@ Holamundo/manifest.mf)
 Algoritmos/nbproject/private/private.properties, 
 Algoritmos/nbproject/private/private.xml, 
 Algoritmos/nbproject/build-impl.xml, 
-Algoritmos2/nbproject/genfiles.properties, 
+Algoritmos/nbproject/genfiles.properties, 
 Algoritmos/nbproject/project.properties, 
 Algoritmos/nbproject/project.xml, 
-Algoritmos/src/algoritmos2/Algoritmos.java, 
+Algoritmos/src/algoritmos/Algoritmos.java, 
 Algoritmos/build.xml, 
 Algoritmos/manifest.mf)
 <!----Separador---->
