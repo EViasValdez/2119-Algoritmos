@@ -31,7 +31,15 @@ datos_boleanos/build.xml,
 datos_boleanos/manifest.mf)
 <!----Separador---->
 ###### Datos_boleanos_2 - 21/09/19
-(Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
+(Datos_boleanos_2/nbproject/private/private.properties, 
+Datos_boleanos_2/nbproject/private/private.xml
+Datos_boleanos_2/nbproject/build-impl.xml, 
+Datos_boleanos_2/nbproject/genfiles.properties, 
+Datos_boleanos_2/nbproject/project.properties, 
+Datos_boleanos_2/nbproject/project.xml, 
+Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
+Datos_boleanos_2/src/java/io/Iception.java, 
+Datos_boleanos_2/build.xml, 
 Datos_boleanos_2/manifest.mf)
 <!----Separador---->
 ###### Tablasdeverdad - 28/09/19
