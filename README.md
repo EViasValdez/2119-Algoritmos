@@ -12,7 +12,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Trate de completar algunas partes que no estaban conclusas antes de estas revisiones.**
 
-**- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia la cual todavia no puedo recordar el nombre.**
+**- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia de ese mismo parcial.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
@@ -31,7 +31,15 @@ datos_boleanos/build.xml,
 datos_boleanos/manifest.mf)
 <!----Separador---->
 ###### Datos_boleanos_2 - 21/09/19
-(Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
+(Datos_boleanos_2/nbproject/private/private.properties, 
+Datos_boleanos_2/nbproject/private/private.xml
+Datos_boleanos_2/nbproject/build-impl.xml, 
+Datos_boleanos_2/nbproject/genfiles.properties, 
+Datos_boleanos_2/nbproject/project.properties, 
+Datos_boleanos_2/nbproject/project.xml, 
+Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
+Datos_boleanos_2/src/java/io/Iception.java, 
+Datos_boleanos_2/build.xml, 
 Datos_boleanos_2/manifest.mf)
 <!----Separador---->
 ###### Tablasdeverdad - 28/09/19
@@ -65,7 +73,15 @@ Holamundo/manifest.mf)
 (Zinjal/sin_titulo.cpp)
 <!----Separador---->
 ###### Algoritmos - 09/10/19
-(Algoritmos/src/algoritmos/Algoritmos.java, 
+(Algoritmos/build/classes/algoritmos/Algoritmos.class, 
+Algoritmos/nbproject/private/private.properties, 
+Algoritmos/nbproject/private/private.xml, 
+Algoritmos/nbproject/build-impl.xml, 
+Algoritmos/nbproject/genfiles.properties, 
+Algoritmos/nbproject/project.properties, 
+Algoritmos/nbproject/project.xml, 
+Algoritmos/src/algoritmos/Algoritmos.java, 
+Algoritmos/build.xml, 
 Algoritmos/manifest.mf)
 <!----Separador---->
 ###### Areadeltriangulo - 09/10/19
