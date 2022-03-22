@@ -23,15 +23,15 @@ public class Array {
         int n = 0;
 
         for (int i = 0; i < n; i++){
-            int num = alea.nextInt(2019);
+            int num = alea.nextInt (2019);
         
             while (num > 1950){
                 if (num < 1950){
                     break;
                 }
-                num = alea.nextInt(2019);
+                num = alea.nextInt (2019);
             }
-            nums.add(num);
+            nums.add (num);
             }
         return = nums;
     }

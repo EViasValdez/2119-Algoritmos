@@ -22,20 +22,20 @@ public class Aplicacion {
         Scanner leer = new Scanner (System.in);
         ArrayList <String> names = new ArrayList <String>();
 
-        names.add("Javier");
-        names.add("Martin");
-        names.add("Marisol");
-        names.add("Carla");
-        names.add("Hugo");
-        names.add("Victor");
-        names.add("Elisabeth");
-        names.add("Teresa");
+        names.add ("Javier");
+        names.add ("Martin");
+        names.add ("Marisol");
+        names.add ("Carla");
+        names.add ("Hugo");
+        names.add ("Victor");
+        names.add ("Elisabeth");
+        names.add ("Teresa");
         
         System.out.println("Bienvenido");
         System.out.println("Esta es la lista de alumnos disponibles");
         
         for (int i = 0; i < names.size(); i++){
-            System.out.print(names.get(i) + "|");
+            System.out.print(names.get (i) + "|");
         }
         
         System.out.println("¿Desea agregar a alguien mas?");
@@ -48,7 +48,7 @@ public class Aplicacion {
                 System.out.println("Ingrese nombre");
             
                 String nombre = leer.next();
-                names.add(nombre);
+                names.add (nombre);
 
                 System.out.println(names);
                 System.out.println("¿Desea agregar a alguien mas?");

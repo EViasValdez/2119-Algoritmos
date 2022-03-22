@@ -29,6 +29,7 @@ public class Datos_boleanos_2 {
         // 6) LA ENERGIA ELECTRICA ESTA APAGADA.
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
+
         boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
 
         System.out.println("Estado de la valvula 1");
