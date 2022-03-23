@@ -65,7 +65,7 @@ public class Tablasdeverdad {
                 System.out.println("La alarma no se activa");
             }
         break;
-        case 2:                                
+        case 2:
             System.out.println("Sensores de fuego");
             fuego = Boolean.parseBoolean(br.readLine());
             humo = Boolean.parseBoolean(br.readLine());
@@ -73,7 +73,7 @@ public class Tablasdeverdad {
                 System.out.println("Los sensores se activan");
             }else{
                 System.out.println("Los sensores no se activan");
-            }  
+            }
         break;
 
         case 3:

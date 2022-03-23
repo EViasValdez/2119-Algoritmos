@@ -59,7 +59,7 @@ public class Arreglos {
         while (calif != -1)
         {
             notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
-            System.out.printf("Alumno numero %3d, nota media: " , ++l); // "printf" muestra un mensaje en pantalla
+            System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje en pantalla
             // en el cual se especifica el formato de los datos con "%d "para datos de tipo entero.
             calif = leer.nextFloat();
         }
@@ -77,7 +77,7 @@ public class Arreglos {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");
-            Meses [i] = leer.next();     
+            Meses [i] = leer.next();
         }
         for (int i = 0; i <= 11; i++)
         {
@@ -100,7 +100,7 @@ public class Arreglos {
         }
         // int [] numeros = new int [10];
         // int [] numeros = {1,2,3,4,5,6,7,8,9,10};
-        //
+        // 
         // int valor = numeros [2];
         // System.out.println(numeros [2]);
         // System.out.println(valor);

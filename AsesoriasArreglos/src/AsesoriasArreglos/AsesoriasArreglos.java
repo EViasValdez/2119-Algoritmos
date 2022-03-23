@@ -39,7 +39,7 @@ public class AsesoriasArreglos {
                 System.out.println("Si esta");
             }else{
                 System.out.println("No esta");
-            }    
+            }
         }
         for (int i = 1; i < 5; i++)
             if (apellido.equals(apellidos [i])){

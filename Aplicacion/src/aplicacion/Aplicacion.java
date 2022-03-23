@@ -63,5 +63,5 @@ public class Aplicacion {
         }else{
             System.out.println("El programa se cerrara");
         }
-    }    
+    }
 }

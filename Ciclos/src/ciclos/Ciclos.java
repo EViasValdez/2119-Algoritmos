@@ -47,7 +47,7 @@ public class Ciclos {
         }
         
         promedio = suma / 5;
-        System.out.println("El promedio es" + promedio);  
+        System.out.println("El promedio es" + promedio);
         System.out.println("Alumnos reprobados" + reprobaron);
         System.out.println("Alumnos aprobados" + aprobaron);
         System.out.println("Promedios invalidos" + invalida);

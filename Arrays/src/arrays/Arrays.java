@@ -34,9 +34,9 @@ public class Arrays {
         for (int x = 0; x < 10; x++){
             num = num + 1;
             System.out.println("Alumno" + num);
-
+            
             String [] nombre;
-
+            
             System.out.println("Nombre:" + nombre [x]);
             if (datos [x] == true){
                 System.out.println("Grupo asignado: A");
