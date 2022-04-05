@@ -35,10 +35,10 @@ public class Datos_boleanos {
     System.out.println("Estado de la puerta");
     puerta = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la ventana1");
+    System.out.println("Estado de la ventana 1");
     ventana1 = Boolean.parseBoolean(br.readLine());
     
-    System.out.println("Estado de la ventana2");
+    System.out.println("Estado de la ventana 2");
     ventana2 = Boolean.parseBoolean(br.readLine());
     
     if ((puerta == true)|| (ventana1 == true)|| (ventana2 == true)){

@@ -27,7 +27,7 @@ public class Edad {
         
         int cuantos;
         
-        System.out.println("¿Cuantos niños?");
+        System.out.println("¿Cuantos niños son?");
         cuantos = Integer.parseInt(br.readLine());
 
         for (int j = 0; j <= cuantos; j++){

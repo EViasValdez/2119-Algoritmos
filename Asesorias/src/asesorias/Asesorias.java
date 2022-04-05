@@ -38,12 +38,12 @@ public class Asesorias {
             switch (categoria){
             case 1:
                 totalsalario = salario * 15;
-                System.out.println("Total salario es:" + totalsalario);
+                System.out.println("El total del salario es: " + totalsalario);
             break;
 
             case 2:
                 totalsalario = salario * 0.10f;
-                System.out.println("Total salario es:" + totalsalario);
+                System.out.println("El total del salario es: " + totalsalario);
             break;
 
             case 3:
