@@ -17,7 +17,8 @@ public class inicio {
         int n3 = 1;
 
         for (int i = 1; i <= 1000; i++){
-            int r = 7 * i
+            int r = 7 * i;
+
             System.out.println(7 + "*" + i + = );
         }
 }

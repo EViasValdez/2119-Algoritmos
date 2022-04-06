@@ -37,7 +37,7 @@ public class Arrays {
             
             String [] nombre;
             
-            System.out.println("Nombre:" + nombre [x]);
+            System.out.println("Nombre: " + nombre [x]);
             if (datos [x] == true){
                 System.out.println("Grupo asignado: A");
             }else{
@@ -55,6 +55,7 @@ public class Arrays {
             System.out.println("");
             // Calificaciones
             suma = 0;
+            
             int i;
             for (int 1 = 0; i < 5; 1++);
         }

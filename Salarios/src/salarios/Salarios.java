@@ -21,6 +21,7 @@ public class Salarios {
         Scanner leer = new Scanner (System.in);
         
         int nElementos;
+        
         System.out.println("Numero de elementos del arreglo");
         nElementos = leer.nextInt();
         

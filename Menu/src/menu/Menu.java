@@ -40,7 +40,7 @@ public class Menu {
             System.out.println("Escriba el segundo numero");
             n2 = Float.parseFloat(br.readLine());
             suma = n1 + n2;
-            System.out.println("La suma es:" + suma);
+            System.out.println("La suma es: " + suma);
         break;
 
         case 2:
@@ -49,7 +49,7 @@ public class Menu {
             System.out.println("Escribe el segundo numero");
             n2 = Float.parseFloat(br.readLine());
             resta = n1 - n2;
-            System.out.println("La resta es:" + resta);
+            System.out.println("La resta es: " + resta);
         break;
 
         case 3:
@@ -58,7 +58,7 @@ public class Menu {
             System.out.println("Escribe el segundo numero");
             n2 = Float.parseFloat(br.readLine());
             multiplicacion = n1 * n2;
-            System.out.println("La multiplicacion es" + multiplicacion);
+            System.out.println("La multiplicacion es: " + multiplicacion);
         break;
 
         case 4:
@@ -67,7 +67,7 @@ public class Menu {
             System.out.println("Escribe el segundo numero");
             n2 = Float.parseFloat(br.readLine());
             division = n1 / n2;
-            System.out.println("La division es" + division);
+            System.out.println("La division es: " + division);
         break;
 
         default:

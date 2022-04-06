@@ -23,7 +23,7 @@ public class Colores {
         int numeros [] = new int [100];
         for (int i = 0; i < 100; i++)
         {
-            numeros [1] = rng.nextInt(4) + 1;
+            numeros [1] = rng.nextInt (4) + 1;
         }
 
         int red = 0;

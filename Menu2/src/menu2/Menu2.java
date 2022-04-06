@@ -39,14 +39,14 @@ public class Menu2 {
             System.out.println("¿Cuanto es la altura?");
             altura = Float.parseFloat(br.readLine());
             area = base * altura;
-            System.out.println("El area del cuadrado es:" + area);
+            System.out.println("El area del cuadrado es: " + area);
         break;
         
         case 2:
             System.out.println("¿Cuanto es el radio?");
             radio = Float.parseFloat(br.readLine());
             area = pi * (radio * radio);
-            System.out.println("El area de circulo es:" + area);
+            System.out.println("El area de circulo es: " + area);
         break;
         
         case 3:
@@ -55,7 +55,7 @@ public class Menu2 {
             System.out.println("¿Cuanto es la altura?");
             altura = Float.parseFloat(br.readLine());
             area = base * altura;
-            System.out.println("El area del triangulo es:" + area);
+            System.out.println("El area del triangulo es: " + area);
         break
 
         default:
