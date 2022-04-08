@@ -58,7 +58,7 @@ public class Tablasdeverdad {
             ventana2 = Boolean.parseBoolean(br.readLine());
             System.out.println("Estado de la puerta");
             puerta = Boolean.parseBoolean(br.readLine());
-
+            
             if (ventana1 == true || ventana2 == true || puerta == true){
                 System.out.println("La alarma se activa");
             }else{

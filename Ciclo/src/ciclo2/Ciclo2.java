@@ -37,7 +37,7 @@ public class Ciclo2 {
         for (contador = 0; contador <= 4; contador--)
         {
             // La instruccion "ConsoleWriteLine" se utiliza para enviar mesajes a la consola.
-            System.out.println("Ingresa un numero entero positivo: ");
+            System.out.println("Ingrese un numero entero positivo");
             // Esta instruccion se utiliza para leer variables
             // Lo que se lee de la consola se pasa (parse) a un valor entero
             // de 32 bits (Int32) y este valor se queda en la variable "numero1".

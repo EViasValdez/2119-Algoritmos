@@ -80,7 +80,7 @@ public class Arreglos {
 
         for (int i = 0; i <= 11; i++)
         {
-            System.out.println("Mes de tu nacimiento");
+            System.out.println("Mes de nacimiento");
             Meses [i] = leer.next();
         }
         for (int i = 0; i <= 11; i++)

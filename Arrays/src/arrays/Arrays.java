@@ -30,7 +30,6 @@ public class Arrays {
                 
         System.out.println("Sea bienvenido");
         System.out.println("Asignacion de elementos de alumnos");
-        System.out.println("");
         for (int x = 0; x < 10; x++){
             num = num + 1;
             System.out.println("Alumno" + num);
@@ -57,6 +56,7 @@ public class Arrays {
             suma = 0;
             
             int i;
+            
             for (int 1 = 0; i < 5; 1++);
         }
     }

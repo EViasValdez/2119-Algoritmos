@@ -32,10 +32,10 @@ public class Suma {
         numero2 = Float.parseFloat(br.readLine());
         // suma = numero1 + numero2;
         // System.out.println("La suma es" + suma (numero1, numero2));
-        System.out.println("La suma es" + suma (numero1, numero2));
-        System.out.println("La resta es" + resta (numero1, numero2));
-        System.out.println("La mutliplicacion es" + resta (numero1, numero2));
-        System.out.println("La disvision es" + resta (numero1, numero2));
+        System.out.println("La suma es: " + suma (numero1, numero2));
+        System.out.println("La resta es: " + resta (numero1, numero2));
+        System.out.println("La mutliplicacion es: " + resta (numero1, numero2));
+        System.out.println("La disvision es: " + resta (numero1, numero2));
     }
     private static float suma(float numero1, float numero2) {
         float suma = 0;

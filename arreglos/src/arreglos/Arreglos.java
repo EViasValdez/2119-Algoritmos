@@ -71,7 +71,7 @@ public class Arreglos {
             suma += notas.get(l); // El metodo get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posicion 1 del arreglo.
             System.out.println();
-            System.out.printf("Nota media del curso: %5.2f ", suma/nalumnos);
+            System.out.printf("Nota media del curso: %5.2f ", suma / nalumnos);
         }
         int car;
         for (int i = 0; i <= 11; i++)

@@ -37,8 +37,8 @@ public class Arreglos3 {
         }
         promedio = suma / 10;
 
-        System.out.println("El total de los precios es " + suma);
-        System.out.println("El promedio de los precios es"  + promedio);
+        System.out.println("El total de los precios es: " + suma);
+        System.out.println("El promedio de los precios es: "  + promedio);
 
         for (int x = 0; x < 10; x++){
             if (precios [x] >= 5000){

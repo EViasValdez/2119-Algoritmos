@@ -26,9 +26,9 @@ public class Menu2 {
         int opc;
         float base, altura, area, pi = 3.1416f, radio;
         
-        System.out.println("1.- Calcular area del cuadrado");
-        System.out.println("2.- Calcular area del circulo");
-        System.out.println("3.- Calcular area del triangulo");
+        System.out.println("1 - Calcular area del cuadrado");
+        System.out.println("2 - Calcular area del circulo");
+        System.out.println("3 - Calcular area del triangulo");
         System.out.println("Elige una opcion");
         opc = Integer.parseInt(br.readLine());
         

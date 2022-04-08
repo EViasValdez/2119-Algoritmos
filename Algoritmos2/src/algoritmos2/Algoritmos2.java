@@ -23,6 +23,6 @@ public class Algoritmos2 {
         System.out.println("Numero");
         int n1 = leer.nextInt();
         
-        System.out.println("El numero ingresado es " + n1);
+        System.out.println("El numero ingresado es: " + n1);
     }
 }
