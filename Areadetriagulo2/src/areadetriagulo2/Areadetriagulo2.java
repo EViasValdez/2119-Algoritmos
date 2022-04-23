@@ -19,6 +19,7 @@ public class Areadetriagulo2 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner leer = new Scanner (System.in);
+        
         System.out.println("Calcular el area del triangulo");
         
         System.out.println("Ingresar base");
