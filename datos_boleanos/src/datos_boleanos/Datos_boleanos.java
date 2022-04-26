@@ -25,7 +25,7 @@ public class Datos_boleanos {
 
         boolean contacto, ventana1, ventana2, puerta;
     
-        System.out.println("Esta encendido el foco");
+        System.out.println("¿Esta encendido el foco?");
         contacto = Boolean.parseBoolean(br.readLine());
 
         if (contacto == true){

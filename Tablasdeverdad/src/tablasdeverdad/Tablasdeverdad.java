@@ -47,7 +47,6 @@ public class Tablasdeverdad {
         System.out.println("3. Problema caja fuerte");
         System.out.println("4. Problema cajero automatico");
         
-        System.out.println("Elige una opcion");
         opcion = Integer.parseInt(br.readLine());
 
         switch (opcion){
