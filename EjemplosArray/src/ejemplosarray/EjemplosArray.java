@@ -32,7 +32,7 @@ public class EjemplosArray {
         System.out.println("");
         
         for (int i = 0; i < animales.length; i++){
-            System.out.print(animales [i] + "|");
+            System.out.print(animales [i] + " | ");
             animales2.add (animales [i]);
         }
         

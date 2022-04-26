@@ -34,7 +34,6 @@ public class Array {
             }
             nums.add (num);
             }
-        return = nums;
     }
     public static ArrayList <Integer> matricula(int s){
         String letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};

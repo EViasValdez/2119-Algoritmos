@@ -20,6 +20,7 @@ public class Arrays {
         Boolean [] datos = {true, false, true, false, true, false, true, false};
         int [] numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
         int num = 0;
+        int [] numero;
 
         // float calificaciones
         // float calificacion
@@ -57,7 +58,8 @@ public class Arrays {
             
             int i;
             
-            for (int 1 = 0; i < 5; 1++);
+            for (int 1 = 0; i < 5; 1++){
+            }
         }
     }
 }

@@ -32,6 +32,7 @@ public class Areadetriagulo2 {
         r = (n1 * n2) / 2;
         System.out.println("El resultado del area es: " + r);
         {
-            else (int = 2);
+            // else (int = 2);
         }
+    }
 }
