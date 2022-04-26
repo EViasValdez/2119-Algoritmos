@@ -56,7 +56,7 @@ public class Menu2 {
             altura = Float.parseFloat(br.readLine());
             area = base * altura;
             System.out.println("El area del triangulo es: " + area);
-        break
+        break;
 
         default:
         System.out.println("Opcion invalida");
