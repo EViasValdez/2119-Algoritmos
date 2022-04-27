@@ -69,8 +69,8 @@ Holamundo/nbproject/project.xml,
 Holamundo/build.xml, 
 Holamundo/manifest.mf)
 <!----Separador---->
-###### Zinjal - 05/10/19
-(Zinjal/sin_titulo.cpp)
+###### ZinjaI - 05/10/19
+(ZinjaI/Calificaciones.cpp, Calificaciones.exe)
 <!----Separador---->
 ###### Algoritmos - 09/10/19
 (Algoritmos/build/classes/algoritmos/Algoritmos.class, 
