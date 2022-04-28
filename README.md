@@ -31,14 +31,15 @@ datos_boleanos/build.xml,
 datos_boleanos/manifest.mf)
 <!----Separador---->
 ###### Datos_boleanos_2 - 21/09/19
-(Datos_boleanos_2/nbproject/private/private.properties, 
-Datos_boleanos_2/nbproject/private/private.xml
+(Datos_boleanos_2/build/classes/datos_boleanos_2/Datos_boleanos_2.class, 
+Datos_boleanos_2/build/classes/.netbeans_automatic_build, 
+Datos_boleanos_2/build/classes/.netbeans_update_resources, 
+Datos_boleanos_2/nbproject/private/private.properties, 
+Datos_boleanos_2/nbproject/private/private.xml, 
 Datos_boleanos_2/nbproject/build-impl.xml, 
 Datos_boleanos_2/nbproject/genfiles.properties, 
 Datos_boleanos_2/nbproject/project.properties, 
 Datos_boleanos_2/nbproject/project.xml, 
-Datos_boleanos_2/src/datos_boleanos_2/Datos_boleanos_2.java, 
-Datos_boleanos_2/src/java/io/Iception.java, 
 Datos_boleanos_2/build.xml, 
 Datos_boleanos_2/manifest.mf)
 <!----Separador---->
@@ -203,13 +204,14 @@ Ciclos/manifest.mf)
 <!----Separador---->
 ###### suma, metodosarreglos - 09/11/19
 (suma/build/classes/suma/Suma.class, 
+suma/build/classes/.netbeans_automatic_build, 
+suma/build/classes/.netbeans_update_resources, 
 suma/nbproject/private/private.properties, 
 suma/nbproject/private/private.xml, 
 suma/nbproject/build-impl.xml, 
 suma/nbproject/genfiles.properties, 
 suma/nbproject/project.properties, 
 suma/nbproject/project.xml, 
-suma/src/suma/Suma.java, 
 suma/build.xml, 
 suma/manifest.mf)
 <!--Separador-->
@@ -228,6 +230,8 @@ metodosarreglos/manifest.mf)
 <!----Separador---->
 ###### EjemplosArray, EjemplosArray2 - 13/11/19
 (EjemplosArray/build/classes/ejemplosarray/EjemplosArray.class, 
+EjemplosArray/build/classes/.netbeans_automatic_build, 
+EjemplosArray/build/classes/.netbeans_update_resources, 
 EjemplosArray/build/built-jar.properties, 
 EjemplosArray/nbproject/private/private.properties, 
 EjemplosArray/nbproject/private/private.xml, 
@@ -235,6 +239,7 @@ EjemplosArray/nbproject/build-impl.xml,
 EjemplosArray/nbproject/genfiles.properties, 
 EjemplosArray/nbproject/project.properties, 
 EjemplosArray/nbproject/project.xml, 
+EjemplosArray/src/ejemplosarray/EjemplosArray.java, 
 EjemplosArray/build.xml, 
 EjemplosArray/manifest.mf)
 <!--Separador-->
@@ -369,6 +374,8 @@ Arreglos3/build.xml,
 Arreglos3/manifest.mf)
 <!--Separador-->
 (Menu/build/classes/menu/Menu.class, 
+Menu/build/classes/.netbeans_automatic_build, 
+Menu/build/classes/.netbeans_update_resources, 
 Menu/nbproject/private/private.properties, 
 Menu/nbproject/private/private.xml, 
 Menu/nbproject/build-impl.xml, 
