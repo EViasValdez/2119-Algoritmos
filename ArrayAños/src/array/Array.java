@@ -19,6 +19,7 @@ public class Array {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner alea = new Scanner (System.in);
+        
         ArrayList <Integer> nums = new ArrayList <Integer>();
         
         int n = 0;
