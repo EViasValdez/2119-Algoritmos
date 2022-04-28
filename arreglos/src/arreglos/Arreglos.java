@@ -74,6 +74,7 @@ public class Arreglos {
             System.out.printf("Nota media del curso: %5.2f ", suma / nalumnos);
         }
         int car;
+        
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");

@@ -93,7 +93,7 @@ public class Arreglos {
             System.out.println("Dias de la semana");
             car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char) car; // Se asigna lo que vaya leyedo en la variable car a el arreglo "Letras2".
+            Letras2 [j] = (char) car; // Se asigna lo que vaya leyedo en la variable "car" a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }
