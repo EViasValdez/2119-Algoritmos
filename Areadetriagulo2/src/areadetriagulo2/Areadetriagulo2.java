@@ -27,6 +27,7 @@ public class Areadetriagulo2 {
         
         System.out.println("Ingresar altura");
         int n2 = leer.nextInt();
+        
         int r;
         
         r = (n1 * n2) / 2;

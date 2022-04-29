@@ -48,7 +48,7 @@ public class Ciclo2 {
         }
             // Se imprime el resulatdo final de la variable "suma".
             System.out.println("La suma es: " + suma);
-            // Esta instruccion se utiliza para realizar una pausa en la consola y que muestre el mensaje en pantalla.
+            // Esta instruccion se utiliza para realizar una pausa en la consola y que se muestre el mensaje en pantalla.
             System.out.println();
         }
     }

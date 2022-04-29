@@ -21,7 +21,7 @@ public class Algoritmos {
         Scanner leer = new Scanner (System.in);
         
         System.out.println("Numero");
-        int n1 = leer.nextInt();;
+        int n1 = leer.nextInt();
         
         if (n1 < 1 && n1 > 3){
             System.out.println("Dato Incorrecto");

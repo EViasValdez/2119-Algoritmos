@@ -30,8 +30,8 @@ public class Arreglos {
         int nElementos;
 
         System.out.println("Numero de elementos del arreglo");
-
         nElementos = leer.nextInt();
+        
         int [] m = new int [nElementos];
         int k = 0;
 
