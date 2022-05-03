@@ -31,7 +31,7 @@ public class Tablasdeverdad {
 
         3. EL CLIENTE DE UN BANCO REQUIERE RETIRAR DINERO DE UN CAJERO AUTOMATICO.
         A) CONOCER LOS 4 DIGITOS DE SU TARJETA.
-        B) TENER LOS DATOS DEL CLIENTE (Codigo 16 digitos, otro 4 digitos).
+        B) TENER LOS DATOS DEL CLIENTE (CODIGO 16 DIGITOS, OTROS 4 DIGITOS).
     */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here  
