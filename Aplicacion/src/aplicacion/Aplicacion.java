@@ -39,7 +39,7 @@ public class Aplicacion {
         }
         
         System.out.println("¿Desea agregar a alguien mas?");
-        System.out.println("true = si, false = no");
+        System.out.println("true = Si / false = No");
         
         boolean alumno = leer.nextBoolean();
         
@@ -52,7 +52,7 @@ public class Aplicacion {
 
                 System.out.println(names);
                 System.out.println("¿Desea agregar a alguien mas?");
-                System.out.println("true = si, false = no");
+                System.out.println("true = Si / false = No");
         
                 alumno = leer.nextBoolean();
                 
