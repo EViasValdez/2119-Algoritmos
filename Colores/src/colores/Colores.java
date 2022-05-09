@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author ALUMNOS
+ * @author Eduardo
  */
 public class Colores {
 

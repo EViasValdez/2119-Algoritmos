@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Test
+ * @author Eduardo
  */
 public class Ciclos {
 

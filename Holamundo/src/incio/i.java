@@ -7,7 +7,7 @@ package incio;
 
 /**
  *
- * @author ALUMNOS
+ * @author Eduardo
  */
 class i<T0, T1> {
     

@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ALUMNOS
+ * @author Eduardo
  */
 public class Areadetriagulo2 {
 

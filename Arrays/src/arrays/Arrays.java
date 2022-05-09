@@ -6,7 +6,7 @@
 package arrays;
 /**
  *
- * @author ALUMNOS
+ * @author Eduardo
  */
 public class Arrays {
 

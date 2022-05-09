@@ -7,7 +7,7 @@ package incio;
 
 /**
  *
- * @author ALUMNOS
+ * @author Eduardo
  */
 public class inicio {
     

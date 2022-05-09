@@ -7,7 +7,7 @@ package metodosarreglos;
 
 /**
  *
- * @author ALUMNOS
+ * @author Eduardo
  */
 class retrun {
     

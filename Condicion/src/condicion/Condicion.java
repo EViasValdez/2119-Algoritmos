@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Biblioteca digital
+ * @author Eduardo
  */
 public class Condicion {
 
