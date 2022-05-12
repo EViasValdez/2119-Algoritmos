@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class Cambio {
 

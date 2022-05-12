@@ -6,7 +6,7 @@
 package arrays;
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class Arrays {
 
@@ -18,6 +18,7 @@ public class Arrays {
         // TODO code application logic here
         String [] objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola", "Refrigerador", "Mesa", "Tetera", "Horno"};
         Boolean [] datos = {true, false, true, false, true, false, true, false};
+
         int [] numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
         int num = 0;
         int [] numero;
@@ -59,6 +60,7 @@ public class Arrays {
             int i;
             
             for (int 1 = 0; i < 5; 1++){
+                
             }
         }
     }

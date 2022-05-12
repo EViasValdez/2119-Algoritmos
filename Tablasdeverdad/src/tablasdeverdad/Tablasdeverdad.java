@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class Tablasdeverdad {
 
@@ -68,6 +68,7 @@ public class Tablasdeverdad {
             System.out.println("Sensores de fuego");
             fuego = Boolean.parseBoolean(br.readLine());
             humo = Boolean.parseBoolean(br.readLine());
+            
             if (fuego == true || humo == true){
                 System.out.println("Los sensores se activan");
             }else{

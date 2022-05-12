@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author KEVIN
+ * @author KEVIN (Correcciones por EViasValdez)
  */
 public class Arreglos {
 

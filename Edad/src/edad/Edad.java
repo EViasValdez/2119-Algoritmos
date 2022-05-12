@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class Edad {
 
@@ -51,7 +51,7 @@ public class Edad {
             }
                 }
                 }
-                }
+            }
         }
     }
 }
