@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Eduardo
+ * @author EViasValdez
  */
 public class EjemplosArray2 {
 
