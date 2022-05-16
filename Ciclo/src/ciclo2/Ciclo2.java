@@ -25,14 +25,14 @@ public class Ciclo2 {
         // Se declaran 3 variables de tipo entero "numero1", "suma" y "contador".
         // La variable "suma" iniciara en cero debido a que mostrara el resultado de una operacion.
         int numero1, suma = 0, contador;
-        // La instrucion for indica que se comenzara con un ciclo y que las instrucciones que
-        // estan detro de las llaves de for son las que se repetiran mientras se cumpla la
-        // condicion de "contador <= 4" para "contador = 0".
-        // Se inicializa a la vaiable for en 0 esto es equivalente a iniciar "contador = 0"
-        // desde que se declara como en la instruccion while y do-while despues se indica la
-        // condicion "contador <= 4" que es equivalente a la condicion que se evalua en while
-        // y do-while y por ultimo "contador++" que es equivalente a "contador = contador + 1"
-        // como se indicaba en while y do-while.
+        // La instrucion for indica que se comenzara con un ciclo y que las instrucciones que estan
+        // detro de las llaves de for son las que se repetiran mientras se cumpla la condicion de
+        // "contador <= 4" para "contador = 0".
+        // Se inicializa a la vaiable for en 0 esto es equivalente a iniciar "contador = 0" desde
+        // que se declara como en la instruccion while y do-while despues se indica la condicion
+        // "contador <= 4" que es equivalente a la condicion que se evalua en while y do-while
+        // y por ultimo "contador++" que es equivalente a "contador = contador + 1" como se
+        // indicaba en while y do-while.
         for (contador = 0; contador <= 4; contador--)
         {
             // La instruccion "ConsoleWriteLine" se usa para enviar mensajes a la consola.
