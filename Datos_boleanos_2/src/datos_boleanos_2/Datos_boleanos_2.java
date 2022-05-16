@@ -25,8 +25,8 @@ public class Datos_boleanos_2 {
         // 2) La valvula 2 esta abierta.
         // 3) La valvula 3 esta abierta.
         // 4) La valvula 4 esta abierta.
-        // 5) LA BOMBA ESTA ABIERTA.
-        // 6) LA ENERGIA ELECTRICA ESTA APAGADA.
+        // 5) La bomba esta abierta.
+        // 6) La energia electrica esta apagada.
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
