@@ -20,7 +20,7 @@ public class Datos_boleanos_2 {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-        // UN TANQUE DE AGUA SE LLENA EN BASE A LO SIGUIENTE:
+        // Un tanque de agua se llena en base a lo siguiente:
         // 1) LA VALVULA 1 ESTA ABIERTA.
         // 2) LA VALVULA 2 ESTA ABIERTA.
         // 3) LA VALVULA 3 ESTA ABIERTA.
