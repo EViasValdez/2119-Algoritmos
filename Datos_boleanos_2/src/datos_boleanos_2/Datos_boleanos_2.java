@@ -21,10 +21,10 @@ public class Datos_boleanos_2 {
      */
     public static void main(String[] args) throws IOException {
         // Un tanque de agua se llena en base a lo siguiente:
-        // 1) LA VALVULA 1 ESTA ABIERTA.
-        // 2) LA VALVULA 2 ESTA ABIERTA.
-        // 3) LA VALVULA 3 ESTA ABIERTA.
-        // 4) LA VALVULA 4 ESTA ABERTA.
+        // 1) La valvula 1 esta abierta.
+        // 2) La valvula 2 esta abierta.
+        // 3) La valvula 3 esta abierta.
+        // 4) La valvula 4 esta abierta.
         // 5) LA BOMBA ESTA ABIERTA.
         // 6) LA ENERGIA ELECTRICA ESTA APAGADA.
         InputStreamReader isr = new InputStreamReader (System.in);
