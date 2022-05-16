@@ -20,14 +20,14 @@ public class Tablasdeverdad {
      * @throws java.io.IOException
      */
     /*
-        1. UNA CASA CUENTA CON SENSORES DE FUEGO EN LAS HABITACIONES, ESTOS SENSORES DE FUEGO EN LAS HABITACIONES
-        ESTOS SENSORES SE ACTIVARAN DE ACUERDO A LAS SIGUIENTES CONDICIONES.
-        A) SI OCURRE UN INCENDIO.
-        B) SI HAY HUMO.
-        C) EN CASO CONTRARIO NO SE ENCIENDEN.
+        1. Una casa cuenta con sensores de fuego en las habitaciones,
+        estos sensores de fuego en las habitaciones se activaran de acuerdo a las siguientes condiciones.
+        A) Si ocurre un incendio.
+        B) Si hay humo.
+        C) En caso contrario no se encienden.
 
-        2. EL CLIENTE TENDRA ACCESO A UNA CAJA FUERTE DE VALORES.
-        A) CONOCER LA COMBINACION DE 4 DIGITOS.
+        2. El cliente tendra acceso a una caja fuerte de valores.
+        A) Conocer la combinacion de 4 digitos.
 
         3. EL CLIENTE DE UN BANCO REQUIERE RETIRAR DINERO DE UN CAJERO AUTOMATICO.
         A) CONOCER LOS 4 DIGITOS DE SU TARJETA.
