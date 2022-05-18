@@ -26,7 +26,7 @@ public class EjemplosArray2 {
             System.out.println(listaNombres.get(i));
         }
     }
-   public static String getName (String i){
+    public static String getName (String i){
         String nombre = "Eduardo: " + i;
         return nombre;
    }

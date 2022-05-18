@@ -49,8 +49,8 @@ public class Edad {
             if (edad >= 6 && edad <= 10 || promedio == 7){
                 System.out.println("");
             }
-                }
-                }
+            }
+            }
             }
         }
     }
