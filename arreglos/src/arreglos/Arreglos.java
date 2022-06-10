@@ -58,18 +58,18 @@ public class Arreglos {
         float calif = leer.nextFloat();
         while (calif != -1)
         {
-            notas.add(calif); // El metodo add se utiliza para ir agregando datos al arreglo.
+            notas.add(calif); // El método add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje en pantalla
             // donde se especifica el formato de los datos con "%d" para datos de tipo entero.
             calif = leer.nextFloat();
         }
-        int nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
+        int nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
         float suma = 0;
         
         for (l = 0; l < nalumnos; l++)
         {
-            suma += notas.get(l); // El metodo get obtiene un elemento del arreglo en este
-            // caso obtiene el dato de la posicion 1 del arreglo.
+            suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
+            // caso obtiene el dato de la posición 1 del arreglo.
             System.out.println();
             System.out.printf("Nota media del curso: %5.2f ", suma / nalumnos);
         }
@@ -90,7 +90,7 @@ public class Arreglos {
             System.out.println("Dias de la semana");
             car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char) car; // Se asigna lo que vaya leyedo en la variable "car" a el arreglo "Letras2".
+            Letras2 [j] = (char) car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }

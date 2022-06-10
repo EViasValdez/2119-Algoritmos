@@ -28,9 +28,9 @@ public class Menu {
 
         System.out.println("1 - Suma");
         System.out.println("2 - Resta");
-        System.out.println("3 - Multiplicacion");
+        System.out.println("3 - Multiplicación");
         System.out.println("4 - Division");
-        System.out.println("Elige una opcion");
+        System.out.println("Elige una opción");
         opc = Integer.parseInt(br.readLine());
         
         switch (opc){
@@ -58,7 +58,7 @@ public class Menu {
             System.out.println("Escribe el segundo numero");
             n2 = Float.parseFloat(br.readLine());
             multiplicacion = n1 * n2;
-            System.out.println("La multiplicacion es: " + multiplicacion);
+            System.out.println("La multiplicación es: " + multiplicacion);
         break;
 
         case 4:
@@ -71,7 +71,7 @@ public class Menu {
         break;
 
         default:
-            System.out.println("Opcion no valida");
+            System.out.println("Opción no valida");
         break;
         }
     }

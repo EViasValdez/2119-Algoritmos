@@ -44,7 +44,7 @@ public class Edad {
                 System.out.println("Puedes ingresar al basquetbol");
             }else{
             if (edad >= 6 && edad <= 10 || promedio == 10){
-                System.out.println("Puedes ingesar al deporte que quieras");
+                System.out.println("Puedes ingresar al deporte que quieras");
             }else{
             if (edad >= 6 && edad <= 10 || promedio == 7){
                 System.out.println("");

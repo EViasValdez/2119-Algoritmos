@@ -29,7 +29,7 @@ public class Menu2 {
         System.out.println("1 - Calcular area del cuadrado");
         System.out.println("2 - Calcular area del circulo");
         System.out.println("3 - Calcular area del triangulo");
-        System.out.println("Elige una opcion");
+        System.out.println("Elige una opción");
         opc = Integer.parseInt(br.readLine());
         
         switch (opc){
@@ -59,7 +59,7 @@ public class Menu2 {
         break;
 
         default:
-        System.out.println("Opcion invalida");
+        System.out.println("Opción invalida");
 
         break;
         }

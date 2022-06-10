@@ -26,12 +26,12 @@ public class Tablasdeverdad {
         B) Si hay humo.
         C) En caso contrario no se encienden.
 
-        2. El cliente tendra acceso a una caja fuerte de valores.
-        A) Conocer la combinacion de 4 digitos.
+        2. El cliente tendrá acceso a una caja fuerte de valores.
+        A) Conocer la combinación de 4 dígitos.
 
-        3. EL CLIENTE DE UN BANCO REQUIERE RETIRAR DINERO DE UN CAJERO AUTOMATICO.
-        A) CONOCER LOS 4 DIGITOS DE SU TARJETA.
-        B) TENER LOS DATOS DEL CLIENTE (CODIGO 16 DIGITOS, OTROS 4 DIGITOS).
+        3. EL CLIENTE DE UN BANCO REQUIERE RETIRAR DINERO DE UN CAJERO AUTOMÁTICO.
+        A) CONOCER LOS 4 DÍGITOS DE SU TARJETA.
+        B) TENER LOS DATOS DEL CLIENTE (CÓDIGO 16 DÍGITOS, OTROS 4 DÍGITOS).
     */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here  
@@ -41,11 +41,11 @@ public class Tablasdeverdad {
         boolean ventana1, ventana2, puerta, fuego, humo, digito1, digito2, digito3, digito4, digit1, digit2, digit3, digit4;
         int opcion;
 
-        System.out.println("Elige una opcion");
+        System.out.println("Elige una opción");
         System.out.println("1. Problema examen");
         System.out.println("2. Problema sensores");
         System.out.println("3. Problema caja fuerte");
-        System.out.println("4. Problema cajero automatico");
+        System.out.println("4. Problema cajero automático");
         
         opcion = Integer.parseInt(br.readLine());
 
@@ -77,7 +77,7 @@ public class Tablasdeverdad {
         break;
 
         case 3:
-            System.out.println("Primer digito");
+            System.out.println("Primer dígito");
             digito1 = Boolean.parseBoolean(br.readLine());
             System.out.println("Segundo digito");
             digito2 = Boolean.parseBoolean(br.readLine());

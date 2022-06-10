@@ -29,7 +29,7 @@ public class Ciclos {
         float calificacion [] = new float [5];
 
         for (int i = 0; i < calificacion.length; i++){
-            System.out.println("Escribe la clasificacion");
+            System.out.println("Escribe la calcificación");
             calificacion [i] = Float.parseFloat(br.readLine());
             
             if (calificacion [i] > 10 || calificacion [i] < 0){
@@ -50,6 +50,6 @@ public class Ciclos {
         System.out.println("El promedio es: " + promedio);
         System.out.println("Alumnos reprobados: " + reprobaron);
         System.out.println("Alumnos aprobados: " + aprobaron);
-        System.out.println("Promedios invalidos: " + invalida);
+        System.out.println("Promedios inválidos: " + invalida);
     }
 }

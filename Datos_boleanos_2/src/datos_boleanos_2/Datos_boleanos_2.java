@@ -21,39 +21,39 @@ public class Datos_boleanos_2 {
      */
     public static void main(String[] args) throws IOException {
         // Un tanque de agua se llena en base a lo siguiente:
-        // 1) La valvula 1 esta abierta.
-        // 2) La valvula 2 esta abierta.
-        // 3) La valvula 3 esta abierta.
-        // 4) La valvula 4 esta abierta.
+        // 1) La válvula 1 esta abierta.
+        // 2) La válvula 2 esta abierta.
+        // 3) La válvula 3 esta abierta.
+        // 4) La válvula 4 esta abierta.
         // 5) La bomba esta abierta.
-        // 6) La energia electrica esta apagada.
+        // 6) La energía eléctrica esta apagada.
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
         boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
 
-        System.out.println("Estado de la valvula 1");
+        System.out.println("Estado de la válvula 1");
         valvula1 = Boolean.parseBoolean(br.readLine());
         
-        System.out.println("Estado de la valvula 2");
+        System.out.println("Estado de la válvula 2");
         valvula2 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la valvula 3");
+        System.out.println("Estado de la válvula 3");
         valvula3 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la valvula 4");
+        System.out.println("Estado de la válvula 4");
         valvula4 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la bomba");
         bomba = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la energia electrica");
+        System.out.println("Estado de la energía eléctrica");
         energiaelectrica = Boolean.parseBoolean(br.readLine());
         
         if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)){
             System.out.println("Tanque lleno");
         }else{
-            System.out.println("Tanque vacio");
+            System.out.println("Tanque vació");
         }
     }
 }
