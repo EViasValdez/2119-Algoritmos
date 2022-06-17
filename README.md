@@ -1,22 +1,22 @@
 # Algoritmos
-<!----Descripcion---->
-Documentos de la asignatura de algoritmos que fue la primera materia donde aprendi (de forma un poco complicada) sobre los entornos de programacion, la mayoria de estos son archvios que fueron realizados usando java (aunque uno de ellos se hizo en lenguaje C++).
-<!----Separador de la descripcion ---->
+<!----Descripción---->
+Documentos de la asignatura de algoritmos que fue la primera materia donde aprendí (de forma un poco complicada) sobre los entornos de programación, la mayoría de estos son archivos que fueron realizados usando java (aunque uno de ellos se hizo en lenguaje C++).
+<!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas**
 
 **- Realize identacion en los archivos para que no se vieran tan juntos.**
 
-**- Corregi algunos errores ortograficos que tenian algunos textos.**
+**- Corregí algunos errores ortográficos que tenían algunos textos.**
 
 **- Trate de completar algunas partes que no estaban conclusas antes de estas revisiones.**
 
-**- Incluyen algunos documentos que fueron realizados durante asesorias de esta materia y de otra materia de ese mismo parcial.**
+**- Incluyen algunos documentos que fueron realizados durante asesorías de esta materia y de otra materia de ese mismo parcial.**
 <!----Separador de las notas---->
 
-<!----Directorio con ubicacion de archivos---->
-# Directorio con ubicacion de archivos
+<!----Directorio con ubicación de archivos---->
+# Directorio con ubicación de archivos
 ## ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
 (datos_boleanos/nbproject/private/private.properties, 
@@ -408,4 +408,4 @@ Condicion/nbproject/private/project.xml,
 Condicion/src/condicion/condicion.java, 
 Condicion/build.xml, 
 Condicion/manifest.mf)
-<!----Separador del direrctorio con ubicacion de archivos---->
+<!----Separador del directorio con ubicaron de archivos---->
