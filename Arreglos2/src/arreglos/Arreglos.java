@@ -61,7 +61,7 @@ public class Arreglos {
         while (calif != -1)
         {
             notas.add(calif); // El método add se utiliza para ir agregando datos al arreglo.
-            System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje en pantalla
+            System.out.printf("Alumno numero %3d, nota media: ", ++l); // Cuando se usa "printf" muestra un mensaje en pantalla
             // en el cual se especifica el formato de los datos con "%d" para datos de tipo entero.
             calif = leer.nextFloat();
         }
