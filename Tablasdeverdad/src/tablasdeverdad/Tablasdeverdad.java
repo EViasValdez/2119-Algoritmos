@@ -29,9 +29,9 @@ public class Tablasdeverdad {
         2. El cliente tendrá acceso a una caja fuerte de valores.
         A) Conocer la combinación de 4 dígitos.
 
-        3. EL CLIENTE DE UN BANCO REQUIERE RETIRAR DINERO DE UN CAJERO AUTOMÁTICO.
-        A) CONOCER LOS 4 DÍGITOS DE SU TARJETA.
-        B) TENER LOS DATOS DEL CLIENTE (CÓDIGO 16 DÍGITOS, OTROS 4 DÍGITOS).
+        3. El cliente de un banco requiere retirar dinero de un cajero automático.
+        A) Conocer los 4 dígitos de su tarjeta.
+        B) Tener los datos del cliente (Código 16 dígitos, otros 4 dígitos).
     */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here  
