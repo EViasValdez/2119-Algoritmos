@@ -35,7 +35,7 @@ public class Aplicacion {
         System.out.println("Esta es la lista de alumnos disponibles");
         
         for (int i = 0; i < names.size(); i++){
-            System.out.print(names.get (i) + " | ");
+            System.out.print(names.get(i) + " | ");
         }
         
         System.out.println("¿Desea agregar a alguien mas?");

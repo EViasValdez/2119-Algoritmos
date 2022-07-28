@@ -32,14 +32,14 @@ public class Arrays {
                 
         System.out.println("Sea bienvenido");
         System.out.println("Asignación de elementos de alumnos");
-        for (int x = 0; x < 10; x++){
+        for (int x = 0; x < 10; x++) {
             num = num + 1;
             System.out.println("Alumno" + num);
             
             String [] nombre;
             
             System.out.println("Nombre: " + nombre [x]);
-            if (datos [x] == true){
+            if (datos [x] == true) {
                 System.out.println("Grupo asignado: A");
             }else{
                 System.out.println("Grupo asignado: B");
@@ -47,7 +47,7 @@ public class Arrays {
 
             int [] binarios;
 
-            if (binarios [x] == 1){
+            if (binarios [x] == 1) {
                 System.out.println("Genero: Mujer");
             }else{
                 System.out.println("Genero: Hombre");
@@ -59,7 +59,7 @@ public class Arrays {
             
             int i;
             
-            for (int 1 = 0; i < 5; 1++){
+            for (int 1 = 0; i < 5; 1++) {
                 
             }
         }

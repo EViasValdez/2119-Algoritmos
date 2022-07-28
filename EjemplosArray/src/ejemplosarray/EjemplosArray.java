@@ -31,23 +31,23 @@ public class EjemplosArray {
         System.out.println("");
         System.out.println("");
         
-        for (int i = 0; i < animales.length; i++){
+        for (int i = 0; i < animales.length; i++) {
             System.out.print(animales [i] + " | ");
             animales2.add (animales [i]);
         }
         
         int op = 1;
         
-        while (op == 1){
+        while (op == 1) {
             System.out.println("¿Desea agregar otro animal?");
             op = leer.nextInt();
             
-            if (op == 1){
+            if (op == 1) {
                 System.out.println("Ingrese un animal");
                 animales2.add ("d");
             }
         }
-        for (int i = 0; i < animales2.size(); i++){
+        for (int i = 0; i < animales2.size(); i++) {
             System.out.println(animales2.get(i));
         }
     }

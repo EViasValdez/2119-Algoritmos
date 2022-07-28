@@ -23,11 +23,11 @@ public class AsesoriasArreglos {
         String nombres [] = new String [7];
         String apellidos [] = new String [5];
         
-        for (int i = 1; i <= 7; i++){
+        for (int i = 1; i <= 7; i++) {
             System.out.println("Escribe el nombre");
             nombres [i] = leer.next();
         }
-        for (int i = 1; i <= 5; i++){
+        for (int i = 1; i <= 5; i++) {
             System.out.println("Escribe el apellido");
             apellidos [i] = leer.next();
         }
@@ -35,7 +35,7 @@ public class AsesoriasArreglos {
         String nombre = "Alicia";
         String apellido = "Flores";
         
-        for (int i = 1; i < 7; i++){
+        for (int i = 1; i < 7; i++) {
             if (nombre.equals(nombres [i])){
                 System.out.println("Si esta");
             }else{

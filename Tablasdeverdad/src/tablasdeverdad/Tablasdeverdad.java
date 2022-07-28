@@ -49,7 +49,7 @@ public class Tablasdeverdad {
         
         opcion = Integer.parseInt(br.readLine());
 
-        switch (opcion){
+        switch (opcion) {
         case 1:
             System.out.println("Estado de la ventana 1");
             ventana1 = Boolean.parseBoolean(br.readLine());
@@ -58,7 +58,7 @@ public class Tablasdeverdad {
             System.out.println("Estado de la puerta");
             puerta = Boolean.parseBoolean(br.readLine());
             
-            if (ventana1 == true || ventana2 == true || puerta == true){
+            if (ventana1 == true || ventana2 == true || puerta == true) {
                 System.out.println("La alarma se activa");
             }else{
                 System.out.println("La alarma no se activa");
@@ -69,7 +69,7 @@ public class Tablasdeverdad {
             fuego = Boolean.parseBoolean(br.readLine());
             humo = Boolean.parseBoolean(br.readLine());
             
-            if (fuego == true || humo == true){
+            if (fuego == true || humo == true) {
                 System.out.println("Los sensores se activan");
             }else{
                 System.out.println("Los sensores no se activan");
@@ -86,7 +86,7 @@ public class Tablasdeverdad {
             System.out.println("Cuarto digito");
             digito4 = Boolean.parseBoolean(br.readLine());
 
-            if (digito1 == true || digito2 == true || digito3 == true || digito3 == true){
+            if (digito1 == true || digito2 == true || digito3 == true || digito3 == true) {
                 System.out.println("La caja se abre");
             }else{
                 System.out.println("La caja no se abre");
@@ -103,7 +103,7 @@ public class Tablasdeverdad {
             System.out.println("Cuarto digito");
             digit4 = Boolean.parseBoolean(br.readLine());
 
-            if (digit1 == true || digit2 == true || digit3 == true){
+            if (digit1 == true || digit2 == true || digit3 == true) {
                 System.out.println("Puede retirar el dinero");
             }else{
                 System.out.println("No puede retirar el dinero");

@@ -24,9 +24,9 @@ public class Array {
         
         int n = 0;
 
-        for (int i = 0; i < n; i++){
+        for (int i = 0; i < n; i++) {
             int num = alea.nextInt (2019);
-        
+
             while (num > 1950){
                 if (num < 1950){
                     break;
@@ -34,8 +34,8 @@ public class Array {
                 num = alea.nextInt (2019);
             }
             nums.add (num);
-            }
+        }
     }
-    public static ArrayList <Integer> matricula(int s){
+    public static ArrayList <Integer> matricula(int s) {
         String letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
     }

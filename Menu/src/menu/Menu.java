@@ -33,7 +33,7 @@ public class Menu {
         System.out.println("Elige una opción");
         opc = Integer.parseInt(br.readLine());
         
-        switch (opc){
+        switch (opc) {
         case 1:
             System.out.println("Escribe el primer numero");
             n1 = Float.parseFloat(br.readLine());

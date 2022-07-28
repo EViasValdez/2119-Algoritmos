@@ -19,14 +19,14 @@ public class EjemplosArray2 {
     public static void main(String[] args) {
         ArrayList <String> listaNombres = new ArrayList<String>();
         
-        for (int i = 0; i < 1000; i++){
+        for (int i = 0; i < 1000; i++) {
             listaNombres.add (getName(String.valueOf(i)));
         }
-        for (int i = 0; i < listaNombres.size(); i++){
+        for (int i = 0; i < listaNombres.size(); i++) {
             System.out.println(listaNombres.get(i));
         }
     }
-    public static String getName (String i){
+    public static String getName (String i) {
         String nombre = "Eduardo: " + i;
         return nombre;
    }
