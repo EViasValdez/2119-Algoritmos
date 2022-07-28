@@ -29,7 +29,7 @@ public class Menu {
         System.out.println("1 - Suma");
         System.out.println("2 - Resta");
         System.out.println("3 - Multiplicación");
-        System.out.println("4 - Division");
+        System.out.println("4 - División");
         System.out.println("Elige una opción");
         opc = Integer.parseInt(br.readLine());
         
@@ -67,7 +67,7 @@ public class Menu {
             System.out.println("Escribe el segundo numero");
             n2 = Float.parseFloat(br.readLine());
             division = n1 / n2;
-            System.out.println("La division es: " + division);
+            System.out.println("La división es: " + division);
         break;
 
         default:
