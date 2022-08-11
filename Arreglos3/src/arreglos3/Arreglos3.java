@@ -25,14 +25,14 @@ public class Arreglos3 {
         float precios [] = new float [10];
         float suma = 0, promedio = 0;
 
-        for (int x = 0; x < 10; x++){
+        for (int x = 0; x < 10; x++) {
             System.out.println("Escribe el precio");
             precios [x] = Float.parseFloat(br.readLine());
         }
-        for (int x = 0; x < 10; x++){
+        for (int x = 0; x < 10; x++) {
             System.out.println("Los precios son: " + precios [x]);
         }
-        for (int x = 0; x < 10; x++){
+        for (int x = 0; x < 10; x++) {
             suma = suma + precios [x];
         }
         promedio = suma / 10;
@@ -40,18 +40,18 @@ public class Arreglos3 {
         System.out.println("El total de los precios es: " + suma);
         System.out.println("El promedio de los precios es: "  + promedio);
 
-        for (int x = 0; x < 10; x++){
-            if (precios [x] >= 5000){
+        for (int x = 0; x < 10; x++) {
+            if (precios [x] >= 5000) {
                 System.out.println("El precio es muy alto");
             }else{
                 System.out.println("El precio es muy bajo");
             }
         }
-        for (int x = 0; x < 10; x++){
-            if (precios [x] < 0){
+        for (int x = 0; x < 10; x++) {
+            if (precios [x] < 0) {
                 System.out.println("No puede haber precios negativos");
             }else{
-            if (precios [x] == 0){    
+            if (precios [x] == 0) {    
                 System.out.println("El precio debe ser mayor que 0");
             }
             }
@@ -59,8 +59,8 @@ public class Arreglos3 {
 
         float mayor = precios [0];
 
-        for (int x = 0; x < 10; x++){
-            if (precios [x] > mayor){
+        for (int x = 0; x < 10; x++) {
+            if (precios [x] > mayor) {
                 mayor = precios [x];
             }
         }
@@ -68,8 +68,8 @@ public class Arreglos3 {
         
         float menor = precios [0];
 
-        for (int x = 0; x < 10; x++){
-            if (precios [x] < menor){
+        for (int x = 0; x < 10; x++) {
+            if (precios [x] < menor) {
                 menor = precios [x];
             }
         }

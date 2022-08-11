@@ -34,7 +34,7 @@ public class Aplicacion {
         System.out.println("Bienvenido");
         System.out.println("Esta es la lista de alumnos disponibles");
         
-        for (int i = 0; i < names.size(); i++){
+        for (int i = 0; i < names.size(); i++) {
             System.out.print(names.get(i) + " | ");
         }
         
@@ -43,8 +43,8 @@ public class Aplicacion {
         
         boolean alumno = leer.nextBoolean();
         
-        if (alumno == true){
-            while (alumno == true){
+        if (alumno == true) {
+            while (alumno == true) {
                 System.out.println("Ingrese nombre");
             
                 String nombre = leer.next();
@@ -56,7 +56,7 @@ public class Aplicacion {
         
                 alumno = leer.nextBoolean();
                 
-                if (alumno == false){
+                if (alumno == false) {
                     System.out.println("El programa se cerrara");
                 }
             }
