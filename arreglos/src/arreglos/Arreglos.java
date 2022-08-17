@@ -48,8 +48,9 @@ public class Arreglos {
         {
             System.out.println(m [k] + " ");
         }
-        ArrayList <Float> notas = new ArrayList <>(); // La Clase ArrayList se utiliza para crear arreglos unidimensionales
-        // en este caso se creo un arreglo llamado "notas de tipo float" y no se especifico el tamaño del mismo.
+        ArrayList <Float> notas = new ArrayList <>(); // La Clase ArrayList se utiliza para crear
+        // arreglos unidimensionales, en este caso se creo un arreglo llamado "notas de tipo float"
+        // y no se especifico el tamaño del mismo.
         int l = 0;
 
         System.out.println("Introducir calificiones, finalizar con -1");
@@ -59,8 +60,9 @@ public class Arreglos {
         while (calif != -1)
         {
             notas.add(calif); // El método add se utiliza para ir agregando datos al arreglo.
-            System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje en pantalla
-            // donde se especifica el formato de los datos con "%d" para datos de tipo entero.
+            System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje
+            // en pantalla donde se especifica el formato de los datos
+            // con "%d" para datos de tipo entero.
             calif = leer.nextFloat();
         }
         int nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
