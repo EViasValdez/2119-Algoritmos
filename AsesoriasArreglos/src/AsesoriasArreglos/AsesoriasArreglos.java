@@ -42,11 +42,12 @@ public class AsesoriasArreglos {
                 System.out.println("No esta");
             }
         }
-        for (int i = 1; i < 5; i++)
+        for (int i = 1; i < 5; i++) {
             if (apellido.equals(apellidos [i])) {
                 System.out.println("Si existe");
             }else{
                 System.out.println("No existe");
+            }
         }
     }
 }

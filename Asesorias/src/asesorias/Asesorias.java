@@ -35,7 +35,7 @@ public class Asesorias {
             System.out.println("Escribe la categoría");
             categoria = Integer.parseInt(br.readLine());
 
-            switch (categoria){
+            switch (categoria) {
             case 1:
                 totalsalario = salario * 15;
                 System.out.println("El total del salario es: " + totalsalario);
