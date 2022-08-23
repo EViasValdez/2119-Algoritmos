@@ -56,9 +56,9 @@ public class Arrays {
             System.out.println("");
             // Calificaciones
             suma = 0;
-            
+
             int i;
-            
+
             for (int 1 = 0; i < 5; 1++) {
                 
             }

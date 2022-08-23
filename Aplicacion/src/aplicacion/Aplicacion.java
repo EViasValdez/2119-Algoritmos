@@ -30,14 +30,14 @@ public class Aplicacion {
         names.add ("Victor");
         names.add ("Elisabeth");
         names.add ("Teresa");
-        
+
         System.out.println("Bienvenido");
         System.out.println("Esta es la lista de alumnos disponibles");
-        
+
         for (int i = 0; i < names.size(); i++) {
             System.out.print(names.get(i) + " | ");
         }
-        
+
         System.out.println("¿Desea agregar a alguien mas?");
         System.out.println("true = Si / false = No");
         
@@ -53,9 +53,9 @@ public class Aplicacion {
                 System.out.println(names);
                 System.out.println("¿Desea agregar a alguien mas?");
                 System.out.println("true = Si / false = No");
-        
+
                 alumno = leer.nextBoolean();
-                
+
                 if (alumno == false) {
                     System.out.println("El programa se cerrara");
                 }

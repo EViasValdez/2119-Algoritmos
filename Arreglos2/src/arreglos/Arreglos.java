@@ -21,7 +21,7 @@ public class Arreglos {
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         Scanner leer = new Scanner (System.in);
-        
+
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
 
@@ -33,7 +33,7 @@ public class Arreglos {
         System.out.println("Numero de elementos del arreglo");
         nElementos = leer.nextInt();
         int [] m = new int [nElementos];
-        
+
         int k = 0;
 
         System.out.println("Ingresa los valores del arreglo");

@@ -26,11 +26,11 @@ public class Clases {
         "Espinoza", "Muñoz", "Soto", "Ernesto", "Flores", "Valdez", "Castillo", "Romero", "Zuñiga", "Contreras",
         "Riquelme", "Reyes", "Navarrete", "Campos", "Bustamante", "Pino", "Vega", "Cortes", "Romero", "Jimenez",
         "Carvajal", "Rojas", "Ortiz", "Sepulveda", "Lagos", "Riquelme", "Jara", "Torres", "Miranda", "Ortega"};
-    
+
         int a;
         int b;
         String c;
-        
+
         a = ran.nextInt (49);
         b = ran.nextInt (49);
         c = nom [b] + " " + ape [d];

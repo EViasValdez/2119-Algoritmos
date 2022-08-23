@@ -22,16 +22,16 @@ public class Datos_boleanos {
     public static void main(String[] args) throws IOException {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-        
+
         boolean contacto, ventana1, ventana2, puerta;
-        
+
         System.out.println("¿Esta encendido el foco?");
         contacto = Boolean.parseBoolean(br.readLine());
 
         if (contacto == true) {
             System.out.println("El foco esta encendido " + contacto);
         }
-        
+
         System.out.println("Estado de la puerta");
         puerta = Boolean.parseBoolean(br.readLine());
 

@@ -22,7 +22,7 @@ public class Asesorias {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-        
+
         float salario, totalsalario = 0;
         String nombre;
         int categoria;
@@ -49,7 +49,7 @@ public class Asesorias {
             case 3:
                 totalsalario = salario;
             break;
-            
+
             }
         }
     }

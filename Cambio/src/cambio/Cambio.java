@@ -21,7 +21,7 @@ public class Cambio {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-    
+
         int numero1, suma = 0, contador;
     }
 }
