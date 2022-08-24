@@ -22,11 +22,11 @@ public class Edad {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-        
+
         float edad, numeroniños, promedio;
-        
+
         int cuantos;
-        
+
         System.out.println("¿Cuantos niños son?");
         cuantos = Integer.parseInt(br.readLine());
 

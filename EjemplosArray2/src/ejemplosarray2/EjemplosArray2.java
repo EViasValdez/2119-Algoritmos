@@ -18,7 +18,7 @@ public class EjemplosArray2 {
      */
     public static void main(String[] args) {
         ArrayList <String> listaNombres = new ArrayList<String>();
-        
+
         for (int i = 0; i < 1000; i++) {
             listaNombres.add (getName(String.valueOf(i)));
         }

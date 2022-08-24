@@ -22,13 +22,13 @@ public class PromedioCalificaciones {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-        
+
         float calificacion, promedio, porcentaje, pagototal, mensualidad = 2000, suma = 0;
         int cuantos;
 
         System.out.println("¿Cuantos alumnos?");
         cuantos = Integer.parseInt(br.readLine());
-        
+
         for (int j = 0; j <= cuantos; j++) {
             for (int i = 0; i <= 3; i++) {
                 System.out.println("Calificacion");

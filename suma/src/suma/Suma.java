@@ -23,9 +23,9 @@ public class Suma {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-        
+
         float suma, numero1, numero2;
-        
+
         System.out.println("Escribe el primer numero");
         numero1 = Float.parseFloat(br.readLine());
         System.out.println("Escribe el segundo numero");
@@ -33,7 +33,7 @@ public class Suma {
 
         // suma = numero1 + numero2;
         // System.out.println("La suma es: " + suma (numero1, numero2));
-        
+
         System.out.println("La suma es: " + suma (numero1, numero2));
         System.out.println("La resta es: " + resta (numero1, numero2));
         System.out.println("La multiplicación es: " + resta (numero1, numero2));
@@ -59,7 +59,7 @@ public class Suma {
     }
     private static float division(float numero1, float numero2) {
         float division = 0;
-        
+
         division = numero1 / numero2;
         return division;
     }

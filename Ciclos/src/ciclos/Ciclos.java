@@ -23,7 +23,7 @@ public class Ciclos {
         // TODO code application logic here
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
-        
+
         int aprobaron = 0, reprobaron = 0, invalida = 0;
         float suma = 0, promedio = 0;
         float calificacion [] = new float [5];
@@ -31,7 +31,7 @@ public class Ciclos {
         for (int i = 0; i < calificacion.length; i++) {
             System.out.println("Escribe la calcificación");
             calificacion [i] = Float.parseFloat(br.readLine());
-            
+
             if (calificacion [i] > 10 || calificacion [i] < 0) {
                 invalida++;
             }else{

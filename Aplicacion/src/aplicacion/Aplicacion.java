@@ -46,7 +46,7 @@ public class Aplicacion {
         if (alumno == true) {
             while (alumno == true) {
                 System.out.println("Ingrese nombre");
-            
+
                 String nombre = leer.next();
                 names.add (nombre);
 

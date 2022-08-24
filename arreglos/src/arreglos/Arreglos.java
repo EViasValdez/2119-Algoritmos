@@ -31,7 +31,7 @@ public class Arreglos {
 
         System.out.println("Numero de elementos del arreglo");
         nElementos = leer.nextInt();
-        
+
         int [] m = new int [nElementos];
         int k = 0;
 
@@ -67,7 +67,7 @@ public class Arreglos {
         }
         int nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
         float suma = 0;
-        
+
         for (l = 0; l < nalumnos; l++)
         {
             suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
@@ -76,7 +76,7 @@ public class Arreglos {
             System.out.printf("Nota media del curso: %5.2f ", suma / nalumnos);
         }
         int car;
-        
+
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");
