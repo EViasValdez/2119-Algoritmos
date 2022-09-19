@@ -24,7 +24,7 @@ public class Algoritmos {
         int n1 = leer.nextInt();
 
         if (n1 < 1 && n1 > 3) {
-            System.out.println("Dato Incorrecto");
+            System.out.println("Dato incorrecto");
             }else{
             System.out.println("Dato correcto");
         }

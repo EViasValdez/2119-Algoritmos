@@ -32,22 +32,22 @@ public class Datos_boleanos_2 {
 
         boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
 
-        System.out.println("Estado de la válvula 1");
+        System.out.println("Estado de la valvula 1");
         valvula1 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la válvula 2");
+        System.out.println("Estado de la valvula 2");
         valvula2 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la válvula 3");
+        System.out.println("Estado de la valvula 3");
         valvula3 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la válvula 4");
+        System.out.println("Estado de la valvula 4");
         valvula4 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la bomba");
         bomba = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la energía eléctrica");
+        System.out.println("Estado de la energia eléctrica");
         energiaelectrica = Boolean.parseBoolean(br.readLine());
 
         if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)) {

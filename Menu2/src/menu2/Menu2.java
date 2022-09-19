@@ -26,9 +26,9 @@ public class Menu2 {
         int opc;
         float base, altura, area, pi = 3.1416f, radio;
 
-        System.out.println("1 - Calcular área del cuadrado");
-        System.out.println("2 - Calcular área del circulo");
-        System.out.println("3 - Calcular área del triangulo");
+        System.out.println("1 - Calcular area del cuadrado");
+        System.out.println("2 - Calcular area del circulo");
+        System.out.println("3 - Calcular area del triangulo");
         System.out.println("Elige una opción");
         opc = Integer.parseInt(br.readLine());
 
@@ -39,14 +39,14 @@ public class Menu2 {
             System.out.println("¿Cuánto es la altura?");
             altura = Float.parseFloat(br.readLine());
             area = base * altura;
-            System.out.println("El área del cuadrado es: " + area);
+            System.out.println("El area del cuadrado es: " + area);
         break;
 
         case 2:
             System.out.println("¿Cuánto es el radio?");
             radio = Float.parseFloat(br.readLine());
             area = pi * (radio * radio);
-            System.out.println("El área de circulo es: " + area);
+            System.out.println("El area de circulo es: " + area);
         break;
 
         case 3:
@@ -55,7 +55,7 @@ public class Menu2 {
             System.out.println("¿Cuánto es la altura?");
             altura = Float.parseFloat(br.readLine());
             area = base * altura;
-            System.out.println("El área del triangulo es: " + area);
+            System.out.println("El area del triangulo es: " + area);
         break;
 
         default:

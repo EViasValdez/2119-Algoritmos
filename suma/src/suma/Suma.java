@@ -36,7 +36,7 @@ public class Suma {
 
         System.out.println("La suma es: " + suma (numero1, numero2));
         System.out.println("La resta es: " + resta (numero1, numero2));
-        System.out.println("La multiplicación es: " + resta (numero1, numero2));
+        System.out.println("La multiplicacion es: " + resta (numero1, numero2));
         System.out.println("La division es: " + resta (numero1, numero2));
     }
     private static float suma(float numero1, float numero2) {

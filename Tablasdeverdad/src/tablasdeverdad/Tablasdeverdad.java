@@ -41,7 +41,7 @@ public class Tablasdeverdad {
         boolean ventana1, ventana2, puerta, fuego, humo, digito1, digito2, digito3, digito4, digit1, digit2, digit3, digit4;
         int opcion;
 
-        System.out.println("Elige una opción");
+        System.out.println("Elige una opcion");
         System.out.println("1. Problema examen");
         System.out.println("2. Problema sensores");
         System.out.println("3. Problema caja fuerte");

@@ -51,7 +51,7 @@ public class Arreglos3 {
             if (precios [x] < 0) {
                 System.out.println("No puede haber precios negativos");
             }else{
-            if (precios [x] == 0) {    
+            if (precios [x] == 0) {
                 System.out.println("El precio debe ser mayor que 0");
             }
             }

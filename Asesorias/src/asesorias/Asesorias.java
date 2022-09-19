@@ -32,7 +32,7 @@ public class Asesorias {
             nombre = br.readLine();
             System.out.println("Escribe el salario");
             salario = Float.parseFloat(br.readLine());
-            System.out.println("Escribe la categoría");
+            System.out.println("Escribe la categoria");
             categoria = Integer.parseInt(br.readLine());
 
             switch (categoria) {
