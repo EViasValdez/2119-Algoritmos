@@ -8,7 +8,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Realize identacion en los archivos para que no se vieran tan juntos.**
 
-**- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin puntuaciones las lineas de codigo que mostraran texto ya que no se pueden ver de forma correcta.**
+**- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin puntuaciones las lineas de codigo que mostraran texto ya que no se pueden ver de forma correcta en la ventana de ejecucion de NetBeans.**
 
 **- Trate de completar algunas partes que no estaban conclusas antes de estas revisiones.**
 
