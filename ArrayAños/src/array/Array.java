@@ -38,4 +38,6 @@ public class Array {
     }
     public static ArrayList <Integer> matricula(int s) {
         String letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
+        return null;
     }
+}
