@@ -78,9 +78,5 @@ public class Colores {
                 blue++;
             }
         }
-        for (int i = 0; i < 100; i++)
-        {
-
-        }
     }
 }
