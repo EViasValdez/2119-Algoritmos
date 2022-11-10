@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package arreglos;
+package arreglos1;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author KEVIN (Correcciones por EViasValdez)
  */
-public class Arreglos {
+public class Arreglos1 {
 
     /**
      * @param args the command line arguments

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package areadetriagulo2;
+package areadetriangulo2;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author EViasValdez
  */
-public class Areadetriagulo2 {
+public class Areadetriangulo2 {
 
     /**
      * @param args the command line arguments
