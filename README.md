@@ -74,16 +74,16 @@ Holamundo/manifest.mf)
 (ZinjaI/Calificaciones.cpp, Calificaciones.exe)
 <!----Separador---->
 ###### Algoritmos - 09/10/19
-(Algoritmos/build/classes/algoritmos/Algoritmos.class, 
-Algoritmos/nbproject/private/private.properties, 
-Algoritmos/nbproject/private/private.xml, 
-Algoritmos/nbproject/build-impl.xml, 
-Algoritmos/nbproject/genfiles.properties, 
-Algoritmos/nbproject/project.properties, 
-Algoritmos/nbproject/project.xml, 
-Algoritmos/src/algoritmos/Algoritmos.java, 
-Algoritmos/build.xml, 
-Algoritmos/manifest.mf)
+(Algoritmos2/build/classes/algoritmos2/Algoritmos2.class, 
+Algoritmos2/nbproject/private/private.properties, 
+Algoritmos2/nbproject/private/private.xml, 
+Algoritmos2/nbproject/build-impl.xml, 
+Algoritmos2/nbproject/genfiles.properties, 
+Algoritmos2/nbproject/project.properties, 
+Algoritmos2/nbproject/project.xml, 
+Algoritmos2/src/algoritmos/Algoritmos2.java, 
+Algoritmos2/build.xml, 
+Algoritmos2/manifest.mf)
 <!----Separador---->
 ###### Areadeltriangulo - 09/10/19
 (Areadeltriangulo/nbproject/private/private.properties, 
@@ -139,17 +139,17 @@ Cambio/src/cambio/Cambio.java,
 Cambio/build.xml, 
 Cambio/manifest.mf)
 <!----Separador---->
-###### arreglos, Arreglos2, Salarios - 19/10/2019
-(arreglos/build/classes/arreglos/Arreglos.class, 
-arreglos/nbproject/private/private.properties, 
-arreglos/nbproject/private/private.xml, 
-arreglos/nbproject/build-impl.xml, 
-arreglos/nbproject/genfiles.properties, 
-arreglos/nbproject/project.properties, 
-arreglos/nbproject/project.xml, 
-arreglos/src/arreglos/Arreglos.java, 
-arreglos/build.xml, 
-arreglos/manifest.mf)
+###### Arreglos1, Arreglos2, Salarios - 19/10/2019
+(Arreglos1/classes/arreglos1/Arreglos1.class, 
+Arreglos1/nbproject/private/private.properties, 
+Arreglos1/nbproject/private/private.xml, 
+Arreglos1/nbproject/build-impl.xml, 
+Arreglos1/nbproject/genfiles.properties, 
+Arreglos1/nbproject/project.properties, 
+Arreglos1/nbproject/project.xml, 
+Arreglos1/src/arreglos1/Arreglos1.java, 
+Arreglos1/build.xml, 
+Arreglos1/manifest.mf)
 <!--Separador-->
 (Arreglos2/build/classes/arreglos/Arreglos.class, 
 Arreglos2/build/built-jar.properties, 
@@ -202,18 +202,18 @@ Ciclos/src/ciclos/Ciclos.java,
 Ciclos/build.xml, 
 Ciclos/manifest.mf)
 <!----Separador---->
-###### suma, metodosarreglos - 09/11/19
-(suma/build/classes/suma/Suma.class, 
-suma/build/classes/.netbeans_automatic_build, 
-suma/build/classes/.netbeans_update_resources, 
-suma/nbproject/private/private.properties, 
-suma/nbproject/private/private.xml, 
-suma/nbproject/build-impl.xml, 
-suma/nbproject/genfiles.properties, 
-suma/nbproject/project.properties, 
-suma/nbproject/project.xml, 
-suma/build.xml, 
-suma/manifest.mf)
+###### Suma, metodosarreglos - 09/11/19
+(Suma/build/classes/suma/Suma.class, 
+Suma/build/classes/.netbeans_automatic_build, 
+Suma/build/classes/.netbeans_update_resources, 
+Suma/nbproject/private/private.properties, 
+Suma/nbproject/private/private.xml, 
+Suma/nbproject/build-impl.xml, 
+Suma/nbproject/genfiles.properties, 
+Suma/nbproject/project.properties, 
+Suma/nbproject/project.xml, 
+Suma/build.xml, 
+Suma/manifest.mf)
 <!--Separador-->
 (metodosarreglos/build/classes/metodosarreglos/Metodosarreglos.class, 
 metodosarreglos/build/classes/metodosarreglos/retrun.class, 
