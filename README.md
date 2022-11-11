@@ -360,7 +360,7 @@ Edad/src/edad/Edad.java,
 Edad/build.xml, 
 Edad/manifest.mf)
 <!----Separador---->
-###### Arreglos3, Menu - 06/12/19
+###### Arreglos3, Menu1 - 06/12/19
 (Arreglos3/build/classes/arreglos3/private.properties, 
 Arreglos3/build/classes/arreglos3/private.xml, 
 Arreglos3/nbproject/private/private.properties, 
@@ -373,18 +373,18 @@ Arreglos3/src/arreglos3/Arreglos3.java,
 Arreglos3/build.xml, 
 Arreglos3/manifest.mf)
 <!--Separador-->
-(Menu/build/classes/menu/Menu.class, 
-Menu/build/classes/.netbeans_automatic_build, 
-Menu/build/classes/.netbeans_update_resources, 
-Menu/nbproject/private/private.properties, 
-Menu/nbproject/private/private.xml, 
-Menu/nbproject/build-impl.xml, 
-Menu/nbproject/genfiles.properties, 
-Menu/nbproject/project.properties, 
-Menu/nbproject/project.xml, 
-Menu/src/menu/Menu.java, 
-Menu/build.xml, 
-Menu/manifest.mf)
+(Menu1/build/classes/menu1/Menu1.class, 
+Menu1/build/classes/.netbeans_automatic_build, 
+Menu1/build/classes/.netbeans_update_resources, 
+Menu1/nbproject/private/private.properties, 
+Menu1/nbproject/private/private.xml, 
+Menu1/nbproject/build-impl.xml, 
+Menu1/nbproject/genfiles.properties, 
+Menu1/nbproject/project.properties, 
+Menu1/nbproject/project.xml, 
+Menu1/src/menu1/Menu1.java, 
+Menu1/build.xml, 
+Menu1/manifest.mf)
 <!----Separador---->
 ###### Menu2, Condicion - 07/12/19
 (Menu2/build/classes/menu2/Menu2.class, 
