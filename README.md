@@ -228,20 +228,20 @@ metodosarreglos/src/metodosarreglos/retrun.java,
 metodosarreglos/build.xml, 
 metodosarreglos/manifest.mf)
 <!----Separador---->
-###### EjemplosArray, EjemplosArray2 - 13/11/19
-(EjemplosArray/build/classes/ejemplosarray/EjemplosArray.class, 
-EjemplosArray/build/classes/.netbeans_automatic_build, 
-EjemplosArray/build/classes/.netbeans_update_resources, 
-EjemplosArray/build/built-jar.properties, 
-EjemplosArray/nbproject/private/private.properties, 
-EjemplosArray/nbproject/private/private.xml, 
-EjemplosArray/nbproject/build-impl.xml, 
-EjemplosArray/nbproject/genfiles.properties, 
-EjemplosArray/nbproject/project.properties, 
-EjemplosArray/nbproject/project.xml, 
-EjemplosArray/src/ejemplosarray/EjemplosArray.java, 
-EjemplosArray/build.xml, 
-EjemplosArray/manifest.mf)
+###### EjemplosArray1, EjemplosArray2 - 13/11/19
+(EjemplosArray1/build/classes/ejemplosarray1/EjemplosArray1.class, 
+EjemplosArray1/build/classes/.netbeans_automatic_build, 
+EjemplosArray1/build/classes/.netbeans_update_resources, 
+EjemplosArray1/build/built-jar.properties, 
+EjemplosArray1/nbproject/private/private.properties, 
+EjemplosArray1/nbproject/private/private.xml, 
+EjemplosArray1/nbproject/build-impl.xml, 
+EjemplosArray1/nbproject/genfiles.properties, 
+EjemplosArray1/nbproject/project.properties, 
+EjemplosArray1/nbproject/project.xml, 
+EjemplosArray1/src/ejemplosarray/EjemplosArray1.java, 
+EjemplosArray1/build.xml, 
+EjemplosArray1/manifest.mf)
 <!--Separador-->
 (EjemplosArray2/build/classes/ejemplosarray2/EjemplosArray2.class, 
 EjemplosArray2/nbproject/private/private.properties, 
