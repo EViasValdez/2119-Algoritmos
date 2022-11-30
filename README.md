@@ -471,5 +471,4 @@ Condicion/nbproject/private/project.xml,
 Condicion/src/condicion/condicion.java,
 Condicion/build.xml,
 Condicion/manifest.mf)
-
 <!----Separador del directorio con ubicaron de archivos---->
