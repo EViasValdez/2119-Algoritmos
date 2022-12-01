@@ -18,15 +18,15 @@ public class Areadeltriangulo2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner leer = new Scanner (System.in);
+        Scanner Leer = new Scanner (System.in);
 
         System.out.println("Calcular el area del triangulo");
 
         System.out.println("Ingresar base");
-        int n1 = leer.nextInt();
+        int n1 = Leer.nextInt();
 
         System.out.println("Ingresar altura");
-        int n2 = leer.nextInt();
+        int n2 = Leer.nextInt();
 
         int r;
         r = (n1 * n2) / 2;

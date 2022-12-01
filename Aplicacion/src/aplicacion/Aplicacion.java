@@ -19,44 +19,44 @@ public class Aplicacion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner leer = new Scanner (System.in);
-        ArrayList <String> names = new ArrayList <String>();
+        Scanner Leer = new Scanner (System.in);
+        ArrayList <String> Names = new ArrayList <String>();
 
-        names.add ("Javier");
-        names.add ("Martin");
-        names.add ("Marisol");
-        names.add ("Carla");
-        names.add ("Hugo");
-        names.add ("Victor");
-        names.add ("Elisabeth");
-        names.add ("Teresa");
+        Names.add ("Javier");
+        Names.add ("Martin");
+        Names.add ("Marisol");
+        Names.add ("Carla");
+        Names.add ("Hugo");
+        Names.add ("Victor");
+        Names.add ("Elisabeth");
+        Names.add ("Teresa");
 
         System.out.println("Bienvenido");
         System.out.println("Esta es la lista de alumnos disponibles");
 
-        for (int i = 0; i < names.size(); i++) {
-            System.out.print(names.get(i) + " | ");
+        for (int i = 0; i < Names.size(); i++) {
+            System.out.print(Names.get(i) + " | ");
         }
 
         System.out.println("¿Desea agregar a alguien mas?");
         System.out.println("true = Si / false = No");
         
-        boolean alumno = leer.nextBoolean();
+        boolean Alumno = Leer.nextBoolean();
         
-        if (alumno == true) {
-            while (alumno == true) {
+        if (Alumno == true) {
+            while (Alumno == true) {
                 System.out.println("Ingrese nombre");
 
-                String nombre = leer.next();
-                names.add (nombre);
+                String nombre = Leer.next();
+                Names.add (nombre);
 
-                System.out.println(names);
+                System.out.println(Names);
                 System.out.println("¿Desea agregar a alguien mas?");
                 System.out.println("true = Si / false = No");
 
-                alumno = leer.nextBoolean();
+                Alumno = Leer.nextBoolean();
 
-                if (alumno == false) {
+                if (Alumno == false) {
                     System.out.println("El programa se cerrara");
                 }
             }

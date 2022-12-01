@@ -16,12 +16,12 @@ public class Arrays {
     @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
         // TODO code application logic here
-        String [] objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola", "Refrigerador", "Mesa", "Tetera", "Horno"};
-        Boolean [] datos = {true, false, true, false, true, false, true, false};
+        String [] Objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola", "Refrigerador", "Mesa", "Tetera", "Horno"};
+        Boolean [] Datos = {true, false, true, false, true, false, true, false};
 
-        int [] numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
-        int num = 0;
-        int [] numero;
+        int [] Numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
+        int Num = 0;
+        int [] Numero;
 
         // float calificaciones;
         // float calificacion;
@@ -33,35 +33,31 @@ public class Arrays {
         System.out.println("Sea bienvenido");
         System.out.println("Asignación de elementos de alumnos");
         for (int x = 0; x < 10; x++) {
-            num = num + 1;
-            System.out.println("Alumno" + num);
+            Num = Num + 1;
+            System.out.println("Alumno" + Num);
 
-            String [] nombre;
+            String [] Nombre;
 
-            System.out.println("Nombre: " + nombre [x]);
-            if (datos [x] == true) {
+            System.out.println("Nombre: " + Nombre [x]);
+            if (Datos [x] == true) {
                 System.out.println("Grupo asignado: A");
             }else{
                 System.out.println("Grupo asignado: B");
             }
 
-            int [] binarios;
+            int [] Binarios;
 
-            if (binarios [x] == 1) {
+            if (Binarios [x] == 1) {
                 System.out.println("Genero: Mujer");
             }else{
                 System.out.println("Genero: Hombre");
             }
-            System.out.println("Materias aprobadas" + numero [x]);
+            System.out.println("Materias aprobadas" + Numero [x]);
             System.out.println("");
             // Calificaciones
-            suma = 0;
+            Suma = 0;
 
             int i;
-
-            for (int 1 = 0; i < 5; 1++) {
-                
-            }
         }
     }
 }

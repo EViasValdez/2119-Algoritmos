@@ -18,10 +18,10 @@ public class Algoritmos2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner leer = new Scanner (System.in);
+        Scanner Leer = new Scanner (System.in);
 
         System.out.println("Numero");
-        int n1 = leer.nextInt();
+        int n1 = Leer.nextInt();
 
         System.out.println("El numero ingresado es: " + n1);
     }

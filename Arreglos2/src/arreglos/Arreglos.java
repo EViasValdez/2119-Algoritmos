@@ -58,29 +58,29 @@ public class Arreglos {
         System.out.println("Introducir calificaciones, finalizar con -1");
         System.out.printf("Alumno numero %3d, calificación media:", ++l);
 
-        float calif = leer.nextFloat();
+        float Calif = leer.nextFloat();
 
-        while (calif != -1)
+        while (Calif != -1)
         {
-            notas.add(calif); // El método add se utiliza para ir agregando datos al arreglo.
+            notas.add(Calif); // El método add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota media: ", ++l); // Cuando se usa "printf" muestra
             // un mensaje en pantalla en el cual se especifica el formato de los
             // datos con "%d" para datos de tipo entero.
-            calif = leer.nextFloat();
+            Calif = leer.nextFloat();
         }
 
-        int nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
-        float suma = 0;
+        int Nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
+        float Suma = 0;
 
-        for (l = 0; l < nalumnos; l++)
+        for (l = 0; l < Nalumnos; l++)
         {
-            suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
+            Suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posición 1 del arreglo.
             System.out.println();
-            System.out.printf("Nota media del curso: %5.2f", suma / nalumnos);
+            System.out.printf("Nota media del curso: %5.2f", Suma / Nalumnos);
         }
 
-        int car;
+        int Car;
 
         for (int i = 0; i <= 11; i++)
         {
@@ -95,9 +95,9 @@ public class Arreglos {
         for (int j = 0; j <= 6; j++)
         {
             System.out.println("Dias de la semana");
-            car = System.in.read(); // Lee un arreglo de caracteres.
+            Car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char) car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
+            Letras2 [j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }

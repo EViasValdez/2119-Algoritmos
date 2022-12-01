@@ -21,7 +21,7 @@ public class Arreglos1 {
         // TODO code application logic here
         // int [] numeros;
         // numeros = new int [10];
-        Scanner leer = new Scanner (System.in);
+        Scanner Leer = new Scanner (System.in);
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
 
@@ -30,7 +30,7 @@ public class Arreglos1 {
         int nElementos;
 
         System.out.println("Numero de elementos del arreglo");
-        nElementos = leer.nextInt();
+        nElementos = Leer.nextInt();
 
         int [] m = new int [nElementos];
         int k = 0;
@@ -40,7 +40,7 @@ public class Arreglos1 {
         for (k = 0; k < nElementos; k++)
         {
             System.out.print("m [" + k + "] = ");
-            m [k] = leer.nextInt();
+            m [k] = Leer.nextInt();
         }
         System.out.println();
 
@@ -56,31 +56,31 @@ public class Arreglos1 {
         System.out.println("Introducir calificiones, finalizar con -1");
         System.out.printf("Alumnno numero %3d, calificaion media: ", ++l);
 
-        float calif = leer.nextFloat();
+        float calif = Leer.nextFloat();
         while (calif != -1)
         {
             notas.add(calif); // El método add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje
             // en pantalla donde se especifica el formato de los datos
             // con "%d" para datos de tipo entero.
-            calif = leer.nextFloat();
+            calif = Leer.nextFloat();
         }
         int nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
-        float suma = 0;
+        float Suma = 0;
 
         for (l = 0; l < nalumnos; l++)
         {
-            suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
+            Suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posición 1 del arreglo.
             System.out.println();
-            System.out.printf("Nota media del curso: %5.2f ", suma / nalumnos);
+            System.out.printf("Nota media del curso: %5.2f ", Suma / nalumnos);
         }
-        int car;
+        int Car;
 
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");
-            Meses [i] = leer.next();
+            Meses [i] = Leer.next();
         }
         for (int i = 0; i <= 11; i++)
         {
@@ -90,9 +90,9 @@ public class Arreglos1 {
         for (int j = 0; j <= 6; j++)
         {
             System.out.println("Dias de la semana");
-            car = System.in.read(); // Lee un arreglo de caracteres.
+            Car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char) car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
+            Letras2 [j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }

@@ -20,24 +20,24 @@ public class Array {
         // TODO code application logic here
         Scanner alea = new Scanner (System.in);
 
-        ArrayList <Integer> nums = new ArrayList <Integer>();
+        ArrayList <Integer> Nums = new ArrayList <Integer>();
 
         int n = 0;
 
         for (int i = 0; i < n; i++) {
-            int num = alea.nextInt (2019);
+            int Num = alea.nextInt (2019);
 
-            while (num > 1950) {
-                if (num < 1950) {
+            while (Num > 1950) {
+                if (Num < 1950) {
                     break;
                 }
-                num = alea.nextInt (2019);
+                Num = alea.nextInt (2019);
             }
-            nums.add (num);
+            Nums.add (Num);
         }
     }
     public static ArrayList <Integer> matricula(int s) {
-        String letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
+        String Letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
         return null;
     }
 }
