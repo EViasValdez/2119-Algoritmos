@@ -23,39 +23,39 @@ public class Menu2 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        int opc;
-        float base, altura, area, pi = 3.1416f, radio;
+        int Opc;
+        float Base, Altura, Area, pi = 3.1416f, Radio;
 
         System.out.println("1 - Calcular area del cuadrado");
         System.out.println("2 - Calcular area del circulo");
         System.out.println("3 - Calcular area del triangulo");
         System.out.println("Elige una opción");
-        opc = Integer.parseInt(br.readLine());
+        Opc = Integer.parseInt(br.readLine());
 
-        switch (opc) {
+        switch (Opc) {
         case 1:
             System.out.println("¿Cuánto es la base?");
-            base = Float.parseFloat(br.readLine());
+            Base = Float.parseFloat(br.readLine());
             System.out.println("¿Cuánto es la altura?");
-            altura = Float.parseFloat(br.readLine());
-            area = base * altura;
-            System.out.println("El area del cuadrado es: " + area);
+            Altura = Float.parseFloat(br.readLine());
+            Area = Base * Altura;
+            System.out.println("El area del cuadrado es: " + Area);
         break;
 
         case 2:
             System.out.println("¿Cuánto es el radio?");
-            radio = Float.parseFloat(br.readLine());
-            area = pi * (radio * radio);
-            System.out.println("El area de circulo es: " + area);
+            Radio = Float.parseFloat(br.readLine());
+            Area = pi * (Radio * Radio);
+            System.out.println("El area de circulo es: " + Area);
         break;
 
         case 3:
             System.out.println("¿Cuánto es la base?");
-            base = Float.parseFloat(br.readLine());
+            Base = Float.parseFloat(br.readLine());
             System.out.println("¿Cuánto es la altura?");
-            altura = Float.parseFloat(br.readLine());
-            area = base * altura;
-            System.out.println("El area del triangulo es: " + area);
+            Altura = Float.parseFloat(br.readLine());
+            Area = Base * Altura;
+            System.out.println("El area del triangulo es: " + Area);
         break;
 
         default:

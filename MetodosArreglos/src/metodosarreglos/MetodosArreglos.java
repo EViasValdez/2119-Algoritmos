@@ -24,45 +24,45 @@ public class MetodosArreglos {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        double numeros [] = new double [4];
+        double Numeros [] = new double [4];
 
-        for (int i = 0; i < numeros.length; i++){
+        for (int i = 0; i < Numeros.length; i++){
             System.out.println("Escribir un numero");
-            numeros [i] = Double.parseDouble(br.readLine());
+            Numeros [i] = Double.parseDouble(br.readLine());
         }
 
-        System.out.println("La suma es: " + sumar (numeros));
-        System.out.println("El mayor es: " + mayor (numeros));
-        System.out.println("El menor es: " + menor (numeros));
+        System.out.println("La suma es: " + sumar (Numeros));
+        System.out.println("El mayor es: " + mayor (Numeros));
+        System.out.println("El menor es: " + menor (Numeros));
     }
-    private static double sumar(double [] numeros) {
-        double suma = 0;
+    private static double sumar(double [] Numeros) {
+        double Suma = 0;
 
-        for (int i = 0; i < numeros.length; i++) {
-            suma = suma + numeros [i];
+        for (int i = 0; i < Numeros.length; i++) {
+            suma = suma + Numeros [i];
         }
         return suma;
     }
-    private static double mayor(double [] numeros) {
+    private static double mayor(double [] Numeros) {
         double mayor = 0;
 
-        for (int i = 0; i < numeros.length; i++) {
-            if (numeros [1] > mayor)
+        for (int i = 0; i < Numeros.length; i++) {
+            if (Numeros [1] > mayor)
             {
-                mayor = numeros [i];
+                mayor = Numeros [i];
             }
         }
         return mayor;
     }
-    private static double menor(double [] numeros) {
-        double menor = 0;
+    private static double Menor(double [] Numeros) {
+        double Menor = 0;
         
-        for (int i = 0; i < numeros.length; i++) {
-            if (numeros [1] > menor)
+        for (int i = 0; i < Numeros.length; i++) {
+            if (Numeros [1] > Menor)
             {
-                menor = numeros [i];
+                Menor = Numeros [i];
             }
         }
-        return menor;
+        return Menor;
     }
 }
