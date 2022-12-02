@@ -22,57 +22,57 @@ public class Arreglos3 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float precios [] = new float [10];
-        float suma = 0, promedio = 0;
+        float Precios [] = new float [10];
+        float Suma = 0, promedio = 0;
 
         for (int x = 0; x < 10; x++) {
             System.out.println("Escribe el precio");
-            precios [x] = Float.parseFloat(br.readLine());
+            Precios [x] = Float.parseFloat(br.readLine());
         }
         for (int x = 0; x < 10; x++) {
-            System.out.println("Los precios son: " + precios [x]);
+            System.out.println("Los precios son: " + Precios [x]);
         }
         for (int x = 0; x < 10; x++) {
-            suma = suma + precios [x];
+            Suma = Suma + precios [x];
         }
-        promedio = suma / 10;
+        Promedio = Suma / 10;
 
-        System.out.println("El total de los precios es: " + suma);
-        System.out.println("El promedio de los precios es: "  + promedio);
+        System.out.println("El total de los precios es: " + Suma);
+        System.out.println("El promedio de los precios es: "  + Promedio);
 
         for (int x = 0; x < 10; x++) {
-            if (precios [x] >= 5000) {
+            if (Precios [x] >= 5000) {
                 System.out.println("El precio es muy alto");
             }else{
                 System.out.println("El precio es muy bajo");
             }
         }
         for (int x = 0; x < 10; x++) {
-            if (precios [x] < 0) {
+            if (Precios [x] < 0) {
                 System.out.println("No puede haber precios negativos");
             }else{
-            if (precios [x] == 0) {
+            if (Precios [x] == 0) {
                 System.out.println("El precio debe ser mayor que 0");
             }
             }
         }
 
-        float mayor = precios [0];
+        float Mayor = Precios [0];
 
         for (int x = 0; x < 10; x++) {
-            if (precios [x] > mayor) {
-                mayor = precios [x];
+            if (Precios [x] > Mayor) {
+                Mayor = Precios [x];
             }
         }
-        System.out.println("El mayor es: " + mayor);
+        System.out.println("El mayor es: " + Mayor);
         
-        float menor = precios [0];
+        float Menor = Precios [0];
 
         for (int x = 0; x < 10; x++) {
-            if (precios [x] < menor) {
-                menor = precios [x];
+            if (Precios [x] < Menor) {
+                Menor = Precios [x];
             }
         }
-        System.out.println("El menor es: " + menor);
+        System.out.println("El menor es: " + Menor);
     }
 }

@@ -65,15 +65,15 @@ public class Arreglos1 {
             // con "%d" para datos de tipo entero.
             calif = Leer.nextFloat();
         }
-        int nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
+        int Nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
         float Suma = 0;
 
-        for (l = 0; l < nalumnos; l++)
+        for (l = 0; l < Nalumnos; l++)
         {
             Suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posición 1 del arreglo.
             System.out.println();
-            System.out.printf("Nota media del curso: %5.2f ", Suma / nalumnos);
+            System.out.printf("Nota media del curso: %5.2f ", Suma / Nalumnos);
         }
         int Car;
 

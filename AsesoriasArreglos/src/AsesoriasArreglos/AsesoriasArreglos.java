@@ -18,18 +18,18 @@ public class AsesoriasArreglos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner leer = new Scanner (System.in);
+        Scanner Leer = new Scanner (System.in);
 
         String Nombres [] = new String [7];
         String Apellidos [] = new String [5];
 
         for (int i = 1; i <= 7; i++) {
             System.out.println("Escribe el nombre");
-            Nombres [i] = leer.next();
+            Nombres [i] = Leer.next();
         }
         for (int i = 1; i <= 5; i++) {
             System.out.println("Escribe el apellido");
-            Apellidos [i] = leer.next();
+            Apellidos [i] = Leer.next();
         }
 
         String Nombre = "Alicia";

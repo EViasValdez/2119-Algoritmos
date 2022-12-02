@@ -23,31 +23,31 @@ public class Asesorias1 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float salario, totalsalario = 0;
+        float Salario, totalsalario = 0;
         String nombre;
         int categoria;
 
         for (int i = 1; i <= 3; i++) {
             System.out.println("Escribe el nombre");
-            nombre = br.readLine();
+            Nombre = br.readLine();
             System.out.println("Escribe el salario");
-            salario = Float.parseFloat(br.readLine());
+            Salario = Float.parseFloat(br.readLine());
             System.out.println("Escribe la categoria");
-            categoria = Integer.parseInt(br.readLine());
+            Categoria = Integer.parseInt(br.readLine());
 
-            switch (categoria) {
+            switch (Categoria) {
             case 1:
-                totalsalario = salario * 15;
+                totalsalario = Salario * 15;
                 System.out.println("El total del salario es: " + totalsalario);
             break;
 
             case 2:
-                totalsalario = salario * 0.10f;
+                totalsalario = Salario * 0.10f;
                 System.out.println("El total del salario es: " + totalsalario);
             break;
 
             case 3:
-                totalsalario = salario;
+                totalsalario = Salario;
             break;
 
             }
