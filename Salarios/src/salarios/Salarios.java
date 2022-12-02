@@ -25,8 +25,8 @@ public class Salarios {
         System.out.println("Numero de elementos del arreglo");
         nElementos = leer.nextInt();
         
-        double [] salario = new double [nElementos];
-        double suma = 0;
+        double [] Salario = new double [nElementos];
+        double Suma = 0;
         int k = 0;
 
         System.out.println("Ingresa los valores del arreglo");
@@ -34,9 +34,9 @@ public class Salarios {
         {
             System.out.print("m[" + k + "] = ");
             salario [k] = leer.nextDouble();
-            suma = suma + salario [k];
+            Suma = Suma + salario [k];
         }
-        System.out.println("La suma es: " + suma);
-        System.out.println("El promedio es: " + suma / 10);
+        System.out.println("La suma es: " + Suma);
+        System.out.println("El promedio es: " + Suma / 10);
     }
 }

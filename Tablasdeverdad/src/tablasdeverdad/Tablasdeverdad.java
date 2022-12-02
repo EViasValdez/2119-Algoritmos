@@ -38,8 +38,8 @@ public class Tablasdeverdad {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        boolean ventana1, ventana2, puerta, fuego, humo, digito1, digito2, digito3, digito4, digit1, digit2, digit3, digit4;
-        int opcion;
+        boolean Ventana1, Ventana2, Puerta, Fuego, Humo, Digito1, Digito2, Digito3, Digito4, Digit1, Digit2, Digit3, Digit4;
+        int Opcion;
 
         System.out.println("Elige una opcion");
         System.out.println("1. Problema examen");
@@ -49,16 +49,16 @@ public class Tablasdeverdad {
         
         opcion = Integer.parseInt(br.readLine());
 
-        switch (opcion) {
+        switch (Opcion) {
         case 1:
             System.out.println("Estado de la ventana 1");
-            ventana1 = Boolean.parseBoolean(br.readLine());
+            Ventana1 = Boolean.parseBoolean(br.readLine());
             System.out.println("Estado de la ventana 2");
-            ventana2 = Boolean.parseBoolean(br.readLine());
+            Ventana2 = Boolean.parseBoolean(br.readLine());
             System.out.println("Estado de la puerta");
-            puerta = Boolean.parseBoolean(br.readLine());
+            Puerta = Boolean.parseBoolean(br.readLine());
             
-            if (ventana1 == true || ventana2 == true || puerta == true) {
+            if (Ventana1 == true || Ventana2 == true || Puerta == true) {
                 System.out.println("La alarma se activa");
             }else{
                 System.out.println("La alarma no se activa");
@@ -66,10 +66,10 @@ public class Tablasdeverdad {
         break;
         case 2:
             System.out.println("Sensores de fuego");
-            fuego = Boolean.parseBoolean(br.readLine());
-            humo = Boolean.parseBoolean(br.readLine());
+            Fuego = Boolean.parseBoolean(br.readLine());
+            Humo = Boolean.parseBoolean(br.readLine());
             
-            if (fuego == true || humo == true) {
+            if (fuego == true || Humo == true) {
                 System.out.println("Los sensores se activan");
             }else{
                 System.out.println("Los sensores no se activan");
@@ -78,15 +78,15 @@ public class Tablasdeverdad {
 
         case 3:
             System.out.println("Primer dígito");
-            digito1 = Boolean.parseBoolean(br.readLine());
+            Digito1 = Boolean.parseBoolean(br.readLine());
             System.out.println("Segundo digito");
-            digito2 = Boolean.parseBoolean(br.readLine());
+            Digito2 = Boolean.parseBoolean(br.readLine());
             System.out.println("Tercer digito");
-            digito3 = Boolean.parseBoolean(br.readLine());
+            Digito3 = Boolean.parseBoolean(br.readLine());
             System.out.println("Cuarto digito");
-            digito4 = Boolean.parseBoolean(br.readLine());
+            Digito4 = Boolean.parseBoolean(br.readLine());
 
-            if (digito1 == true || digito2 == true || digito3 == true || digito3 == true) {
+            if (Digito1 == true || Digito2 == true || Digito3 == true || Digito3 == true) {
                 System.out.println("La caja se abre");
             }else{
                 System.out.println("La caja no se abre");
@@ -95,15 +95,15 @@ public class Tablasdeverdad {
 
         case 4:
             System.out.println("Primer digito");
-            digit1 = Boolean.parseBoolean(br.readLine());
+            Digit1 = Boolean.parseBoolean(br.readLine());
             System.out.println("Segundo digito");
-            digit2 = Boolean.parseBoolean(br.readLine());
+            Digit2 = Boolean.parseBoolean(br.readLine());
             System.out.println("Tercer digito");
-            digit3 = Boolean.parseBoolean(br.readLine());
+            Digit3 = Boolean.parseBoolean(br.readLine());
             System.out.println("Cuarto digito");
-            digit4 = Boolean.parseBoolean(br.readLine());
+            Digit4 = Boolean.parseBoolean(br.readLine());
 
-            if (digit1 == true || digit2 == true || digit3 == true) {
+            if (Digit1 == true || Digit2 == true || Digit3 == true) {
                 System.out.println("Puede retirar el dinero");
             }else{
                 System.out.println("No puede retirar el dinero");

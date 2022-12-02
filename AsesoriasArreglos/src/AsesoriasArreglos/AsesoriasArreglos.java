@@ -20,30 +20,30 @@ public class AsesoriasArreglos {
         // TODO code application logic here
         Scanner leer = new Scanner (System.in);
 
-        String nombres [] = new String [7];
-        String apellidos [] = new String [5];
+        String Nombres [] = new String [7];
+        String Apellidos [] = new String [5];
 
         for (int i = 1; i <= 7; i++) {
             System.out.println("Escribe el nombre");
-            nombres [i] = leer.next();
+            Nombres [i] = leer.next();
         }
         for (int i = 1; i <= 5; i++) {
             System.out.println("Escribe el apellido");
-            apellidos [i] = leer.next();
+            Apellidos [i] = leer.next();
         }
 
-        String nombre = "Alicia";
-        String apellido = "Flores";
+        String Nombre = "Alicia";
+        String Apellido = "Flores";
 
         for (int i = 1; i < 7; i++) {
-            if (nombre.equals(nombres [i])) {
+            if (Nombre.equals(Nombres [i])) {
                 System.out.println("Si esta");
             }else{
                 System.out.println("No esta");
             }
         }
         for (int i = 1; i < 5; i++) {
-            if (apellido.equals(apellidos [i])) {
+            if (Apellido.equals(Apellidos [i])) {
                 System.out.println("Si existe");
             }else{
                 System.out.println("No existe");

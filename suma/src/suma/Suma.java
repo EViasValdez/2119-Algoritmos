@@ -24,43 +24,43 @@ public class Suma {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float suma, numero1, numero2;
+        float Suma, Numero1, Numero2;
 
         System.out.println("Escribe el primer numero");
-        numero1 = Float.parseFloat(br.readLine());
+        Numero1 = Float.parseFloat(br.readLine());
         System.out.println("Escribe el segundo numero");
-        numero2 = Float.parseFloat(br.readLine());
+        Numero2 = Float.parseFloat(br.readLine());
 
-        // suma = numero1 + numero2;
-        // System.out.println("La suma es: " + suma (numero1, numero2));
+        // suma = Numero1 + Numero2;
+        // System.out.println("La suma es: " + suma (Numero1, Numero2));
 
-        System.out.println("La suma es: " + suma (numero1, numero2));
-        System.out.println("La resta es: " + resta (numero1, numero2));
-        System.out.println("La multiplicacion es: " + resta (numero1, numero2));
-        System.out.println("La division es: " + resta (numero1, numero2));
+        System.out.println("La suma es: " + suma (Numero1, Numero2));
+        System.out.println("La resta es: " + resta (Numero1, Numero2));
+        System.out.println("La multiplicacion es: " + resta (Numero1, Numero2));
+        System.out.println("La division es: " + resta (Numero1, Numero2));
     }
-    private static float suma(float numero1, float numero2) {
-        float suma = 0;
+    private static float suma(float Numero1, float Numero2) {
+        float Suma = 0;
 
-        suma = numero1 + numero2;
-        return suma;
+        suma = Numero1 + Numero2;
+        return Suma;
     }
-    private static float resta(float numero1, float numero2) {
-        float resta = 0;
+    private static float resta(float Numero1, float Numero2) {
+        float Resta = 0;
 
-        resta = numero1 - numero2;
-        return resta;
+        resta = Numero1 - Numero2;
+        return Resta;
     }
-    private static float multiplicacion(float numero1, float numero2) {
-        float multiplicacion = 0;
+    private static float multiplicacion(float Numero1, float Numero2) {
+        float Multiplicacion = 0;
 
-        multiplicacion = numero1 * numero2;
-        return multiplicacion;
+        Mltiplicacion = Numero1 * Numero2;
+        return Mltiplicacion;
     }
-    private static float division(float numero1, float numero2) {
-        float division = 0;
+    private static float division(float Numero1, float Numero2) {
+        float Division = 0;
 
-        division = numero1 / numero2;
-        return division;
+        Division = Numero1 / Numero2;
+        return Division;
     }
 }
