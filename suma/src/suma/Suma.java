@@ -31,33 +31,33 @@ public class Suma {
         System.out.println("Escribe el segundo numero");
         Numero2 = Float.parseFloat(br.readLine());
 
-        // suma = Numero1 + Numero2;
-        // System.out.println("La suma es: " + suma (Numero1, Numero2));
+        // Suma = Numero1 + Numero2;
+        // System.out.println("La suma es: " + Suma (Numero1, Numero2));
 
-        System.out.println("La suma es: " + suma (Numero1, Numero2));
+        System.out.println("La suma es: " + Suma (Numero1, Numero2));
         System.out.println("La resta es: " + resta (Numero1, Numero2));
         System.out.println("La multiplicacion es: " + resta (Numero1, Numero2));
         System.out.println("La division es: " + resta (Numero1, Numero2));
     }
-    private static float suma(float Numero1, float Numero2) {
+    private static float Suma(float Numero1, float Numero2) {
         float Suma = 0;
 
         suma = Numero1 + Numero2;
         return Suma;
     }
-    private static float resta(float Numero1, float Numero2) {
+    private static float Resta(float Numero1, float Numero2) {
         float Resta = 0;
 
-        resta = Numero1 - Numero2;
+        Resta = Numero1 - Numero2;
         return Resta;
     }
-    private static float multiplicacion(float Numero1, float Numero2) {
+    private static float Multiplicacion(float Numero1, float Numero2) {
         float Multiplicacion = 0;
 
-        Mltiplicacion = Numero1 * Numero2;
-        return Mltiplicacion;
+        Mutiplicacion = Numero1 * Numero2;
+        return Mutiplicacion;
     }
-    private static float division(float Numero1, float Numero2) {
+    private static float Division(float Numero1, float Numero2) {
         float Division = 0;
 
         Division = Numero1 / Numero2;

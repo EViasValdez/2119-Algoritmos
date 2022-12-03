@@ -24,16 +24,16 @@ public class Menu1 {
         BufferedReader br = new BufferedReader (isr);
 
         float n1, n2, suma = 0, resta = 0, multiplicacion = 0, division = 0;
-        int opc;
+        int Opc;
 
         System.out.println("1 - Suma");
         System.out.println("2 - Resta");
         System.out.println("3 - Multiplicacion");
         System.out.println("4 - Division");
         System.out.println("Elige una opcion");
-        opc = Integer.parseInt(br.readLine());
+        Opc = Integer.parseInt(br.readLine());
 
-        switch (opc) {
+        switch (Opc) {
         case 1:
             System.out.println("Escribe el primer numero");
             n1 = Float.parseFloat(br.readLine());

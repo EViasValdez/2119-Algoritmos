@@ -17,17 +17,17 @@ public class EjemplosArray2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        ArrayList <String> listaNombres = new ArrayList<String>();
+        ArrayList <String> ListaNombres = new ArrayList<String>();
 
         for (int i = 0; i < 1000; i++) {
-            listaNombres.add (getName(String.valueOf(i)));
+            ListaNombres.add (getName(String.valueOf(i)));
         }
-        for (int i = 0; i < listaNombres.size(); i++) {
-            System.out.println(listaNombres.get(i));
+        for (int i = 0; i < ListaNombres.size(); i++) {
+            System.out.println(ListaNombres.get(i));
         }
     }
     public static String getName (String i) {
-        String nombre = "Eduardo: " + i;
-        return nombre;
+        String Nombre = "Eduardo: " + i;
+        return Nombre;
    }
 }

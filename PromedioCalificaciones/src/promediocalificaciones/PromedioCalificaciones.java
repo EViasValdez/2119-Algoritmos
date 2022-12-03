@@ -23,37 +23,37 @@ public class PromedioCalificaciones {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float calificacion, promedio, porcentaje, pagototal, mensualidad = 2000, suma = 0;
-        int cuantos;
+        float Calificacion, Promedio, Porcentaje, Pagototal, Mensualidad = 2000, Suma = 0;
+        int Cuantos;
 
         System.out.println("¿Cuantos alumnos?");
-        cuantos = Integer.parseInt(br.readLine());
+        Cuantos = Integer.parseInt(br.readLine());
 
-        for (int j = 0; j <= cuantos; j++) {
+        for (int j = 0; j <= Cuantos; j++) {
             for (int i = 0; i <= 3; i++) {
                 System.out.println("Calificacion");
-                calificacion = Float.parseFloat(br.readLine());
-                suma = suma + calificacion;
+                Calificacion = Float.parseFloat(br.readLine());
+                Suma = Suma + Calificacion;
             }
             
-            promedio = suma / 4;
-            System.out.println("El promedio es: " + promedio);
+            Promedio = Suma / 4;
+            System.out.println("El promedio es: " + Promedio);
 
-            if (promedio >= 6 && promedio <= 7) {
-                pagototal = mensualidad - (mensualidad * .10f);
-                System.out.println("El pago total es: " + pagototal);
+            if (Promedio >= 6 && Promedio <= 7) {
+                Pagototal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + Pagototal);
             }else{
-            if (promedio >= 7 && promedio <= 8) {
-                pagototal = mensualidad - (mensualidad * .10f);
-                System.out.println("El pago total es: " + pagototal);
+            if (Promedio >= 7 && Promedio <= 8) {
+                Pagototal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + Pagototal);
             }else{
-            if (promedio >= 8 && promedio <= 9) {
-                pagototal = mensualidad - (mensualidad * .10f);
-                System.out.println("El pago total es: " + pagototal);
+            if (Promedio >= 8 && Promedio <= 9) {
+                Pagototal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + Pagototal);
             }else{
-            if (promedio >= 9 && promedio <= 10) {
-                pagototal = mensualidad - (mensualidad * .10f);
-                System.out.println("El pago total es: " + pagototal);
+            if (Promedio >= 9 && Promedio <= 10) {
+                Pagototal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + Pagototal);
             }
             }
             }

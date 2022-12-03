@@ -31,11 +31,11 @@ public class MetodosArreglos {
             Numeros [i] = Double.parseDouble(br.readLine());
         }
 
-        System.out.println("La suma es: " + sumar (Numeros));
-        System.out.println("El mayor es: " + mayor (Numeros));
-        System.out.println("El menor es: " + menor (Numeros));
+        System.out.println("La suma es: " + Sumar (Numeros));
+        System.out.println("El mayor es: " + Mayor (Numeros));
+        System.out.println("El menor es: " + Menor (Numeros));
     }
-    private static double sumar(double [] Numeros) {
+    private static double Sumar(double [] Numeros) {
         double Suma = 0;
 
         for (int i = 0; i < Numeros.length; i++) {
@@ -43,16 +43,16 @@ public class MetodosArreglos {
         }
         return suma;
     }
-    private static double mayor(double [] Numeros) {
-        double mayor = 0;
+    private static double Mayor(double [] Numeros) {
+        double Mayor = 0;
 
         for (int i = 0; i < Numeros.length; i++) {
-            if (Numeros [1] > mayor)
+            if (Numeros [1] > Mayor)
             {
-                mayor = Numeros [i];
+                Mayor = Numeros [i];
             }
         }
-        return mayor;
+        return Mayor;
     }
     private static double Menor(double [] Numeros) {
         double Menor = 0;
