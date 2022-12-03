@@ -23,25 +23,25 @@ public class DatosBoleanos1 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        boolean contacto, ventana1, ventana2, puerta;
+        boolean Contacto, Ventana1, Ventana2, Puerta;
 
         System.out.println("¿Esta encendido el foco?");
-        contacto = Boolean.parseBoolean(br.readLine());
+        Contacto = Boolean.parseBoolean(br.readLine());
 
-        if (contacto == true) {
-            System.out.println("El foco esta encendido " + contacto);
+        if (Contacto == true) {
+            System.out.println("El foco esta encendido " + Contacto);
         }
 
         System.out.println("Estado de la puerta");
-        puerta = Boolean.parseBoolean(br.readLine());
+        Puerta = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la ventana 1");
-        ventana1 = Boolean.parseBoolean(br.readLine());
+        Ventana1 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la ventana 2");
-        ventana2 = Boolean.parseBoolean(br.readLine());
+        Ventana2 = Boolean.parseBoolean(br.readLine());
 
-        if ((puerta == true)|| (ventana1 == true)|| (ventana2 == true)) {
+        if ((Puerta == true)|| (Ventana1 == true)|| (Ventana2 == true)) {
             System.out.println("El ladron entra");
         }else{
             System.out.println("El ladron no puede entrar");

@@ -24,32 +24,32 @@ public class Ciclos {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        int aprobaron = 0, reprobaron = 0, invalida = 0;
-        float suma = 0, promedio = 0;
-        float calificacion [] = new float [5];
+        int Aprobaron = 0, Reprobaron = 0, Invalida = 0;
+        float Suma = 0, promedio = 0;
+        float Calificacion [] = new float [5];
 
-        for (int i = 0; i < calificacion.length; i++) {
-            System.out.println("Escribe la calcificación");
-            calificacion [i] = Float.parseFloat(br.readLine());
+        for (int i = 0; i < Calificacion.length; i++) {
+            System.out.println("Escribe la calificación");
+            Calificacion [i] = Float.parseFloat(br.readLine());
 
-            if (calificacion [i] > 10 || calificacion [i] < 0) {
-                invalida++;
+            if (Calificacion [i] > 10 || Calificacion [i] < 0) {
+                Invalida++;
             }else{
-            if (calificacion [i] >= 7) {
-                aprobaron++;
+            if (Calificacion [i] >= 7) {
+                Aprobaron++;
             }else{
-            if (calificacion [i] < 7) {
-                reprobaron++;
+            if (Calificacion [i] < 7) {
+                Reprobaron++;
             }
             }
             }
-            suma = suma + calificacion [i];
+            Suma = Suma + Calificacion [i];
         }
 
-        promedio = suma / 5;
+        promedio = Suma / 5;
         System.out.println("El promedio es: " + promedio);
-        System.out.println("Alumnos reprobados: " + reprobaron);
-        System.out.println("Alumnos aprobados: " + aprobaron);
-        System.out.println("Promedios invalidos: " + invalida);
+        System.out.println("Alumnos reprobados: " + Reprobaron);
+        System.out.println("Alumnos aprobados: " + Aprobaron);
+        System.out.println("Promedios invalidos: " + Invalida);
     }
 }

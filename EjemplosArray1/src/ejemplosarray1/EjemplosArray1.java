@@ -24,16 +24,16 @@ public class EjemplosArray1 {
 
         Scanner leer = new Scanner (System.in);
         Random alea = new Random ();
-        String animales [] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
+        String Animales [] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
 
-        ArrayList <String> animales2 = new ArrayList<String>();
+        ArrayList <String> Animales2 = new ArrayList<String>();
 
         System.out.println("");
         System.out.println("");
 
-        for (int i = 0; i < animales.length; i++) {
-            System.out.print(animales [i] + " | ");
-            animales2.add (animales [i]);
+        for (int i = 0; i < Animales.length; i++) {
+            System.out.print(Animales [i] + " | ");
+            Animales2.add (Animales [i]);
         }
 
         int op = 1;
@@ -44,11 +44,11 @@ public class EjemplosArray1 {
 
             if (op == 1) {
                 System.out.println("Ingrese un animal");
-                animales2.add ("d");
+                Animales2.add ("d");
             }
         }
-        for (int i = 0; i < animales2.size(); i++) {
-            System.out.println(animales2.get(i));
+        for (int i = 0; i < Animales2.size(); i++) {
+            System.out.println(Animales2.get(i));
         }
     }
 }

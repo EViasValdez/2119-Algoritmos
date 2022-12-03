@@ -23,30 +23,30 @@ public class Edad {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float edad, numeroniños, promedio;
+        float Edad, Numeroniños, Promedio;
 
-        int cuantos;
+        int Cuantos;
 
         System.out.println("¿Cuantos niños son?");
-        cuantos = Integer.parseInt(br.readLine());
+        Cuantos = Integer.parseInt(br.readLine());
 
-        for (int j = 0; j <= cuantos; j++) {
+        for (int j = 0; j <= Cuantos; j++) {
             System.out.println("Escribe la edad");
-            edad = Float.parseFloat(br.readLine());
+            Edad = Float.parseFloat(br.readLine());
             
             System.out.println("Escribe el promedio");
-            promedio = Float.parseFloat(br.readLine());
+            Promedio = Float.parseFloat(br.readLine());
 
-            if (edad == 6 || edad >= 8 && edad <= 10 && promedio >= 9 && promedio <= 10) {
+            if (Edad == 6 || Edad >= 8 && Edad <= 10 && Promedio >= 9 && Promedio <= 10) {
                 System.out.println("Puedes ingresar al futbol");
             }else{
-            if (edad >= 8 && edad <= 10 || promedio >= 8 && promedio <= 10) {
+            if (Edad >= 8 && Edad <= 10 || Promedio >= 8 && Promedio <= 10) {
                 System.out.println("Puedes ingresar al basquetbol");
             }else{
-            if (edad >= 6 && edad <= 10 || promedio == 10) {
+            if (Edad >= 6 && Edad <= 10 || Promedio == 10) {
                 System.out.println("Puedes ingresar al deporte que quieras");
             }else{
-            if (edad >= 6 && edad <= 10 || promedio == 7) {
+            if (Edad >= 6 && Edad <= 10 || Promedio == 7) {
                 System.out.println("");
             }
             }

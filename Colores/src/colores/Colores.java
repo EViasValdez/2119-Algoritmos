@@ -20,62 +20,62 @@ public class Colores {
         // TODO code application logic here
         Random rng = new Random();
 
-        int numeros [] = new int [100];
+        int Numeros [] = new int [100];
         
         for (int i = 0; i < 100; i++)
         {
-            numeros [1] = rng.nextInt (4) + 1;
+            Numeros [1] = rng.nextInt (4) + 1;
         }
 
-        int red = 0;
-        int black = 0;
-        int white = 0;
-        int blue = 0;
+        int Red = 0;
+        int Black = 0;
+        int White = 0;
+        int Blue = 0;
 
         for (int i = 0; i < 100; i++) {
-            if (numeros [i] == 1)
+            if (Numeros [i] == 1)
             {
-                red++;
+                Red++;
             }
-            if (numeros [i] == 2)
+            if (Numeros [i] == 2)
             {
-                black++;
+                Black++;
             }
-            if (numeros [i] == 3)
+            if (Numeros [i] == 3)
             {
-                white++;
+                White++;
             }
-            if (numeros [i] == 4)
+            if (Numeros [i] == 4)
             {
-                blue++;
+                Blue++;
             }
         }
 
-        String rojo [] = new String [red];
-        String negro [] = new String [black];
-        String blanco [] = new String [white];
-        String azul [] = new String [blue];
+        String rojo [] = new String [Red];
+        String negro [] = new String [Black];
+        String blanco [] = new String [White];
+        String azul [] = new String [Blue];
 
         for (int i = 0; i < 100; i++) {
-            if (numeros [i] == 1)
+            if (Numeros [i] == 1)
             {
-                rojo [red] = "rojo";
-                red++;
+                rojo [Red] = "rojo";
+                Red++;
             }
-            if (numeros [i] == 2)
+            if (Numeros [i] == 2)
             {
-                negro [black] = "negro";
-                black++;
+                negro [Black] = "negro";
+                Black++;
             }
-            if (numeros [i] == 3)
+            if (Numeros [i] == 3)
             {
-                blanco [white] = "blanco";
-                white++;
+                blanco [White] = "blanco";
+                White++;
             }
-            if (numeros [i] == 4)
+            if (Numeros [i] == 4)
             {
-                azul [blue] = "azul";
-                blue++;
+                azul [Blue] = "azul";
+                Blue++;
             }
         }
     }

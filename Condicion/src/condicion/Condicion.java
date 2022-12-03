@@ -23,21 +23,21 @@ public class Condicion {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float precio, total;
-        int cantidad;
+        float Precio, Total;
+        int Cantidad;
 
         System.out.println("¿Cual es el precio?");
-        precio = Float.parseFloat(br.readLine());
+        Precio = Float.parseFloat(br.readLine());
         System.out.println("¿Cual es la cantidad?");
-        cantidad = Integer.parseInt(br.readLine());
+        Cantidad = Integer.parseInt(br.readLine());
 
-        if (precio >= 5000) {
+        if (Precio >= 5000) {
             System.out.println("Precio muy caro");
         }else{
             System.out.println("Precio muy barato");
         }
 
-        total = precio * cantidad;
-        System.out.println("El total es: " + total);
+        Total = Precio * Cantidad;
+        System.out.println("El total es: " + Total);
     }
 }
