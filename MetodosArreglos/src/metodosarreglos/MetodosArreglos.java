@@ -39,9 +39,9 @@ public class MetodosArreglos {
         double Suma = 0;
 
         for (int i = 0; i < Numeros.length; i++) {
-            suma = suma + Numeros [i];
+            Suma = Suma + Numeros [i];
         }
-        return suma;
+        return Suma;
     }
     private static double Mayor(double [] Numeros) {
         double Mayor = 0;

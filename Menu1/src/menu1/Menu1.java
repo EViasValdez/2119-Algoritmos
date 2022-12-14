@@ -23,7 +23,7 @@ public class Menu1 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float n1, n2, suma = 0, resta = 0, multiplicacion = 0, division = 0;
+        float N1, N2, Suma = 0, Resta = 0, Multiplicacion = 0, Division = 0;
         int Opc;
 
         System.out.println("1 - Suma");
@@ -36,38 +36,38 @@ public class Menu1 {
         switch (Opc) {
         case 1:
             System.out.println("Escribe el primer numero");
-            n1 = Float.parseFloat(br.readLine());
+            N1 = Float.parseFloat(br.readLine());
             System.out.println("Escriba el segundo numero");
-            n2 = Float.parseFloat(br.readLine());
-            suma = n1 + n2;
-            System.out.println("La suma es: " + suma);
+            N2 = Float.parseFloat(br.readLine());
+            Suma = N1 + N2;
+            System.out.println("La suma es: " + Suma);
         break;
 
         case 2:
             System.out.println("Escribe el primer numero");
-            n1 = Float.parseFloat(br.readLine());
+            N1 = Float.parseFloat(br.readLine());
             System.out.println("Escribe el segundo numero");
-            n2 = Float.parseFloat(br.readLine());
-            resta = n1 - n2;
-            System.out.println("La resta es: " + resta);
+            N2 = Float.parseFloat(br.readLine());
+            Resta = N1 - N2;
+            System.out.println("La resta es: " + Resta);
         break;
 
         case 3:
             System.out.println("Escribe el primer numero");
-            n1 = Float.parseFloat(br.readLine());
+            N1 = Float.parseFloat(br.readLine());
             System.out.println("Escribe el segundo numero");
-            n2 = Float.parseFloat(br.readLine());
-            multiplicacion = n1 * n2;
-            System.out.println("La multiplicacion es: " + multiplicacion);
+            N2 = Float.parseFloat(br.readLine());
+            Multiplicacion = N1 * N2;
+            System.out.println("La multiplicacion es: " + Multiplicacion);
         break;
 
         case 4:
             System.out.println("Escribe el primer numero");
-            n1 = Float.parseFloat(br.readLine());
+            N1 = Float.parseFloat(br.readLine());
             System.out.println("Escribe el segundo numero");
-            n2 = Float.parseFloat(br.readLine());
-            division = n1 / n2;
-            System.out.println("La division es: " + division);
+            N2 = Float.parseFloat(br.readLine());
+            Division = N1 / N2;
+            System.out.println("La division es: " + Division);
         break;
 
         default:

@@ -32,6 +32,7 @@ public class PromedioCalificaciones {
         for (int j = 0; j <= Cuantos; j++) {
             for (int i = 0; i <= 3; i++) {
                 System.out.println("Calificacion");
+                
                 Calificacion = Float.parseFloat(br.readLine());
                 Suma = Suma + Calificacion;
             }
