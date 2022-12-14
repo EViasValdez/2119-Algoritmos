@@ -42,15 +42,15 @@ public class PromedioCalificaciones {
             if (Promedio >= 6 && Promedio <= 7) {
                 Pagototal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + Pagototal);
-            }else{
+            } else {
             if (Promedio >= 7 && Promedio <= 8) {
                 Pagototal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + Pagototal);
-            }else{
+            } else {
             if (Promedio >= 8 && Promedio <= 9) {
                 Pagototal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + Pagototal);
-            }else{
+            } else {
             if (Promedio >= 9 && Promedio <= 10) {
                 Pagototal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + Pagototal);
