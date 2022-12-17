@@ -23,13 +23,13 @@ public class Areadeltriangulo2 {
         System.out.println("Calcular el area del triangulo");
 
         System.out.println("Ingresar base");
-        int n1 = Leer.nextInt();
+        int N1 = Leer.nextInt();
 
         System.out.println("Ingresar altura");
-        int n2 = Leer.nextInt();
+        int N2 = Leer.nextInt();
 
         int r;
-        r = (n1 * n2) / 2;
+        r = (N1 * N2) / 2;
 
         System.out.println("El resultado del area es: " + r);
         {

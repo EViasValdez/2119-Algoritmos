@@ -18,20 +18,20 @@ public class Array {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner alea = new Scanner (System.in);
+        Scanner Alea = new Scanner (System.in);
 
         ArrayList <Integer> Nums = new ArrayList <Integer>();
 
         int n = 0;
 
         for (int i = 0; i < n; i++) {
-            int Num = alea.nextInt (2019);
+            int Num = Alea.nextInt (2019);
 
             while (Num > 1950) {
                 if (Num < 1950) {
                     break;
                 }
-                Num = alea.nextInt (2019);
+                Num = Alea.nextInt (2019);
             }
             Nums.add (Num);
         }

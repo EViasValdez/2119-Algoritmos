@@ -45,10 +45,10 @@ public class Aplicacion {
         
         if (Alumno == true) {
             while (Alumno == true) {
-                System.out.println("Ingrese nombre");
+                System.out.println("Ingrese Nombre");
 
-                String nombre = Leer.next();
-                Names.add (nombre);
+                String Nombre = Leer.next();
+                Names.add (Nombre);
 
                 System.out.println(Names);
                 System.out.println("¿Desea agregar a alguien mas?");

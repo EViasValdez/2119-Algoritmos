@@ -21,8 +21,8 @@ public class Algoritmos2 {
         Scanner Leer = new Scanner (System.in);
 
         System.out.println("Numero");
-        int n1 = Leer.nextInt();
+        int N1 = Leer.nextInt();
 
-        System.out.println("El numero ingresado es: " + n1);
+        System.out.println("El numero ingresado es: " + N1);
     }
 }

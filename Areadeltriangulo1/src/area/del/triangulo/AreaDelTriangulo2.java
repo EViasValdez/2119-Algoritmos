@@ -20,12 +20,12 @@ public class Areadeltriangulo2 {
         // TODO code application logic here
         Scanner Leer = new Scanner (System.in);
         System.out.println("Ingresar base");
-        int n1 = Leer.nextInt();
+        int N1 = Leer.nextInt();
         System.out.println("Ingresar altura");
-        int n2 = Leer.nextInt();
+        int N2 = Leer.nextInt();
 
         int r;
-        r = (n1 * n2) / 2;
+        r = (N1 * N2) / 2;
 
         System.out.println("El resultado del area es: " + r);
     }
