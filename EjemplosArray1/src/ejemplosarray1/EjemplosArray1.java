@@ -22,7 +22,7 @@ public class EjemplosArray1 {
         // TODO code application logic here
         System.out.println("Esta es la lista de animales disponibles");
 
-        Scanner leer = new Scanner (System.in);
+        Scanner Leer = new Scanner (System.in);
         Random alea = new Random ();
         String Animales [] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
 
@@ -36,13 +36,13 @@ public class EjemplosArray1 {
             Animales2.add (Animales [i]);
         }
 
-        int op = 1;
+        int Op = 1;
 
-        while (op == 1) {
+        while (Op == 1) {
             System.out.println("¿Desea agregar otro animal?");
-            op = leer.nextInt();
+            Op = Leer.nextInt();
 
-            if (op == 1) {
+            if (Op == 1) {
                 System.out.println("Ingrese un animal");
                 Animales2.add ("d");
             }

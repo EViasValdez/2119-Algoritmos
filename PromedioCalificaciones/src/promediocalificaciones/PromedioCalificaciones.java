@@ -23,7 +23,7 @@ public class PromedioCalificaciones {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float Calificacion, Promedio, Porcentaje, Pagototal, Mensualidad = 2000, Suma = 0;
+        float Calificacion, Promedio, Porcentaje, PagoTotal, Mensualidad = 2000, Suma = 0;
         int Cuantos;
 
         System.out.println("¿Cuantos alumnos?");
@@ -41,20 +41,20 @@ public class PromedioCalificaciones {
             System.out.println("El promedio es: " + Promedio);
 
             if (Promedio >= 6 && Promedio <= 7) {
-                Pagototal = Mensualidad - (Mensualidad * .10f);
-                System.out.println("El pago total es: " + Pagototal);
+                PagoTotal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + PagoTotal);
             } else {
             if (Promedio >= 7 && Promedio <= 8) {
-                Pagototal = Mensualidad - (Mensualidad * .10f);
-                System.out.println("El pago total es: " + Pagototal);
+                PagoTotal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + PagoTotal);
             } else {
             if (Promedio >= 8 && Promedio <= 9) {
-                Pagototal = Mensualidad - (Mensualidad * .10f);
-                System.out.println("El pago total es: " + Pagototal);
+                PagoTotal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + PagoTotal);
             } else {
             if (Promedio >= 9 && Promedio <= 10) {
-                Pagototal = Mensualidad - (Mensualidad * .10f);
-                System.out.println("El pago total es: " + Pagototal);
+                PagoTotal = Mensualidad - (Mensualidad * .10f);
+                System.out.println("El pago total es: " + PagoTotal);
             }
             }
             }

@@ -35,14 +35,14 @@ public class Suma {
         // System.out.println("La suma es: " + Suma (Numero1, Numero2));
 
         System.out.println("La suma es: " + Suma (Numero1, Numero2));
-        System.out.println("La resta es: " + resta (Numero1, Numero2));
-        System.out.println("La multiplicacion es: " + resta (Numero1, Numero2));
-        System.out.println("La division es: " + resta (Numero1, Numero2));
+        System.out.println("La resta es: " + Resta (Numero1, Numero2));
+        System.out.println("La multiplicacion es: " + Resta (Numero1, Numero2));
+        System.out.println("La division es: " + Resta (Numero1, Numero2));
     }
     private static float Suma(float Numero1, float Numero2) {
         float Suma = 0;
 
-        suma = Numero1 + Numero2;
+        Suma = Numero1 + Numero2;
         return Suma;
     }
     private static float Resta(float Numero1, float Numero2) {
@@ -54,8 +54,8 @@ public class Suma {
     private static float Multiplicacion(float Numero1, float Numero2) {
         float Multiplicacion = 0;
 
-        Mutiplicacion = Numero1 * Numero2;
-        return Mutiplicacion;
+        Multiplicacion = Numero1 * Numero2;
+        return Multiplicacion;
     }
     private static float Division(float Numero1, float Numero2) {
         float Division = 0;

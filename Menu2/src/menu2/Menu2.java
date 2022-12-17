@@ -24,7 +24,7 @@ public class Menu2 {
         BufferedReader br = new BufferedReader (isr);
 
         int Opc;
-        float Base, Altura, Area, pi = 3.1416f, Radio;
+        float Base, Altura, Area, Pi = 3.1416f, Radio;
 
         System.out.println("1 - Calcular area del cuadrado");
         System.out.println("2 - Calcular area del circulo");
@@ -45,7 +45,7 @@ public class Menu2 {
         case 2:
             System.out.println("¿Cuánto es el radio?");
             Radio = Float.parseFloat(br.readLine());
-            Area = pi * (Radio * Radio);
+            Area = Pi * (Radio * Radio);
             System.out.println("El area de circulo es: " + Area);
         break;
 
