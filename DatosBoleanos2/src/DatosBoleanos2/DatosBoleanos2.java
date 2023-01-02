@@ -30,27 +30,27 @@ public class DatosBoleanos2 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        boolean valvula1, valvula2, valvula3, valvula4, bomba, energiaelectrica;
+        boolean Valvula1, Valvula2, valvula3, Valvula4, Bomba, EnergiaElectrica;
 
         System.out.println("Estado de la valvula 1");
-        valvula1 = Boolean.parseBoolean(br.readLine());
+        Valvula1 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la valvula 2");
-        valvula2 = Boolean.parseBoolean(br.readLine());
+        Valvula2 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la valvula 3");
-        valvula3 = Boolean.parseBoolean(br.readLine());
+        Valvula3 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la valvula 4");
-        valvula4 = Boolean.parseBoolean(br.readLine());
+        Valvula4 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la bomba");
-        bomba = Boolean.parseBoolean(br.readLine());
+        Bomba = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la energia eléctrica");
-        energiaelectrica = Boolean.parseBoolean(br.readLine());
+        EnergiaElectrica = Boolean.parseBoolean(br.readLine());
 
-        if ((valvula1 == true)|| (valvula2 == true)|| (valvula3 == true)|| (valvula4 == true)|| (bomba == true)|| (energiaelectrica == false)) {
+        if ((Valvula1 == true)|| (Valvula2 == true)|| (Valvula3 == true)|| (Valvula4 == true)|| (Bomba == true)|| (EnergiaElectrica == false)) {
             System.out.println("Tanque lleno");
         }else{
             System.out.println("Tanque vació");

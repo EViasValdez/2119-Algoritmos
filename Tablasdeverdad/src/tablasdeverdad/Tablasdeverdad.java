@@ -47,7 +47,7 @@ public class Tablasdeverdad {
         System.out.println("3. Problema caja fuerte");
         System.out.println("4. Problema cajero automatico");
         
-        opcion = Integer.parseInt(br.readLine());
+        Opcion = Integer.parseInt(br.readLine());
 
         switch (Opcion) {
         case 1:
@@ -69,7 +69,7 @@ public class Tablasdeverdad {
             Fuego = Boolean.parseBoolean(br.readLine());
             Humo = Boolean.parseBoolean(br.readLine());
             
-            if (fuego == true || Humo == true) {
+            if (Fuego == true || Humo == true) {
                 System.out.println("Los sensores se activan");
             }else{
                 System.out.println("Los sensores no se activan");
