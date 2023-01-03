@@ -16,7 +16,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otra materia de ese mismo parcial.**
 <!----Separador de las notas---->
 
-<!----Directorio con ubicación de archivos---->
+<!----Directorio con descripcion de los programas---->
 # Directorio con ubicación de archivos
 ## ● Unidad 1 ●
 ###### datos_boleanos - 21/09/19
@@ -169,4 +169,4 @@ Texto por ser escrito.
 <!--Separador-->
 
 Texto por ser escrito.
-<!----Separador del directorio con ubicaron de archivos---->
+<!----Separador del directorio con descripcion de los programas---->
