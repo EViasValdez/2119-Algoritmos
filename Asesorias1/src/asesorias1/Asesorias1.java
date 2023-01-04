@@ -23,9 +23,9 @@ public class Asesorias1 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        float Salario, totalsalario = 0;
-        String nombre;
-        int categoria;
+        float Salario, TotalSalario = 0;
+        String Nombre;
+        int Categoria;
 
         for (int i = 1; i <= 3; i++) {
             System.out.println("Escribe el nombre");
@@ -37,17 +37,17 @@ public class Asesorias1 {
 
             switch (Categoria) {
             case 1:
-                totalsalario = Salario * 15;
-                System.out.println("El total del salario es: " + totalsalario);
+                TotalSalario = Salario * 15;
+                System.out.println("El total del salario es: " + TotalSalario);
             break;
 
             case 2:
-                totalsalario = Salario * 0.10f;
-                System.out.println("El total del salario es: " + totalsalario);
+                TotalSalario = Salario * 0.10f;
+                System.out.println("El total del salario es: " + TotalSalario);
             break;
 
             case 3:
-                totalsalario = Salario;
+                TotalSalario = Salario;
             break;
 
             }
