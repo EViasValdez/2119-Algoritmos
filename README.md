@@ -17,73 +17,73 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
-# Directorio con ubicación de archivos
+# Descripcion de los programas
 ## ● Unidad 1 ●
-###### datos_boleanos - 21/09/19
-Texto por ser escrito.
+###### DatosBoleanos1 - 21/09/19
+Programa que replica un sistema de seguridad dentro de una casa.
 
 <!----Separador---->
 
-###### Datos_boleanos_2 - 21/09/19
-Texto por ser escrito.
+###### DatosBoleanos2 - 21/09/19
+Sistema de verificacion de un sistema valvulas y electricidad.
 
 <!----Separador---->
 
-###### Tablasdeverdad - 28/09/19
-Texto por ser escrito.
+###### TablasdeVerdad - 28/09/19
+El programa muestra cuatro problemas, uno con ventanas, otro con sensores, otro con una caja fuerte y uno mas con un cajero automatico.
 
 <!----Separador---->
 
 ## ● Unidad 2 ●
 ###### Holamundo - 02/10/19
-Texto por ser escrito.
+Programa simple, pero por algun motivo termino inconcluso
 
 <!----Separador---->
 
 ###### ZinjaI - 05/10/19
-Texto por ser escrito.
+La carpeta contiene un archivo de codigo C++ para validar calificaciones, tiene adjuntado tambien un archivo exe que es el mismo programa pero compilado.
 
 <!----Separador---->
 
-###### Algoritmos - 09/10/19
-Texto por ser escrito.
+###### Algoritmos1, Algoritmos2 - 09/10/19
+Verificacion de un valor.
 
 <!----Separador---->
 
-###### Areadeltriangulo - 09/10/19
-Texto por ser escrito.
+###### Areadeltriangulo1 - 09/10/19
+Calcula la base por altura de un triangulo.
 
 <!----Separador---->
 
-###### Areadetriangulo2 - 09/10/19
-Texto por ser escrito.
+###### Areadeltriangulo2 - 09/10/19
+Este programa es similar al anterior pero se usa scanner.
 
 <!----Separador---->
 
 ###### Algoritmos2 - 09/10/19
-Texto por ser escrito.
+Muestra un valor que se ingresa.
 
 <!----Separador---->
 
 ###### Ciclo, Cambio - 12/10/19
-Texto por ser escrito.
+Utilizacion de ciclos usando contadores.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Version incompleta del programa anterior.
 
 <!----Separador---->
 
 ###### Arreglos1, Arreglos2, Salarios - 19/10/2019
-Texto por ser escrito.
+Da un total de salario y asigna una categoria.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Asigna un descuento a un precio y muestra el total del precio.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Se muestran sumas de un salario y de algunos elementos utilizando arreglos.
 
 <!----Separador---->
 

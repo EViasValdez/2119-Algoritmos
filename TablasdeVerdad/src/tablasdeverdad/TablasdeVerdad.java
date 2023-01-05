@@ -42,7 +42,7 @@ public class TablasdeVerdad {
         int Opcion;
 
         System.out.println("Elige una opcion");
-        System.out.println("1. Problema examen");
+        System.out.println("1. Problema ventanas");
         System.out.println("2. Problema sensores");
         System.out.println("3. Problema caja fuerte");
         System.out.println("4. Problema cajero automatico");

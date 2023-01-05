@@ -23,22 +23,22 @@ public class Asesorias2 {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);    
 
-        float precio, descuento = 0, preciototal = 0;
+        float Precio, Descuento = 0, PrecioTotal = 0;
         System.out.println("Escribe un precio");
 
-        precio = Float.parseFloat(br.readLine());
+        Precio = Float.parseFloat(br.readLine());
 
         if (precio < 0) {
             System.out.println("Error");
         }else{
         if (precio >= 500) {
-            descuento = precio * .11f;
-            preciototal = precio - descuento;
-            System.out.println("El precio total es: " + preciototal);
+            Descuento = Precio * .11f;
+            PrecioTotal = Precio - Descuento;
+            System.out.println("El precio total es: " + PrecioTotal);
         }else{
-            descuento = precio * .03f;
-            preciototal = precio - descuento;
-            System.out.println("El precio total es: " + preciototal);
+            Descuento = Precio * .03f;
+            PrecioTotal = Precio - Descuento;
+            System.out.println("El precio total es: " + PrecioTotal);
         }
         }
     }
