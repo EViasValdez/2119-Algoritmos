@@ -89,7 +89,7 @@ Se muestran sumas de un salario y de algunos elementos utilizando arreglos.
 
 ## ● Unidad 3 ●
 ###### Arrays - 06/11/19
-Texto por ser escrito.
+Por medio de arreglos se puede asignar grupo a un alumno.
 
 <!----Separador---->
 
@@ -129,7 +129,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Aplicacion - 25/11/19
-Texto por ser escrito.
+Utilizacion de arreglos y listas con un scanner.
 
 <!----Separador---->
 
@@ -156,10 +156,10 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Arreglos3, Menu1 - 06/12/19
-Texto por ser escrito.
+Calculos de precio utilizando arreglos.
 <!--Separador-->
 
-Texto por ser escrito.
+Utilizacion de menus usando el metodo Switch-Case.
 
 <!----Separador---->
 

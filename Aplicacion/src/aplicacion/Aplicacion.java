@@ -22,14 +22,14 @@ public class Aplicacion {
         Scanner Leer = new Scanner (System.in);
         ArrayList <String> Names = new ArrayList <String>();
 
-        Names.add ("Javier");
-        Names.add ("Martin");
-        Names.add ("Marisol");
-        Names.add ("Carla");
-        Names.add ("Hugo");
-        Names.add ("Victor");
-        Names.add ("Elisabeth");
-        Names.add ("Teresa");
+        Names.add("Javier");
+        Names.add("Martin");
+        Names.add("Marisol");
+        Names.add("Carla");
+        Names.add("Hugo");
+        Names.add("Victor");
+        Names.add("Elisabeth");
+        Names.add("Teresa");
 
         System.out.println("Bienvenido");
         System.out.println("Esta es la lista de alumnos disponibles");

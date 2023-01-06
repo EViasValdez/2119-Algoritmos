@@ -25,7 +25,7 @@ public class Ciclos {
         BufferedReader br = new BufferedReader (isr);
 
         int Aprobaron = 0, Reprobaron = 0, Invalida = 0;
-        float Suma = 0, promedio = 0;
+        float Suma = 0, Promedio = 0;
         float Calificacion [] = new float [5];
 
         for (int i = 0; i < Calificacion.length; i++) {
@@ -46,8 +46,8 @@ public class Ciclos {
             Suma = Suma + Calificacion [i];
         }
 
-        promedio = Suma / 5;
-        System.out.println("El promedio es: " + promedio);
+        Promedio = Suma / 5;
+        System.out.println("El promedio es: " + Promedio);
         System.out.println("Alumnos reprobados: " + Reprobaron);
         System.out.println("Alumnos aprobados: " + Aprobaron);
         System.out.println("Promedios invalidos: " + Invalida);

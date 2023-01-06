@@ -16,12 +16,12 @@ public class Clases {
          */
     public static void main(String[] args) {
         // TODO code application logic here
-        String nombres [] = {"Alejandro", "Martín", "Javier", "Rafael", "Enrique", "María Elena", "Leticia", "Verónica", "Marco Antonio", "David", 
+        String Nombres [] = {"Alejandro", "Martín", "Javier", "Rafael", "Enrique", "María Elena", "Leticia", "Verónica", "Marco Antonio", "David", 
         "José Manuel", "Francisco Javier", "Miguel", "Eduardo", "Gerardo", "Arturo", "Josefina", "Mario", "Francisca", "José Antonio",
         "Raúl", "Rosa", "Rosa María", "Salvador", "Elizabeth", "Juan Manuel", "Guillermo", "Ángel", "Gabriela", "Gabriel",
         "Yolanda", "Santiago", "Armando", "Patricia", "Óscar", "Ana María", "Gloria", "Víctor Manuel", "Andrés", "Alejandra",
         "Martha", "Luis", "Silvia", "Sergio", "Alicia", "Teresa", "Alfredo", "Alberto", "Diego", "Carmen"};
-        String apellidos [] = {"Pérez", "Sánchez", "Cruz", "Hernández", "Vázquez", "Flores", "Gutiérrez", "Morales", "Díaz", "Ramírez",
+        String Apellidos [] = {"Pérez", "Sánchez", "Cruz", "Hernández", "Vázquez", "Flores", "Gutiérrez", "Morales", "Díaz", "Ramírez",
         "Jiménez", "López", "González", "García", "Martínez", "Rodríguez", "Reyes", "Gómez", "Vargas", "Bravo",
         "Espinoza", "Muñoz", "Soto", "Ernesto", "Flores", "Valdez", "Castillo", "Romero", "Zuñiga", "Contreras",
         "Riquelme", "Reyes", "Navarrete", "Campos", "Bustamante", "Pino", "Vega", "Cortes", "Romero", "Jimenez",

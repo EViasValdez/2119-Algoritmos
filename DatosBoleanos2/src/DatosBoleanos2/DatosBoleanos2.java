@@ -27,8 +27,8 @@ public class DatosBoleanos2 {
         // 4) La válvula 4 esta abierta.
         // 5) La bomba esta abierta.
         // 6) La energía eléctrica esta apagada.
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
 
         boolean Valvula1, Valvula2, valvula3, Valvula4, Bomba, EnergiaElectrica;
 

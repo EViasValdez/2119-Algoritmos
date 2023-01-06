@@ -19,8 +19,8 @@ public class Arreglos3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
 
         float Precios [] = new float [10];
         float Suma = 0, promedio = 0;
