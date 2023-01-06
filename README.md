@@ -164,9 +164,9 @@ Utilizacion de menus usando el metodo Switch-Case.
 <!----Separador---->
 
 ###### Menu2, Condicion - 07/12/19
-Texto por ser escrito.
+Tiene similitud al programa "Menu1".
 
 <!--Separador-->
 
-Texto por ser escrito.
+Definicion de valores usando condiciones.
 <!----Separador del directorio con descripcion de los programas---->
