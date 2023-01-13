@@ -107,7 +107,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### EjemplosArray1, EjemplosArray2 - 13/11/19
-Texto por ser escrito.
+Compilado de ejemplos utilizado arreglos / array.
 
 <!--Separador-->
 
