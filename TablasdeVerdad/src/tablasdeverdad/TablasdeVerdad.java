@@ -35,8 +35,8 @@ public class TablasdeVerdad {
     */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here  
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
 
         boolean Ventana1, Ventana2, Puerta, Fuego, Humo, Digito1, Digito2, Digito3, Digito4, Digit1, Digit2, Digit3, Digit4;
         int Opcion;

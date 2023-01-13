@@ -18,7 +18,7 @@ public class Array {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner Alea = new Scanner (System.in);
+        Scanner Alea = new Scanner(System.in);
 
         ArrayList <Integer> Nums = new ArrayList <Integer>();
 

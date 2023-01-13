@@ -20,8 +20,8 @@ public class Asesorias2 {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);    
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);    
 
         float Precio, Descuento = 0, PrecioTotal = 0;
         System.out.println("Escribe un precio");

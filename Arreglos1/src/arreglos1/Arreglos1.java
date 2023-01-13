@@ -21,7 +21,7 @@ public class Arreglos1 {
         // TODO code application logic here
         // int [] numeros;
         // numeros = new int [10];
-        Scanner Leer = new Scanner (System.in);
+        Scanner Leer = new Scanner(System.in);
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
 

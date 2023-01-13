@@ -22,8 +22,8 @@ public class EjemplosArray1 {
         // TODO code application logic here
         System.out.println("Esta es la lista de animales disponibles");
 
-        Scanner Leer = new Scanner (System.in);
-        Random alea = new Random ();
+        Scanner Leer = new Scanner(System.in);
+        Random alea = new Random();
         String Animales [] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
 
         ArrayList <String> Animales2 = new ArrayList<String>();
