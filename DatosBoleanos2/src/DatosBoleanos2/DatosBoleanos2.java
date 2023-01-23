@@ -30,7 +30,7 @@ public class DatosBoleanos2 {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
 
-        boolean Valvula1, Valvula2, valvula3, Valvula4, Bomba, EnergiaElectrica;
+        boolean Valvula1, Valvula2, Valvula3, Valvula4, Bomba, EnergiaElectrica;
 
         System.out.println("Estado de la valvula 1");
         Valvula1 = Boolean.parseBoolean(br.readLine());

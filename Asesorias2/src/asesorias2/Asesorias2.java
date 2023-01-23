@@ -28,10 +28,10 @@ public class Asesorias2 {
 
         Precio = Float.parseFloat(br.readLine());
 
-        if (precio < 0) {
+        if (Precio < 0) {
             System.out.println("Error");
         }else{
-        if (precio >= 500) {
+        if (Precio >= 500) {
             Descuento = Precio * .11f;
             PrecioTotal = Precio - Descuento;
             System.out.println("El precio total es: " + PrecioTotal);

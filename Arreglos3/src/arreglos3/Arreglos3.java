@@ -23,7 +23,7 @@ public class Arreglos3 {
         BufferedReader br = new BufferedReader(isr);
 
         float Precios [] = new float [10];
-        float Suma = 0, promedio = 0;
+        float Suma = 0, Promedio = 0;
 
         for (int x = 0; x < 10; x++) {
             System.out.println("Escribe el precio");
@@ -33,7 +33,7 @@ public class Arreglos3 {
             System.out.println("Los precios son: " + Precios [x]);
         }
         for (int x = 0; x < 10; x++) {
-            Suma = Suma + precios [x];
+            Suma = Suma + Precios [x];
         }
         Promedio = Suma / 10;
 
