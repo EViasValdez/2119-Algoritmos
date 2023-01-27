@@ -75,11 +75,7 @@ Version incompleta del programa anterior.
 <!----Separador---->
 
 ###### Arreglos1, Arreglos2, Salarios - 19/10/2019
-Da un total de salario y asigna una categoria.
-
-<!--Separador-->
-
-Asigna un descuento a un precio y muestra el total del precio.
+En el primer programa se asigna un total de salario y asigna una categoria, en el segundo asigna un descuento a un precio y muestra el total del precio.
 
 <!--Separador-->
 
