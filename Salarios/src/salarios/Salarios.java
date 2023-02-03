@@ -20,17 +20,17 @@ public class Salarios {
         // TODO code application logic here
         Scanner Leer = new Scanner(System.in);
 
-        int nElementos;
+        int NElementos;
 
         System.out.println("Numero de elementos del arreglo");
-        nElementos = Leer.nextInt();
+        NElementos = Leer.nextInt();
         
-        double [] Salario = new double [nElementos];
+        double [] Salario = new double [NElementos];
         double Suma = 0;
         int k = 0;
 
         System.out.println("Ingresa los valores del arreglo");
-        for (k = 0; k < nElementos; k++)
+        for (k = 0; k < NElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
             Salario [k] = Leer.nextDouble();
