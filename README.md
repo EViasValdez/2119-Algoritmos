@@ -93,7 +93,7 @@ Por medio de arreglos se puede asignar grupo a un alumno.
 Texto por ser escrito.
 <!----Separador---->
 
-###### Suma, metodosarreglos - 09/11/19
+###### Suma, MetodosArreglos - 09/11/19
 Texto por ser escrito.
 
 <!--Separador-->
