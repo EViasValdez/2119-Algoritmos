@@ -129,7 +129,7 @@ Utilizacion de arreglos y listas con un scanner.
 
 <!----Separador---->
 
-###### Asesorias, Asesorias2, AsesoriasArreglos - 29/11/19
+###### Asesorias1, Asesorias2, AsesoriasArreglos - 29/11/19
 Texto por ser escrito.
 
 <!--Separador-->
