@@ -86,7 +86,7 @@ public class TablasdeVerdad {
             System.out.println("Cuarto digito");
             Digito4 = Boolean.parseBoolean(br.readLine());
 
-            if (Digito1 == true || Digito2 == true || Digito3 == true || Digito3 == true) {
+            if (Digito1 == true || Digito2 == true || Digito3 == true || Digito4 == true) {
                 System.out.println("La caja se abre");
             }else{
                 System.out.println("La caja no se abre");
@@ -103,7 +103,7 @@ public class TablasdeVerdad {
             System.out.println("Cuarto digito");
             Digit4 = Boolean.parseBoolean(br.readLine());
 
-            if (Digit1 == true || Digit2 == true || Digit3 == true) {
+            if (Digit1 == true || Digit2 == true || Digit3 == true || Digit4 == true) {
                 System.out.println("Puede retirar el dinero");
             }else{
                 System.out.println("No puede retirar el dinero");

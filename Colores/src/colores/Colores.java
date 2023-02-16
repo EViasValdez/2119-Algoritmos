@@ -18,13 +18,13 @@ public class Colores {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Random rng = new Random();
+        Random Rng = new Random();
 
         int Numeros [] = new int [100];
         
         for (int i = 0; i < 100; i++)
         {
-            Numeros [1] = rng.nextInt (4) + 1;
+            Numeros [1] = Rng.nextInt (4) + 1;
         }
 
         int Red = 0;
@@ -51,30 +51,30 @@ public class Colores {
             }
         }
 
-        String rojo [] = new String [Red];
-        String negro [] = new String [Black];
-        String blanco [] = new String [White];
-        String azul [] = new String [Blue];
+        String Rojo [] = new String [Red];
+        String Negro [] = new String [Black];
+        String Blanco [] = new String [White];
+        String Azul [] = new String [Blue];
 
         for (int i = 0; i < 100; i++) {
             if (Numeros [i] == 1)
             {
-                rojo [Red] = "rojo";
+                Rojo [Red] = "Rojo";
                 Red++;
             }
             if (Numeros [i] == 2)
             {
-                negro [Black] = "negro";
+                Negro [Black] = "Negro";
                 Black++;
             }
             if (Numeros [i] == 3)
             {
-                blanco [White] = "blanco";
+                Blanco [White] = "Blanco";
                 White++;
             }
             if (Numeros [i] == 4)
             {
-                azul [Blue] = "azul";
+                Azul [Blue] = "Azul";
                 Blue++;
             }
         }
