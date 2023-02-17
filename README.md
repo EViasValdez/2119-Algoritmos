@@ -35,7 +35,7 @@ El programa muestra cuatro problemas, uno con ventanas, otro con sensores, otro 
 <!----Separador---->
 
 ## ● Unidad 2 ●
-###### Holamundo - 02/10/19
+###### HolaMundo - 02/10/19
 Programa simple, pero por algun motivo termino inconcluso
 
 <!----Separador---->
