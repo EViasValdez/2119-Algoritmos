@@ -49,7 +49,7 @@ public class Aplicacion {
                 System.out.println("Ingrese Nombre");
 
                 String Nombre = Leer.next();
-                Names.add (Nombre);
+                Names.add(Nombre);
 
                 System.out.println(Names);
                 System.out.println("¿Desea agregar a alguien mas?");
