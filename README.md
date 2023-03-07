@@ -98,16 +98,16 @@ Texto por ser escrito.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Utilizacion de metodos y arreglos.
 
 <!----Separador---->
 
 ###### EjemplosArray1, EjemplosArray2 - 13/11/19
-Compilado de ejemplos utilizado arreglos / array.
+Ejemplo utilizado arreglos / array.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Tiene similitud con el primer compilado de ejemplos, solo que aqui se usan nombres.
 
 <!----Separador---->
 
