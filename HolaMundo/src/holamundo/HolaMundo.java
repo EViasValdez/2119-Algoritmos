@@ -9,8 +9,8 @@ package holamundo;
  *
  * @author EViasValdez
  */
-public class HolaMundo {
 
+public class HolaMundo {
     /**
      * @param args the command line arguments
      */

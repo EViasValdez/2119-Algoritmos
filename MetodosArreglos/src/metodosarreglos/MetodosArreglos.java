@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class MetodosArreglos {
 
+public class MetodosArreglos {
     /**
      * @param args the command line arguments
      * @throws java.io.IOException

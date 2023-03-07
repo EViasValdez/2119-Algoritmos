@@ -9,6 +9,7 @@ package incio;
  *
  * @author EViasValdez
  */
+
 class i<T0, T1> {
     
 }

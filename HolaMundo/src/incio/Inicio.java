@@ -9,6 +9,7 @@ package incio;
  *
  * @author EViasValdez
  */
+
 public class Inicio {
    public static void main(String[] args) {
         int N1 = 3;

@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class DatosBoleanos2 {
 
+public class DatosBoleanos2 {
     /**
      * @param args the command line arguments
      * @throws java.io.IOException

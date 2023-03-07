@@ -13,8 +13,8 @@ import java.util.Scanner;
  *
  * @author EViasValdez
  */
-public class EjemplosArray1 {
 
+public class EjemplosArray1 {
     /**
      * @param args the command line arguments
      */

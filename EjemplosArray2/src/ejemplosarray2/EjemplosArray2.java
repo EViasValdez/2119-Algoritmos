@@ -11,8 +11,8 @@ import java.util.ArrayList;
  *
  * @author EViasValdez
  */
-public class EjemplosArray2 {
 
+public class EjemplosArray2 {
     /**
      * @param args the command line arguments
      */

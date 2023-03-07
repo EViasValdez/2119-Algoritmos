@@ -13,26 +13,25 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class TablasdeVerdad {
 
+public class TablasdeVerdad {
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
      */
-    /*
-        1. Una casa cuenta con sensores de fuego en las habitaciones,
-        estos sensores de fuego en las habitaciones se activaran de acuerdo a las siguientes condiciones.
-        A) Si ocurre un incendio.
-        B) Si hay humo.
-        C) En caso contrario no se encienden.
+    /* 1. Una casa cuenta con sensores de fuego en las habitaciones,
+    estos sensores de fuego en las habitaciones se activaran de acuerdo a las siguientes condiciones.
+    A) Si ocurre un incendio.
+    B) Si hay humo.
+    C) En caso contrario no se encienden.
 
-        2. El cliente tendrá acceso a una caja fuerte de valores.
-        A) Conocer la combinación de 4 dígitos.
+    2. El cliente tendrá acceso a una caja fuerte de valores.
+    A) Conocer la combinación de 4 dígitos.
 
-        3. El cliente de un banco requiere retirar dinero de un cajero automático.
-        A) Conocer los 4 dígitos de su tarjeta.
-        B) Tener los datos del cliente (Código 16 dígitos, otros 4 dígitos).
-    */
+    3. El cliente de un banco requiere retirar dinero de un cajero automático.
+    A) Conocer los 4 dígitos de su tarjeta.
+    B) Tener los datos del cliente (Código 16 dígitos, otros 4 dígitos).*/
+    
     public static void main(String[] args) throws IOException {
         // TODO code application logic here  
         InputStreamReader isr = new InputStreamReader(System.in);

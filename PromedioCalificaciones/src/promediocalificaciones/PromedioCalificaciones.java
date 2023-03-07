@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class PromedioCalificaciones {
 
+public class PromedioCalificaciones {
     /**
      * @param args the command line arguments
      */

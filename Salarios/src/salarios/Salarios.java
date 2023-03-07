@@ -11,8 +11,8 @@ import java.util.Scanner;
  *
  * @author EViasValdez
  */
-public class Salarios {
 
+public class Salarios {
     /**
      * @param args the command line arguments
      */

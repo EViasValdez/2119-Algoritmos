@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class Suma {
 
+public class Suma {
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
