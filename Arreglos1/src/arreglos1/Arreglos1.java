@@ -12,8 +12,8 @@ import java.util.Scanner;
  *
  * @author KEVIN (Correcciones por EViasValdez)
  */
+ 
 public class Arreglos1 {
-
     /**
      * @param args the command line arguments
      */

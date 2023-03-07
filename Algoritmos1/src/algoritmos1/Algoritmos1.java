@@ -11,8 +11,8 @@ import java.util.Scanner;
  *
  * @author EViasValdez
  */
+ 
 public class Algoritmos1 {
-
     /**
      * @param args the command line arguments
      */

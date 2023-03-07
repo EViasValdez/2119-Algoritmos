@@ -12,8 +12,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class Cambio {
 
+public class Cambio {
     /**
      * @param args the command line arguments
      */

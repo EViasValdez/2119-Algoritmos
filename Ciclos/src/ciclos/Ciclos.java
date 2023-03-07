@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class Ciclos {
 
+public class Ciclos {
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
@@ -34,10 +34,10 @@ public class Ciclos {
 
             if (Calificacion [i] > 10 || Calificacion [i] < 0) {
                 Invalida++;
-            }else{
+            } else {
             if (Calificacion [i] >= 7) {
                 Aprobaron++;
-            }else{
+            } else {
             if (Calificacion [i] < 7) {
                 Reprobaron++;
             }

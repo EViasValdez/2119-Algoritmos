@@ -9,8 +9,8 @@ package clases;
  *
  * @author EViasValdez
  */
-public class Clases {
 
+public class Clases {
     /**
      * @param args the command line arguments
          */

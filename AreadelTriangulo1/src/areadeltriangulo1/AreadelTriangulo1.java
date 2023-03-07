@@ -10,8 +10,8 @@ import java.util.Scanner;
  *
  * @author Eduardo
  */
+ 
 public class AreadelTriangulo1 {
-
     /**
      * @param args the command line arguments
      */

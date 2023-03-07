@@ -7,12 +7,13 @@ package array;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+
 /**
  *
  * @author EViasValdez
  */
+ 
 public class Array {
-
     /**
      * @param args the command line arguments
      */

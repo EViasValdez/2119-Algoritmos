@@ -13,8 +13,8 @@ import java.io.InputStreamReader;
  *
  * @author EViasValdez
  */
-public class Asesorias1 {
 
+public class Asesorias1 {
     /**
      * @param args the command line arguments
      */

@@ -11,8 +11,8 @@ import java.util.Random;
  *
  * @author EViasValdez
  */
-public class Colores {
 
+public class Colores {
     /**
      * @param args the command line arguments
      */

@@ -4,12 +4,13 @@
  * and open the template in the editor.
  */
 package arrays;
+
 /**
  *
  * @author EViasValdez
  */
-public class Arrays {
 
+public class Arrays {
     /**
      * @param args the command line arguments
      */
