@@ -22,7 +22,7 @@ public class Arrays {
 
         int [] Numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
         int Num = 0;
-        int [] Numero;
+        int Numero = 0;
 
         // float calificaciones;
         // float calificacion;
@@ -37,7 +37,7 @@ public class Arrays {
             Num = Num + 1;
             System.out.println("Alumno" + Num);
 
-            String [] Nombre;
+            String [] Nombre = null;
 
             System.out.println("Nombre: " + Nombre [x]);
             if (Datos [x] == true) {
@@ -46,17 +46,17 @@ public class Arrays {
                 System.out.println("Grupo asignado: B");
             }
 
-            int [] Binarios;
+            int [] Binarios = null;
 
             if (Binarios [x] == 1) {
                 System.out.println("Genero: Mujer");
             }else{
                 System.out.println("Genero: Hombre");
             }
-            System.out.println("Materias aprobadas" + Numero [x]);
+            System.out.println("Materias aprobadas" + Numero);
             System.out.println("");
             // Calificaciones
-            Suma = 0;
+            int Suma = 0;
 
             int i;
         }
