@@ -94,7 +94,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Suma, MetodosArreglos - 09/11/19
-Texto por ser escrito.
+Calculadora usando clases.
 
 <!--Separador-->
 
