@@ -35,7 +35,9 @@ public class EjemplosArray1 {
             System.out.print(Animales [i] + " | ");
             Animales2.add(Animales [i]);
         }
-
+        
+        System.out.println("");
+        
         int Op = 1;
 
         while (Op == 1) {
