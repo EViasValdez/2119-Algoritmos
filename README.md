@@ -130,7 +130,7 @@ Utilizacion de arreglos y listas con un scanner.
 <!----Separador---->
 
 ###### Asesorias1, Asesorias2, AsesoriasArreglos - 29/11/19
-Texto por ser escrito.
+Calculo de salario.
 
 <!--Separador-->
 
@@ -143,7 +143,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### PromedioCalificaciones, Edad - 30/11/19
-Texto por ser escrito.
+Se saca el promedio de diferentes calificaciones.
 
 <!--Separador-->
 

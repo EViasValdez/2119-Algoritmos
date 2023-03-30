@@ -53,7 +53,7 @@ public class Arreglos1 {
         // y no se especifico el tamaño del mismo.
         int l = 0;
 
-        System.out.println("Introducir calificiones, finalizar con -1");
+        System.out.println("Introducir calificaciones, finalizar con -1");
         System.out.printf("Alumnno numero %3d, calificaion media: ", ++l);
 
         float calif = Leer.nextFloat();
