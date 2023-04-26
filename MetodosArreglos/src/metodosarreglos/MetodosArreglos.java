@@ -24,11 +24,11 @@ public class MetodosArreglos {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        double Numeros [] = new double [4];
+        double Numeros [] = new double[4];
 
         for (int i = 0; i < Numeros.length; i++){
             System.out.println("Escribir un numero");
-            Numeros [i] = Double.parseDouble(br.readLine());
+            Numeros[i] = Double.parseDouble(br.readLine());
         }
 
         System.out.println("La suma es: " + Sumar (Numeros));
@@ -39,7 +39,7 @@ public class MetodosArreglos {
         double Suma = 0;
 
         for (int i = 0; i < Numeros.length; i++) {
-            Suma = Suma + Numeros [i];
+            Suma = Suma + Numeros[i];
         }
         return Suma;
     }
@@ -49,7 +49,7 @@ public class MetodosArreglos {
         for (int i = 0; i < Numeros.length; i++) {
             if (Numeros [1] > Mayor)
             {
-                Mayor = Numeros [i];
+                Mayor = Numeros[i];
             }
         }
         return Mayor;
@@ -60,7 +60,7 @@ public class MetodosArreglos {
         for (int i = 0; i < Numeros.length; i++) {
             if (Numeros [1] > Menor)
             {
-                Menor = Numeros [i];
+                Menor = Numeros[i];
             }
         }
         return Menor;

@@ -30,20 +30,20 @@ public class Ciclos {
 
         for (int i = 0; i < Calificacion.length; i++) {
             System.out.println("Escribe la calificación");
-            Calificacion [i] = Float.parseFloat(br.readLine());
+            Calificacion[i] = Float.parseFloat(br.readLine());
 
-            if (Calificacion [i] > 10 || Calificacion [i] < 0) {
+            if (Calificacion[i] > 10 || Calificacion[i] < 0) {
                 Invalida++;
             } else {
-            if (Calificacion [i] >= 7) {
+            if (Calificacion[i] >= 7) {
                 Aprobaron++;
             } else {
-            if (Calificacion [i] < 7) {
+            if (Calificacion[i] < 7) {
                 Reprobaron++;
             }
             }
             }
-            Suma = Suma + Calificacion [i];
+            Suma = Suma + Calificacion[i];
         }
 
         Promedio = Suma / 5;

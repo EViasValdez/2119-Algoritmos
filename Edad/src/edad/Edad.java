@@ -39,13 +39,13 @@ public class Edad {
 
             if (Edad == 6 || Edad >= 8 && Edad <= 10 && Promedio >= 9 && Promedio <= 10) {
                 System.out.println("Puedes ingresar al futbol");
-            }else{
+            } else {
             if (Edad >= 8 && Edad <= 10 || Promedio >= 8 && Promedio <= 10) {
                 System.out.println("Puedes ingresar al basquetbol");
-            }else{
+            } else {
             if (Edad >= 6 && Edad <= 10 || Promedio == 10) {
                 System.out.println("Puedes ingresar al deporte que quieras");
-            }else{
+            } else {
             if (Edad >= 6 && Edad <= 10 || Promedio == 7) {
                 System.out.println("");
             }

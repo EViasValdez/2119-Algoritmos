@@ -20,7 +20,7 @@ public class Arreglos {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        Scanner Leer = new Scanner (System.in);
+        Scanner leer = new Scanner (System.in);
 
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
@@ -31,7 +31,7 @@ public class Arreglos {
         int nElementos;
 
         System.out.println("Numero de elementos del arreglo");
-        nElementos = Leer.nextInt();
+        nElementos = leer.nextInt();
         int [] m = new int [nElementos];
 
         int k = 0;
@@ -40,7 +40,7 @@ public class Arreglos {
         for (k = 0; k < nElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
-            m [k] = Leer.nextInt();
+            m [k] = leer.nextInt();
         }
         System.out.println();
 
@@ -58,7 +58,7 @@ public class Arreglos {
         System.out.println("Introducir calificaciones, finalizar con -1");
         System.out.printf("Alumno numero %3d, calificación media:", ++l);
 
-        float Calif = Leer.nextFloat();
+        float Calif = leer.nextFloat();
 
         while (Calif != -1)
         {
@@ -66,7 +66,7 @@ public class Arreglos {
             System.out.printf("Alumno numero %3d, nota media: ", ++l); // Cuando se usa "printf" muestra
             // un mensaje en pantalla en el cual se especifica el formato de los
             // datos con "%d" para datos de tipo entero.
-            Calif = Leer.nextFloat();
+            Calif = leer.nextFloat();
         }
 
         int Nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
@@ -85,39 +85,39 @@ public class Arreglos {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de nacimiento");
-            Meses [i] = Leer.next();
+            Meses [i] = leer.next();
         }
         for (int i = 0; i <= 11; i++)
         {
-            System.out.println("Los meses son: " + Meses [i]);
-          // Meses [i] = Leer.next();
+            System.out.println("Los meses son: " + Meses[i]);
+          // Meses[i] = leer.next();
         }
         for (int j = 0; j <= 6; j++)
         {
             System.out.println("Dias de la semana");
             Car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
-            // Letras2 [i] = (char) Leer.toString();
+            Letras2[j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
+            // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }
         for (int j = 0; j <= 6; j++)
         {
-            System.out.println("Los meses son: " + Letras2 [j]);
-          // Meses [i] = Leer.next();
+            System.out.println("Los meses son: " + Letras2[j]);
+          // Meses [i] = leer.next();
         }
         
-        // int [] numeros = new int [10];
+        // int [] numeros = new int[10];
         // int [] numeros = {1,2,3,4,5,6,7,8,9,10};
         // 
         // int valor = numeros [2];
         // System.out.println(numeros [2]);
         // System.out.println(valor);
-        System.out.println(Semana [1]);
+        System.out.println(Semana[1]);
         // for (int i = 0; i <= 9; i++)
-        System.out.println(Letras [1]);
+        System.out.println(Letras[1]);
         // {
-        //     int valor = numeros [2];
+        //     int valor = numeros[2];
         //     System.out.println("26");
         //     System.out.println(numeros [i]);
         //     System.out.println(" ");
