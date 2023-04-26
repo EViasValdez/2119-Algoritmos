@@ -61,7 +61,7 @@ public class Aplicacion {
                     System.out.println("El programa se cerrara");
                 }
             }
-        }else{
+        } else {
             System.out.println("El programa se cerrara");
         }
     }

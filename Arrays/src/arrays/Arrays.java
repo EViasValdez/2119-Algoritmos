@@ -42,7 +42,7 @@ public class Arrays {
             System.out.println("Nombre: " + Nombre [x]);
             if (Datos [x] == true) {
                 System.out.println("Grupo asignado: A");
-            }else{
+            } else {
                 System.out.println("Grupo asignado: B");
             }
 
@@ -50,7 +50,7 @@ public class Arrays {
 
             if (Binarios [x] == 1) {
                 System.out.println("Genero: Mujer");
-            }else{
+            } else {
                 System.out.println("Genero: Hombre");
             }
             System.out.println("Materias aprobadas" + Numero);

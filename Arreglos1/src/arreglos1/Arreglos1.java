@@ -19,8 +19,8 @@ public class Arreglos1 {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        // int [] numeros;
-        // numeros = new int [10];
+        // int [] Numeros;
+        // Numeros = new int [10];
         Scanner Leer = new Scanner(System.in);
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
@@ -101,18 +101,18 @@ public class Arreglos1 {
             System.out.println("Los meses son: " + Letras2 [j]);
             // Meses [i] = leer.next();
         }
-        // int [] numeros = new int [10];
-        // int [] numeros = {1,2,3,4,5,6,7,8,9,10};
+        // int [] Numeros = new int [10];
+        // int [] Numeros = {1,2,3,4,5,6,7,8,9,10};
         // 
-        // int valor = numeros [2];
-        // System.out.println(numeros [2]);
-        // System.out.println(valor);
+        // int Valor = Numeros [2];
+        // System.out.println(Numeros[2]);
+        // System.out.println(Valor);
         System.out.println(Semana [1]);// for (int i = 0; i <= 9; i++)
         System.out.println(Letras [1]);
         // {
-        // int valor = numeros[2];
+        // int Valor = Numeros[2];
         // System.out.println("26");
-        // System.out.println(numeros [i]);
+        // System.out.println(Numeros[i]);
         // System.out.println(" ");
         // System.out.println(" ");
         // }

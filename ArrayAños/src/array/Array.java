@@ -26,15 +26,15 @@ public class Array {
         int n = 0;
 
         for (int i = 0; i < n; i++) {
-            int Num = Alea.nextInt (2019);
+            int Num = Alea.nextInt(2019);
 
             while (Num > 1950) {
                 if (Num < 1950) {
                     break;
                 }
-                Num = Alea.nextInt (2019);
+                Num = Alea.nextInt(2019);
             }
-            Nums.add (Num);
+            Nums.add(Num);
         }
     }
     public static ArrayList <Integer> matricula(int s) {

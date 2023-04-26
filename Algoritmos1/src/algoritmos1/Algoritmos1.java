@@ -25,7 +25,7 @@ public class Algoritmos1 {
 
         if (N1 < 1 && N1 > 3) {
             System.out.println("Dato incorrecto");
-            }else{
+            } else {
             System.out.println("Dato correcto");
         }
     }
