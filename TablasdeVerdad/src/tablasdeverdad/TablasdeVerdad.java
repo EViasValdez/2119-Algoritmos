@@ -59,7 +59,7 @@ public class TablasdeVerdad {
             
             if (Ventana1 == true || Ventana2 == true || Puerta == true) {
                 System.out.println("La alarma se activa");
-            }else{
+            } else {
                 System.out.println("La alarma no se activa");
             }
         break;
@@ -70,7 +70,7 @@ public class TablasdeVerdad {
             
             if (Fuego == true || Humo == true) {
                 System.out.println("Los sensores se activan");
-            }else{
+            } else {
                 System.out.println("Los sensores no se activan");
             }
         break;
@@ -87,7 +87,7 @@ public class TablasdeVerdad {
 
             if (Digito1 == true || Digito2 == true || Digito3 == true || Digito4 == true) {
                 System.out.println("La caja se abre");
-            }else{
+            } else {
                 System.out.println("La caja no se abre");
             }
         break;
@@ -104,7 +104,7 @@ public class TablasdeVerdad {
 
             if (Digit1 == true || Digit2 == true || Digit3 == true || Digit4 == true) {
                 System.out.println("Puede retirar el dinero");
-            }else{
+            } else {
                 System.out.println("No puede retirar el dinero");
         break;
       }

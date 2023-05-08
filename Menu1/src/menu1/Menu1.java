@@ -20,8 +20,8 @@ public class Menu1 {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
 
         float N1, N2, Suma = 0, Resta = 0, Multiplicacion = 0, Division = 0;
         int Opc;

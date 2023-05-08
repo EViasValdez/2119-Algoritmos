@@ -41,9 +41,9 @@ public class DatosBoleanos1 {
         System.out.println("Estado de la ventana 2");
         Ventana2 = Boolean.parseBoolean(br.readLine());
 
-        if ((Puerta == true)|| (Ventana1 == true)|| (Ventana2 == true)) {
+        if ((Puerta == true) || (Ventana1 == true) || (Ventana2 == true)) {
             System.out.println("El ladron entra");
-        }else{
+        } else {
             System.out.println("El ladron no puede entrar");
         }
     }

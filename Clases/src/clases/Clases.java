@@ -31,8 +31,8 @@ public class Clases {
         int b;
         String c;
 
-        // a = ran.nextInt (49);
-        // b = ran.nextInt (49);
-        // c = nom [b] + " " + ape [d];
+        // a = ran.nextInt(49);
+        // b = ran.nextInt(49);
+        // c = nom[b] + " " + ape[d];
     }
 }

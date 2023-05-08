@@ -27,13 +27,13 @@ public class Arreglos3 {
 
         for (int x = 0; x < 10; x++) {
             System.out.println("Escribe el precio");
-            Precios [x] = Float.parseFloat(br.readLine());
+            Precios[x] = Float.parseFloat(br.readLine());
         }
         for (int x = 0; x < 10; x++) {
-            System.out.println("Los precios son: " + Precios [x]);
+            System.out.println("Los precios son: " + Precios[x]);
         }
         for (int x = 0; x < 10; x++) {
-            Suma = Suma + Precios [x];
+            Suma = Suma + Precios[x];
         }
         Promedio = Suma / 10;
 
@@ -41,17 +41,17 @@ public class Arreglos3 {
         System.out.println("El promedio de los precios es: "  + Promedio);
 
         for (int x = 0; x < 10; x++) {
-            if (Precios [x] >= 5000) {
+            if (Precios[x] >= 5000) {
                 System.out.println("El precio es muy alto");
             } else {
                 System.out.println("El precio es muy bajo");
             }
         }
         for (int x = 0; x < 10; x++) {
-            if (Precios [x] < 0) {
+            if (Precios[x] < 0) {
                 System.out.println("No puede haber precios negativos");
             } else {
-            if (Precios [x] == 0) {
+            if (Precios[x] == 0) {
                 System.out.println("El precio debe ser mayor que 0");
             }
             }
@@ -60,17 +60,17 @@ public class Arreglos3 {
         float Mayor = Precios [0];
 
         for (int x = 0; x < 10; x++) {
-            if (Precios [x] > Mayor) {
-                Mayor = Precios [x];
+            if (Precios[x] > Mayor) {
+                Mayor = Precios[x];
             }
         }
         System.out.println("El mayor es: " + Mayor);
         
-        float Menor = Precios [0];
+        float Menor = Precios[0];
 
         for (int x = 0; x < 10; x++) {
-            if (Precios [x] < Menor) {
-                Menor = Precios [x];
+            if (Precios[x] < Menor) {
+                Menor = Precios[x];
             }
         }
         System.out.println("El menor es: " + Menor);

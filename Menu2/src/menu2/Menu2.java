@@ -20,8 +20,8 @@ public class Menu2 {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
 
         int Opc;
         float Base, Altura, Area, Pi = 3.1416f, Radio;

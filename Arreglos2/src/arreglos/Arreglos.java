@@ -28,30 +28,30 @@ public class Arreglos {
         String [] Meses = new String [12];
         char [] Letras2 = new char [7];
 
-        int nElementos;
+        int NElementos;
 
         System.out.println("Numero de elementos del arreglo");
-        nElementos = leer.nextInt();
-        int [] m = new int [nElementos];
+        NElementos = leer.nextInt();
+        int [] m = new int [NElementos];
 
         int k = 0;
 
         System.out.println("Ingresa los valores del arreglo");
-        for (k = 0; k < nElementos; k++)
+        for (k = 0; k < NElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
             m [k] = leer.nextInt();
         }
         System.out.println();
 
-        for (k = 0; k < nElementos; k++)
+        for (k = 0; k < NElementos; k++)
         {
             System.out.println(m [k] + " ");
         }
 
-        ArrayList <Float> notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear 
+        ArrayList <Float> Notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear 
         // arreglos unidimensionales.
-        // En este caso se creo un arreglo llamado "notas de tipo float" y no se especifico el tamaño 
+        // En este caso se creo un arreglo llamado "Notas" de tipo float y no se especifico el tamaño 
         // del mismo.
         int l = 0;
 
@@ -62,19 +62,19 @@ public class Arreglos {
 
         while (Calif != -1)
         {
-            notas.add(Calif); // El método add se utiliza para ir agregando datos al arreglo.
+            Notas.add(Calif); // El método add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota media: ", ++l); // Cuando se usa "printf" muestra
             // un mensaje en pantalla en el cual se especifica el formato de los
             // datos con "%d" para datos de tipo entero.
             Calif = leer.nextFloat();
         }
 
-        int Nalumnos = notas.size(); // El metodo size obtiene el tamaño del arreglo.
+        int Nalumnos = Notas.size(); // El metodo size obtiene el tamaño del arreglo.
         float Suma = 0;
 
         for (l = 0; l < Nalumnos; l++)
         {
-            Suma += notas.get(l); // El método get obtiene un elemento del arreglo en este
+            Suma += Notas.get(l); // El método get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posición 1 del arreglo.
             System.out.println();
             System.out.printf("Nota media del curso: %5.2f", Suma / Nalumnos);
@@ -85,7 +85,7 @@ public class Arreglos {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de nacimiento");
-            Meses [i] = leer.next();
+            Meses[i] = leer.next();
         }
         for (int i = 0; i <= 11; i++)
         {

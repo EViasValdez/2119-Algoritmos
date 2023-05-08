@@ -47,7 +47,7 @@ public class MetodosArreglos {
         double Mayor = 0;
 
         for (int i = 0; i < Numeros.length; i++) {
-            if (Numeros [1] > Mayor)
+            if (Numeros[1] > Mayor)
             {
                 Mayor = Numeros[i];
             }
@@ -58,7 +58,7 @@ public class MetodosArreglos {
         double Menor = 0;
         
         for (int i = 0; i < Numeros.length; i++) {
-            if (Numeros [1] > Menor)
+            if (Numeros[1] > Menor)
             {
                 Menor = Numeros[i];
             }

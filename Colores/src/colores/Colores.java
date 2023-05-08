@@ -59,22 +59,22 @@ public class Colores {
         for (int i = 0; i < 100; i++) {
             if (Numeros [i] == 1)
             {
-                Rojo [Red] = "Rojo";
+                Rojo[Red] = "Rojo";
                 Red++;
             }
             if (Numeros [i] == 2)
             {
-                Negro [Black] = "Negro";
+                Negro[Black] = "Negro";
                 Black++;
             }
             if (Numeros [i] == 3)
             {
-                Blanco [White] = "Blanco";
+                Blanco[White] = "Blanco";
                 White++;
             }
             if (Numeros [i] == 4)
             {
-                Azul [Blue] = "Azul";
+                Azul[Blue] = "Azul";
                 Blue++;
             }
         }
