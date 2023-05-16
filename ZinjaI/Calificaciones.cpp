@@ -3,29 +3,29 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-	int calificacion;
+	int Calificacion;
 	
 	cout << "Ingresa tu calificacion: ";
-	cin >> calificacion;
+	cin >> Calificacion;
 	
-	if (calificacion >= 8 && calificacion <= 10)
+	if (Calificacion >= 8 && Calificacion <= 10)
 	{
 		cout << "Alumno aprobado";
 	}               
 	else
 	{
-		if (calificacion >= 1 && calificacion < 8)   
+		if (Calificacion >= 1 && Calificacion < 8)   
 		{
 			cout << "Alumno reprobado";
 		}    
 		else
 		{
-			if (calificacion <= 0 || calificacion > 10)
+			if (Calificacion <= 0 || Calificacion > 10)
 			{
 				cout << "Calificacion no valida";
 			}
 			else{
-			if (calificacion <= 0 || calificacion > 10)
+			if (Calificacion <= 0 || Calificacion > 10)
 			{
 				cout << "Calificacion no valida";
 			} 
