@@ -24,7 +24,7 @@ public class EjemplosArray1 {
 
         Scanner Leer = new Scanner(System.in);
         Random alea = new Random();
-        String Animales [] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
+        String Animales[] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
 
         ArrayList <String> Animales2 = new ArrayList<String>();
 
@@ -32,8 +32,8 @@ public class EjemplosArray1 {
         System.out.println("");
 
         for (int i = 0; i < Animales.length; i++) {
-            System.out.print(Animales [i] + " | ");
-            Animales2.add(Animales [i]);
+            System.out.print(Animales[i] + " | ");
+            Animales2.add(Animales[i]);
         }
         
         System.out.println("");

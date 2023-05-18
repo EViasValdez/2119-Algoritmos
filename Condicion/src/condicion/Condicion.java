@@ -33,7 +33,7 @@ public class Condicion {
 
         if (Precio >= 5000) {
             System.out.println("Precio muy caro");
-        }else{
+        } else {
             System.out.println("Precio muy barato");
         }
 

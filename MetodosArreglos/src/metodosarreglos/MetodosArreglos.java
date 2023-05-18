@@ -24,9 +24,9 @@ public class MetodosArreglos {
         InputStreamReader isr = new InputStreamReader (System.in);
         BufferedReader br = new BufferedReader (isr);
 
-        double Numeros [] = new double[4];
+        double Numeros[] = new double[4];
 
-        for (int i = 0; i < Numeros.length; i++){
+        for (int i = 0; i < Numeros.length; i++) {
             System.out.println("Escribir un numero");
             Numeros[i] = Double.parseDouble(br.readLine());
         }

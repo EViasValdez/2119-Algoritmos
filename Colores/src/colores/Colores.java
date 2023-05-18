@@ -20,11 +20,11 @@ public class Colores {
         // TODO code application logic here
         Random Rng = new Random();
 
-        int Numeros [] = new int [100];
+        int Numeros[] = new int[100];
         
         for (int i = 0; i < 100; i++)
         {
-            Numeros [1] = Rng.nextInt (4) + 1;
+            Numeros[1] = Rng.nextInt (4) + 1;
         }
 
         int Red = 0;
@@ -33,46 +33,46 @@ public class Colores {
         int Blue = 0;
 
         for (int i = 0; i < 100; i++) {
-            if (Numeros [i] == 1)
+            if (Numeros[i] == 1)
             {
                 Red++;
             }
-            if (Numeros [i] == 2)
+            if (Numeros[i] == 2)
             {
                 Black++;
             }
-            if (Numeros [i] == 3)
+            if (Numeros[i] == 3)
             {
                 White++;
             }
-            if (Numeros [i] == 4)
+            if (Numeros[i] == 4)
             {
                 Blue++;
             }
         }
 
-        String Rojo [] = new String [Red];
-        String Negro [] = new String [Black];
-        String Blanco [] = new String [White];
-        String Azul [] = new String [Blue];
+        String Rojo[] = new String[Red];
+        String Negro[] = new String[Black];
+        String Blanco[] = new String[White];
+        String Azul[] = new String[Blue];
 
         for (int i = 0; i < 100; i++) {
-            if (Numeros [i] == 1)
+            if (Numeros[i] == 1)
             {
                 Rojo[Red] = "Rojo";
                 Red++;
             }
-            if (Numeros [i] == 2)
+            if (Numeros[i] == 2)
             {
                 Negro[Black] = "Negro";
                 Black++;
             }
-            if (Numeros [i] == 3)
+            if (Numeros[i] == 3)
             {
                 Blanco[White] = "Blanco";
                 White++;
             }
-            if (Numeros [i] == 4)
+            if (Numeros[i] == 4)
             {
                 Azul[Blue] = "Azul";
                 Blue++;

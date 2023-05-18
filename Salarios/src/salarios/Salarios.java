@@ -25,7 +25,7 @@ public class Salarios {
         System.out.println("Numero de elementos del arreglo");
         NElementos = Leer.nextInt();
         
-        double [] Salario = new double [NElementos];
+        double[] Salario = new double[NElementos];
         double Suma = 0;
         int k = 0;
 
@@ -33,7 +33,7 @@ public class Salarios {
         for (k = 0; k < NElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
-            Salario [k] = Leer.nextDouble();
+            Salario[k] = Leer.nextDouble();
             Suma = Suma + Salario[k];
         }
         System.out.println("La suma es: " + Suma);
