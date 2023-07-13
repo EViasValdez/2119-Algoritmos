@@ -22,7 +22,7 @@ public class Arreglos {
         // TODO code application logic here
         Scanner leer = new Scanner (System.in);
 
-        String [] Semana = {"Lunes","Martes"};
+        String [] Semana = {"Lunes", "Martes"};
         char [] Letras = {'L','M'};
 
         String [] Meses = new String [12];

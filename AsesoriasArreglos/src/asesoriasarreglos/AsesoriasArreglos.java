@@ -19,8 +19,8 @@ public class AsesoriasArreglos {
         // TODO code application logic here
         Scanner Leer = new Scanner (System.in);
 
-        String Nombres [] = new String [7];
-        String Apellidos [] = new String [5];
+        String Nombres [] = new String[7];
+        String Apellidos [] = new String[5];
 
         for (int i = 1; i <= 7; i++) {
             System.out.println("Escribe el nombre");

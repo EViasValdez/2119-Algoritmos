@@ -38,7 +38,8 @@ public class Aplicacion {
         for (int i = 0; i < Names.size(); i++) {
             System.out.print(Names.get(i) + " | ");
         }
-
+        
+        System.out.println("");
         System.out.println("¿Desea agregar a alguien mas?");
         System.out.println("true = Si / false = No");
         

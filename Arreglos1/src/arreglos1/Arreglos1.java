@@ -25,8 +25,8 @@ public class Arreglos1 {
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
 
-        String [] Meses = new String [12];
-        char [] Letras2 = new char [7];
+        String [] Meses = new String[12];
+        char [] Letras2 = new char[7];
         int nElementos;
 
         System.out.println("Numero de elementos del arreglo");
@@ -40,7 +40,7 @@ public class Arreglos1 {
         for (k = 0; k < nElementos; k++)
         {
             System.out.print("m [" + k + "] = ");
-            m [k] = Leer.nextInt();
+            m[k] = Leer.nextInt();
         }
         System.out.println();
 
@@ -80,11 +80,11 @@ public class Arreglos1 {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Mes de tu nacimiento");
-            Meses [i] = Leer.next();
+            Meses[i] = Leer.next();
         }
         for (int i = 0; i <= 11; i++)
         {
-            System.out.println("Los meses son: " + Meses [i]);
+            System.out.println("Los meses son: " + Meses[i]);
             // Meses [i] = leer.next();
         }
         for (int j = 0; j <= 6; j++)
@@ -92,13 +92,13 @@ public class Arreglos1 {
             System.out.println("Dias de la semana");
             Car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
-            Letras2 [j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
+            Letras2[j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".
             // Letras2 [i] = (char) leer.toString();
             // (int) variable.charAt(1);
         }
         for (int j = 0; j <= 6; j++)
         {
-            System.out.println("Los meses son: " + Letras2 [j]);
+            System.out.println("Los meses son: " + Letras2[j]);
             // Meses [i] = leer.next();
         }
         // int [] Numeros = new int [10];
