@@ -90,7 +90,7 @@ Por medio de arreglos se puede asignar grupo a un alumno.
 <!----Separador---->
 
 ###### Ciclos - 08/11/19
-Texto por ser escrito.
+Calculo de calificaciones utilizando ciclos.
 <!----Separador---->
 
 ###### Suma, MetodosArreglos - 09/11/19
@@ -147,7 +147,7 @@ Se saca el promedio de diferentes calificaciones.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Determinacion de entrada a alguna actividad de acuerdo a la edad.
 
 <!----Separador---->
 

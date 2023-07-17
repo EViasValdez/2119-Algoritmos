@@ -21,8 +21,8 @@ public class Ciclos {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        InputStreamReader isr = new InputStreamReader (System.in);
-        BufferedReader br = new BufferedReader (isr);
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader br = new BufferedReader(isr);
 
         int Aprobaron = 0, Reprobaron = 0, Invalida = 0;
         float Suma = 0, Promedio = 0;
