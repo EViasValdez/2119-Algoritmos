@@ -14,6 +14,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Trate de completar algunas partes que no estaban terminadas antes de estas revisiones.**
 
 **- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otra materia de ese mismo parcial.**
+
+**- Tambien cada proyecto esta compilado en JAR.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
