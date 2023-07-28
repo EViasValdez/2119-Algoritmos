@@ -114,15 +114,15 @@ Tiene similitud con el primer compilado de ejemplos, solo que aqui se usan nombr
 <!----Separador---->
 
 ###### Clases, ArrayAños, Colores - 16/11/19
-Texto por ser escrito.
+Utilizacion y almacenamiento via arreglos de clases.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Calculo de años por medio de arreglos.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Uso de arreglos.
 
 <!----Separador---->
 
@@ -136,11 +136,11 @@ Calculo de salario.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Descuento de un precio determinado.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Utilizacion de arreglos.
 
 <!----Separador---->
 
