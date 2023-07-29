@@ -70,7 +70,7 @@ Muestra un valor que se ingresa.
 ###### Ciclo, Cambio - 12/10/19
 Utilizacion de ciclos usando contadores.
 
-<!--Separador-->
+<!----Separador---->
 
 Version incompleta del programa anterior.
 
@@ -79,7 +79,7 @@ Version incompleta del programa anterior.
 ###### Arreglos1, Arreglos2, Salarios - 19/10/2019
 En el primer programa se asigna un total de salario y asigna una categoria, en el segundo asigna un descuento a un precio y muestra el total del precio.
 
-<!--Separador-->
+<!----Separador---->
 
 Se muestran sumas de un salario y de algunos elementos utilizando arreglos.
 
@@ -100,7 +100,7 @@ Calculo de calificaciones utilizando ciclos.
 ###### Suma, MetodosArreglos - 09/11/19
 Calculadora usando clases.
 
-<!--Separador-->
+<!----Separador---->
 
 Utilizacion de metodos y arreglos.
 
@@ -109,7 +109,7 @@ Utilizacion de metodos y arreglos.
 ###### EjemplosArray1, EjemplosArray2 - 13/11/19
 Ejemplo utilizado arreglos / array.
 
-<!--Separador-->
+<!----Separador---->
 
 Tiene similitud con el primer compilado de ejemplos, solo que aqui se usan nombres.
 
@@ -118,11 +118,11 @@ Tiene similitud con el primer compilado de ejemplos, solo que aqui se usan nombr
 ###### Clases, ArrayAños, Colores - 16/11/19
 Utilizacion y almacenamiento via arreglos de clases.
 
-<!--Separador-->
+<!----Separador---->
 
 Calculo de años por medio de arreglos.
 
-<!--Separador-->
+<!----Separador---->
 
 Uso de arreglos.
 
@@ -136,11 +136,11 @@ Utilizacion de arreglos y listas con un scanner.
 ###### Asesorias1, Asesorias2, AsesoriasArreglos - 29/11/19
 Calculo de salario.
 
-<!--Separador-->
+<!----Separador---->
 
 Descuento de un precio determinado.
 
-<!--Separador-->
+<!----Separador---->
 
 Utilizacion de arreglos.
 
@@ -149,7 +149,7 @@ Utilizacion de arreglos.
 ###### PromedioCalificaciones, Edad - 30/11/19
 Se saca el promedio de diferentes calificaciones.
 
-<!--Separador-->
+<!----Separador---->
 
 Determinacion de entrada a alguna actividad de acuerdo a la edad.
 
@@ -157,7 +157,7 @@ Determinacion de entrada a alguna actividad de acuerdo a la edad.
 
 ###### Arreglos3, Menu1 - 06/12/19
 Calculos de precio utilizando arreglos.
-<!--Separador-->
+<!----Separador---->
 
 Utilizacion de menus usando el metodo Switch-Case.
 
@@ -166,7 +166,7 @@ Utilizacion de menus usando el metodo Switch-Case.
 ###### Menu2, Condicion - 07/12/19
 Tiene similitud al programa "Menu1".
 
-<!--Separador-->
+<!----Separador---->
 
 Definicion de valores usando condiciones.
 
