@@ -85,6 +85,8 @@ Se muestran sumas de un salario y de algunos elementos utilizando arreglos.
 
 <!----Separador---->
 
+Agregacion de varios valores de salarios.
+
 ## ● Unidad 3 ●
 ###### Arrays - 06/11/19
 Por medio de arreglos se puede asignar grupo a un alumno.
