@@ -14,12 +14,10 @@ tab_width=4
 tab_use_spaces=0
 explorer_path=.
 inherits_from=
-current_source=main.cpp
 path_char=\
 [source]
 path=main.cpp
-cursor=0:0
-open=true
+cursor=13:0
 [header]
 path=main.h
 cursor=0:0

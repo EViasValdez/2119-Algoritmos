@@ -14,12 +14,10 @@ tab_width=4
 tab_use_spaces=0
 explorer_path=.
 inherits_from=
-current_source=main.cpp
 path_char=\
 [source]
 path=main.cpp
-cursor=14:2
-open=true
+cursor=21:0
 [config]
 name=Debug
 toolchain=
