@@ -5,7 +5,7 @@ using namespace std;
 int Numero1 = 14;
 int Numero2 = 10;
 bool Booleano = true;
-	
+
 int main ()
 {
 	if (Numero1 < Numero2)
