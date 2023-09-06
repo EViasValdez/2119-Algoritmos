@@ -21,7 +21,7 @@ public class Arreglos1 {
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         // int [] Numeros;
-        // Numeros = new int [10];
+        // Numeros = new int[10];
         Scanner Leer = new Scanner(System.in);
         String [] Semana = {"Lunes","Martes"};
         char [] Letras = {'L','M'};
@@ -86,7 +86,7 @@ public class Arreglos1 {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Los meses son: " + Meses[i]);
-            // Meses [i] = leer.next();
+            // Meses[i] = leer.next();
         }
         for (int j = 0; j <= 6; j++)
         {

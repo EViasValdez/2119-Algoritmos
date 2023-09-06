@@ -43,7 +43,7 @@ Programa simple, pero por algun motivo termino inconcluso
 <!----Separador---->
 
 ###### ZinjaI - 05/10/19
-La carpeta contiene un archivo de codigo C++ para validar calificaciones, tiene adjuntado tambien un archivo exe que es el mismo programa pero compilado.
+La carpeta contiene archivos de codigo C++ los cuales la mayoria son cosas escenciales en el desarrollo del lenguaje.
 
 <!----Separador---->
 
