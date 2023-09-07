@@ -7,7 +7,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 <!----Notas---->
 **Notas**
 
-**- Realice identacion en los archivos para que no se vieran tan juntos.**
+**- Realice identacion en los archivos.**
 
 **- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin puntuaciones las líneas de código que mostraran texto ya que no se pueden ver de forma correcta en la ventana de ejecución de Apache NetBeans.**
 
