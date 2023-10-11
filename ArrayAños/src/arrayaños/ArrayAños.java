@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @author EViasValdez
  */
  
-public class Array {
+public class ArrayAños {
     /**
      * @param args the command line arguments
      */
