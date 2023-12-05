@@ -7,7 +7,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 <!----Notas---->
 **Notas**
 
-**- Realice identacion en los archivos.**
+**- Realice aventación en los archivos.**
 
 **- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin puntuaciones las líneas de código que mostraran texto ya que no se pueden ver de forma correcta en la ventana de ejecución de Apache NetBeans.**
 
@@ -18,8 +18,8 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 **- Tambien cada proyecto esta compilado en JAR.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 ## ● Unidad 1 ●
 ###### DatosBoleanos1 - 21/09/19
 Programa que replica un sistema de seguridad dentro de una casa.
@@ -27,38 +27,38 @@ Programa que replica un sistema de seguridad dentro de una casa.
 <!----Separador---->
 
 ###### DatosBoleanos2 - 21/09/19
-Sistema de verificacion de un sistema valvulas y electricidad.
+Sistema de verificación de un sistema de válvulas y electricidad.
 
 <!----Separador---->
 
 ###### TablasdeVerdad - 28/09/19
-El programa muestra cuatro problemas, uno con ventanas, otro con sensores, otro con una caja fuerte y uno mas con un cajero automatico.
+El programa muestra cuatro problemas, uno con ventanas, otro con sensores, otro con una caja fuerte y uno más con un cajero automático.
 
 <!----Separador---->
 
 ## ● Unidad 2 ●
 ###### HolaMundo - 02/10/19
-Programa simple, pero por algun motivo termino inconcluso
+Programa simple, pero por algún motivo termino inconcluso
 
 <!----Separador---->
 
 ###### ZinjaI - 05/10/19
-La carpeta contiene archivos de codigo C++ los cuales la mayoria son cosas escenciales en el desarrollo del lenguaje.
+La carpeta contiene archivos de código C++ los cuales la mayoría son cosas esenciales en el desarrollo del lenguaje.
 
 <!----Separador---->
 
 ###### Algoritmos1, Algoritmos2 - 09/10/19
-Verificacion de un valor.
+Verificación de un valor.
 
 <!----Separador---->
 
 ###### Areadeltriangulo1 - 09/10/19
-Calcula la base por altura de un triangulo.
+Calcula la base por altura de un triángulo.
 
 <!----Separador---->
 
 ###### Areadeltriangulo2 - 09/10/19
-Este programa es similar al anterior pero se usa scanner.
+Este programa es similar al anterior, pero se usa scanner.
 
 <!----Separador---->
 
@@ -68,7 +68,7 @@ Muestra un valor que se ingresa.
 <!----Separador---->
 
 ###### Ciclo, Cambio - 12/10/19
-Utilizacion de ciclos usando contadores.
+Utilización de ciclos usando contadores.
 
 <!----Separador---->
 
@@ -85,7 +85,7 @@ Se muestran sumas de un salario y de algunos elementos utilizando arreglos.
 
 <!----Separador---->
 
-Agregacion de varios valores de salarios.
+Agregación de varios valores de salarios.
 
 ## ● Unidad 3 ●
 ###### Arrays - 06/11/19
@@ -102,7 +102,7 @@ Calculadora usando clases.
 
 <!----Separador---->
 
-Utilizacion de metodos y arreglos.
+Utilización de metodos y arreglos.
 
 <!----Separador---->
 
@@ -116,11 +116,11 @@ Tiene similitud con el primer compilado de ejemplos, solo que aqui se usan nombr
 <!----Separador---->
 
 ###### Clases, ArrayAños, Colores - 16/11/19
-Utilizacion y almacenamiento via arreglos de clases.
+Utilización y almacenamiento vía arreglos de clases.
 
 <!----Separador---->
 
-Calculo de años por medio de arreglos.
+Cálculo de años por medio de arreglos.
 
 <!----Separador---->
 
@@ -129,7 +129,7 @@ Uso de arreglos.
 <!----Separador---->
 
 ###### Aplicacion - 25/11/19
-Utilizacion de arreglos y listas con un scanner.
+Utilización de arreglos y listas con un scanner.
 
 <!----Separador---->
 
@@ -142,7 +142,7 @@ Descuento de un precio determinado.
 
 <!----Separador---->
 
-Utilizacion de arreglos.
+Utilización de arreglos.
 
 <!----Separador---->
 
@@ -151,23 +151,23 @@ Se saca el promedio de diferentes calificaciones.
 
 <!----Separador---->
 
-Determinacion de entrada a alguna actividad de acuerdo a la edad.
+Determinación de entrada a alguna actividad de acuerdo a la edad.
 
 <!----Separador---->
 
 ###### Arreglos3, Menu1 - 06/12/19
-Calculos de precio utilizando arreglos.
+Cálculos de precio utilizando arreglos.
 <!----Separador---->
 
-Utilizacion de menus usando el metodo Switch-Case.
+Utilización de menús usando el método Switch-Case.
 
 <!----Separador---->
 
-###### Menu2, Condicion - 07/12/19
+###### Menu2, Condición - 07/12/19
 Tiene similitud al programa "Menu1".
 
 <!----Separador---->
 
-Definicion de valores usando condiciones.
+Definición de valores usando condiciones.
 
-<!----Separador del directorio con descripcion de los programas---->
+<!----Separador del directorio con descripción de los programas---->
