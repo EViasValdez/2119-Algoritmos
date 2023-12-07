@@ -23,11 +23,13 @@ public class AsesoriasArreglos {
         String Nombres [] = new String[7];
         String Apellidos [] = new String[5];
 
-        for (int i = 1; i <= 7; i++) {
+        for (int i = 1; i <= 7; i++)
+        {
             System.out.println("Escribe el nombre");
             Nombres[i] = Leer.next();
         }
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <= 5; i++)
+        {
             System.out.println("Escribe el apellido");
             Apellidos[i] = Leer.next();
         }
@@ -35,15 +37,18 @@ public class AsesoriasArreglos {
         String Nombre = "Alicia";
         String Apellido = "Flores";
 
-        for (int i = 1; i < 7; i++) {
-            if (Nombre.equals(Nombres[i])) {
+        for (int i = 1; i < 7; i++)
+        {
+            if (Nombre.equals(Nombres[i]))
+            {
                 System.out.println("Si esta");
             } else {
                 System.out.println("No esta");
             }
         }
         for (int i = 1; i < 5; i++) {
-            if (Apellido.equals(Apellidos[i])) {
+            if (Apellido.equals(Apellidos[i]))
+            {
                 System.out.println("Si existe");
             } else {
                 System.out.println("No existe");

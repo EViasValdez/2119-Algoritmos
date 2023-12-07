@@ -31,7 +31,8 @@ public class Condicion {
         System.out.println("¿Cual es la cantidad?");
         Cantidad = Integer.parseInt(br.readLine());
 
-        if (Precio >= 5000) {
+        if (Precio >= 5000)
+        {
             System.out.println("Precio muy caro");
         } else {
             System.out.println("Precio muy barato");

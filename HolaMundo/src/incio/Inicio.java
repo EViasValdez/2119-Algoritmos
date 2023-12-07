@@ -16,7 +16,8 @@ public class Inicio {
         int N2 = 5;
         int N3 = 1;
 
-        for (int i = 1; i <= 1000; i++) {
+        for (int i = 1; i <= 1000; i++)
+        {
             int r = 7 * i;
         }
     }

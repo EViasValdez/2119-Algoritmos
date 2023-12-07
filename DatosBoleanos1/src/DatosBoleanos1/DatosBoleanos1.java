@@ -28,7 +28,8 @@ public class DatosBoleanos1 {
         System.out.println("¿Esta encendido el foco?");
         Contacto = Boolean.parseBoolean(br.readLine());
 
-        if (Contacto == true) {
+        if (Contacto == true)
+        {
             System.out.println("El foco esta encendido " + Contacto);
         }
 
@@ -41,7 +42,8 @@ public class DatosBoleanos1 {
         System.out.println("Estado de la ventana 2");
         Ventana2 = Boolean.parseBoolean(br.readLine());
 
-        if ((Puerta == true) || (Ventana1 == true) || (Ventana2 == true)) {
+        if ((Puerta == true) || (Ventana1 == true) || (Ventana2 == true))
+        {
             System.out.println("El ladron entra");
         } else {
             System.out.println("El ladron no puede entrar");

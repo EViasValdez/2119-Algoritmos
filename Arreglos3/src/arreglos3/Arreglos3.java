@@ -25,14 +25,17 @@ public class Arreglos3 {
         float Precios [] = new float [10];
         float Suma = 0, Promedio = 0;
 
-        for (int x = 0; x < 10; x++) {
+        for (int x = 0; x < 10; x++)
+        {
             System.out.println("Escribe el precio");
             Precios[x] = Float.parseFloat(br.readLine());
         }
-        for (int x = 0; x < 10; x++) {
+        for (int x = 0; x < 10; x++)
+        {
             System.out.println("Los precios son: " + Precios[x]);
         }
-        for (int x = 0; x < 10; x++) {
+        for (int x = 0; x < 10; x++)
+        {
             Suma = Suma + Precios[x];
         }
         Promedio = Suma / 10;
@@ -40,18 +43,22 @@ public class Arreglos3 {
         System.out.println("El total de los precios es: " + Suma);
         System.out.println("El promedio de los precios es: "  + Promedio);
 
-        for (int x = 0; x < 10; x++) {
-            if (Precios[x] >= 5000) {
+        for (int x = 0; x < 10; x++)
+        {
+            if (Precios[x] >= 5000)
+            {
                 System.out.println("El precio es muy alto");
             } else {
                 System.out.println("El precio es muy bajo");
             }
         }
         for (int x = 0; x < 10; x++) {
-            if (Precios[x] < 0) {
+            if (Precios[x] < 0)
+            {
                 System.out.println("No puede haber precios negativos");
             } else {
-            if (Precios[x] == 0) {
+            if (Precios[x] == 0)
+            {
                 System.out.println("El precio debe ser mayor que 0");
             }
             }
@@ -59,8 +66,10 @@ public class Arreglos3 {
 
         float Mayor = Precios [0];
 
-        for (int x = 0; x < 10; x++) {
-            if (Precios[x] > Mayor) {
+        for (int x = 0; x < 10; x++)
+        {
+            if (Precios[x] > Mayor)
+            {
                 Mayor = Precios[x];
             }
         }
@@ -68,8 +77,10 @@ public class Arreglos3 {
         
         float Menor = Precios[0];
 
-        for (int x = 0; x < 10; x++) {
-            if (Precios[x] < Menor) {
+        for (int x = 0; x < 10; x++)
+        {
+            if (Precios[x] < Menor)
+            {
                 Menor = Precios[x];
             }
         }

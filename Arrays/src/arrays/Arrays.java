@@ -33,14 +33,16 @@ public class Arrays {
 
         System.out.println("Sea bienvenido");
         System.out.println("Asignación de elementos de alumnos");
-        for (int x = 0; x < 10; x++) {
+        for (int x = 0; x < 10; x++)
+        {
             Num = Num + 1;
             System.out.println("Alumno" + Num);
 
             String [] Nombre = null;
 
             System.out.println("Nombre: " + Nombre [x]);
-            if (Datos [x] == true) {
+            if (Datos [x] == true)
+            {
                 System.out.println("Grupo asignado: A");
             } else {
                 System.out.println("Grupo asignado: B");

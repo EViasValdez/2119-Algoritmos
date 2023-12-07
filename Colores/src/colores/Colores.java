@@ -32,7 +32,8 @@ public class Colores {
         int White = 0;
         int Blue = 0;
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 100; i++)
+        {
             if (Numeros[i] == 1)
             {
                 Red++;
@@ -56,7 +57,8 @@ public class Colores {
         String Blanco[] = new String[White];
         String Azul[] = new String[Blue];
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 100; i++)
+        {
             if (Numeros[i] == 1)
             {
                 Rojo[Red] = "Rojo";

@@ -30,23 +30,28 @@ public class Edad {
         System.out.println("¿Cuantos niños son?");
         Cuantos = Integer.parseInt(br.readLine());
 
-        for (int j = 0; j <= Cuantos; j++) {
+        for (int j = 0; j <= Cuantos; j++)
+        {
             System.out.println("Escribe la edad");
             Edad = Float.parseFloat(br.readLine());
             
             System.out.println("Escribe el promedio");
             Promedio = Float.parseFloat(br.readLine());
 
-            if (Edad == 6 || Edad >= 8 && Edad <= 10 && Promedio >= 9 && Promedio <= 10) {
+            if (Edad == 6 || Edad >= 8 && Edad <= 10 && Promedio >= 9 && Promedio <= 10)
+            {
                 System.out.println("Puedes ingresar al futbol");
             } else {
-            if (Edad >= 8 && Edad <= 10 || Promedio >= 8 && Promedio <= 10) {
+            if (Edad >= 8 && Edad <= 10 || Promedio >= 8 && Promedio <= 10)
+            {
                 System.out.println("Puedes ingresar al basquetbol");
             } else {
-            if (Edad >= 6 && Edad <= 10 || Promedio == 10) {
+            if (Edad >= 6 && Edad <= 10 || Promedio == 10)
+            {
                 System.out.println("Puedes ingresar al deporte que quieras");
             } else {
-            if (Edad >= 6 && Edad <= 10 || Promedio == 7) {
+            if (Edad >= 6 && Edad <= 10 || Promedio == 7)
+            {
                 System.out.println("");
             }
             }

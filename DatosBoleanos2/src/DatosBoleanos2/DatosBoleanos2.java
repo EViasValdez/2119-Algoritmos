@@ -50,7 +50,8 @@ public class DatosBoleanos2 {
         System.out.println("Estado de la energia eléctrica");
         EnergiaElectrica = Boolean.parseBoolean(br.readLine());
 
-        if ((Valvula1 == true) || (Valvula2 == true) || (Valvula3 == true) || (Valvula4 == true) || (Bomba == true) || (EnergiaElectrica == false)) {
+        if ((Valvula1 == true) || (Valvula2 == true) || (Valvula3 == true) || (Valvula4 == true) || (Bomba == true) || (EnergiaElectrica == false))
+        {
             System.out.println("Tanque lleno");
         } else {
             System.out.println("Tanque vació");

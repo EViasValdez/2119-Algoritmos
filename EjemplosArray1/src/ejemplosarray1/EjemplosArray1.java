@@ -31,7 +31,8 @@ public class EjemplosArray1 {
         System.out.println("");
         System.out.println("");
 
-        for (int i = 0; i < Animales.length; i++) {
+        for (int i = 0; i < Animales.length; i++)
+        {
             System.out.print(Animales[i] + " | ");
             Animales2.add(Animales[i]);
         }
@@ -40,16 +41,19 @@ public class EjemplosArray1 {
         
         int Op = 1;
 
-        while (Op == 1) {
+        while (Op == 1)
+        {
             System.out.println("¿Desea agregar otro animal?");
             Op = Leer.nextInt();
 
-            if (Op == 1) {
+            if (Op == 1)
+            {
                 System.out.println("Ingrese un animal");
                 Animales2.add("d");
             }
         }
-        for (int i = 0; i < Animales2.size(); i++) {
+        for (int i = 0; i < Animales2.size(); i++)
+        {
             System.out.println(Animales2.get(i));
         }
     }

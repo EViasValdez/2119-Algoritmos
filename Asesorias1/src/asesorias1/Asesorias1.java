@@ -27,7 +27,8 @@ public class Asesorias1 {
         String Nombre;
         int Categoria;
 
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 3; i++)
+        {
             System.out.println("Escribe el nombre");
             Nombre = br.readLine();
             System.out.println("Escribe el salario");
@@ -35,7 +36,8 @@ public class Asesorias1 {
             System.out.println("Escribe la categoria");
             Categoria = Integer.parseInt(br.readLine());
 
-            switch (Categoria) {
+            switch (Categoria)
+            {
             case 1:
                 TotalSalario = Salario * 15;
                 System.out.println("El total del salario es: " + TotalSalario);

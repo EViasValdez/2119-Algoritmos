@@ -19,10 +19,12 @@ public class EjemplosArray2 {
     public static void main(String[] args) {
         ArrayList <String> ListaNombres = new ArrayList<String>();
 
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 1000; i++)
+        {
             ListaNombres.add(getName(String.valueOf(i)));
         }
-        for (int i = 0; i < ListaNombres.size(); i++) {
+        for (int i = 0; i < ListaNombres.size(); i++)
+        {
             System.out.println(ListaNombres.get(i));
         }
     }
