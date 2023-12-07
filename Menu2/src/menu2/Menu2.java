@@ -32,7 +32,8 @@ public class Menu2 {
         System.out.println("Elige una opción");
         Opc = Integer.parseInt(br.readLine());
 
-        switch (Opc) {
+        switch (Opc)
+        {
         case 1:
             System.out.println("¿Cuánto es la base?");
             Base = Float.parseFloat(br.readLine());
