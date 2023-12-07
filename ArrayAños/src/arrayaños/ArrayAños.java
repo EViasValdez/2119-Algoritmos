@@ -25,11 +25,14 @@ public class ArrayAños {
 
         int n = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
             int Num = Alea.nextInt(2019);
 
-            while (Num > 1950) {
-                if (Num < 1950) {
+            while (Num > 1950)
+            {
+                if (Num < 1950)
+                {
                     break;
                 }
                 Num = Alea.nextInt(2019);

@@ -23,7 +23,8 @@ public class Algoritmos1 {
         System.out.println("Numero");
         int N1 = Leer.nextInt();
 
-        if (N1 < 1 && N1 > 3) {
+        if (N1 < 1 && N1 > 3)
+        {
             System.out.println("Dato incorrecto");
             } else {
             System.out.println("Dato correcto");
