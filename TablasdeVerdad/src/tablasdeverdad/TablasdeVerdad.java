@@ -48,7 +48,8 @@ public class TablasdeVerdad {
         
         Opcion = Integer.parseInt(br.readLine());
 
-        switch (Opcion) {
+        switch (Opcion)
+        {
         case 1:
             System.out.println("Estado de la ventana 1");
             Ventana1 = Boolean.parseBoolean(br.readLine());
@@ -57,7 +58,8 @@ public class TablasdeVerdad {
             System.out.println("Estado de la puerta");
             Puerta = Boolean.parseBoolean(br.readLine());
             
-            if (Ventana1 == true || Ventana2 == true || Puerta == true) {
+            if (Ventana1 == true || Ventana2 == true || Puerta == true)
+            {
                 System.out.println("La alarma se activa");
             } else {
                 System.out.println("La alarma no se activa");
@@ -68,7 +70,8 @@ public class TablasdeVerdad {
             Fuego = Boolean.parseBoolean(br.readLine());
             Humo = Boolean.parseBoolean(br.readLine());
             
-            if (Fuego == true || Humo == true) {
+            if (Fuego == true || Humo == true)
+            {
                 System.out.println("Los sensores se activan");
             } else {
                 System.out.println("Los sensores no se activan");
@@ -85,7 +88,8 @@ public class TablasdeVerdad {
             System.out.println("Cuarto digito");
             Digito4 = Boolean.parseBoolean(br.readLine());
 
-            if (Digito1 == true || Digito2 == true || Digito3 == true || Digito4 == true) {
+            if (Digito1 == true || Digito2 == true || Digito3 == true || Digito4 == true)
+            {
                 System.out.println("La caja se abre");
             } else {
                 System.out.println("La caja no se abre");
@@ -102,7 +106,8 @@ public class TablasdeVerdad {
             System.out.println("Cuarto digito");
             Digit4 = Boolean.parseBoolean(br.readLine());
 
-            if (Digit1 == true || Digit2 == true || Digit3 == true || Digit4 == true) {
+            if (Digit1 == true || Digit2 == true || Digit3 == true || Digit4 == true)
+            {
                 System.out.println("Puede retirar el dinero");
             } else {
                 System.out.println("No puede retirar el dinero");
