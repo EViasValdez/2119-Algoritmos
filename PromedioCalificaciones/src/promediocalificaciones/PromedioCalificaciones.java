@@ -29,8 +29,10 @@ public class PromedioCalificaciones {
         System.out.println("¿Cuantos alumnos?");
         Cuantos = Integer.parseInt(br.readLine());
 
-        for (int j = 0; j <= Cuantos; j++) {
-            for (int i = 0; i <= 3; i++) {
+        for (int j = 0; j <= Cuantos; j++)
+        {
+            for (int i = 0; i <= 3; i++)
+            {
                 System.out.println("Calificacion");
                 
                 Calificacion = Float.parseFloat(br.readLine());
@@ -40,19 +42,23 @@ public class PromedioCalificaciones {
             Promedio = Suma / 4;
             System.out.println("El promedio es: " + Promedio);
 
-            if (Promedio >= 6 && Promedio <= 7) {
+            if (Promedio >= 6 && Promedio <= 7)
+            {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
             } else {
-            if (Promedio >= 7 && Promedio <= 8) {
+            if (Promedio >= 7 && Promedio <= 8)
+            {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
             } else {
-            if (Promedio >= 8 && Promedio <= 9) {
+            if (Promedio >= 8 && Promedio <= 9)
+            {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
             } else {
-            if (Promedio >= 9 && Promedio <= 10) {
+            if (Promedio >= 9 && Promedio <= 10)
+            {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
             }
