@@ -156,7 +156,7 @@ Determinación de entrada a alguna actividad de acuerdo a la edad.
 <!----Separador---->
 
 ###### Arreglos3, Menu1 - 06/12/19
-Cálculos de precio utilizando arreglos.
+Realizacion de cálculos de precio utilizando arreglos.
 <!----Separador---->
 
 Utilización de menús usando el método Switch-Case.
