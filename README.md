@@ -43,7 +43,7 @@ Programa simple, pero por algún motivo termino inconcluso
 <!----Separador---->
 
 ###### ZinjaI - 05/10/19
-La carpeta contiene archivos de código C++ los cuales la mayoría son cosas esenciales en el desarrollo del lenguaje.
+La carpeta contiene archivos de código C++ los cuales la mayoría son cosas esenciales en el desarrollo del lenguaje, esto es parte de un curso.
 
 <!----Separador---->
 
