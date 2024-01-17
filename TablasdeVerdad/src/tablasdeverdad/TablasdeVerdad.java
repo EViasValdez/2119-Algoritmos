@@ -19,8 +19,8 @@ public class TablasdeVerdad {
      * @param args the command line arguments
      * @throws java.io.IOException
      */
-    /* 1. Una casa cuenta con sensores de fuego en las habitaciones,
-    estos sensores de fuego en las habitaciones se activaran de acuerdo a las siguientes condiciones.
+    /* 1. Una casa cuenta con sensores de fuego en las habitaciones, estos sensores
+    de fuego en las habitaciones se activaran de acuerdo a las siguientes condiciones.
     A) Si ocurre un incendio.
     B) Si hay humo.
     C) En caso contrario no se encienden.
