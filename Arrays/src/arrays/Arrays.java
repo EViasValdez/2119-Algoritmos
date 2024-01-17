@@ -57,7 +57,7 @@ public class Arrays {
             }
             System.out.println("Materias aprobadas" + Numero);
             System.out.println("");
-            // Calificaciones
+            // Calificaciones.
             int Suma = 0;
 
             int i;
