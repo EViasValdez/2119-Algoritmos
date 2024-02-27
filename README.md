@@ -13,7 +13,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Trate de completar algunas partes que no estaban terminadas antes de estas revisiones.**
 
-**- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otra materia de ese mismo parcial.**
+**- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otras materias de ese mismo parcial.**
 
 **- Tambien cada proyecto esta compilado en JAR (archivo ejecutable de Java).**
 <!----Separador de las notas---->
