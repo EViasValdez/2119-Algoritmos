@@ -20,7 +20,7 @@ public class Arrays {
         String [] Objetos = {"Muebles", "Puerta", "Televisor", "Computadora", "Reloj", "Videoconsola", "Refrigerador", "Mesa", "Tetera", "Horno"};
         Boolean [] Datos = {true, false, true, false, true, false, true, false};
 
-        int [] Numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
+        int[] Numeros = {1, 2, 6, 4 ,5 ,6, 8, 10};
         int Num = 0;
         int Numero = 0;
 
@@ -40,8 +40,8 @@ public class Arrays {
 
             String [] Nombre = null;
 
-            System.out.println("Nombre: " + Nombre [x]);
-            if (Datos [x] == true)
+            System.out.println("Nombre: " + Nombre[x]);
+            if (Datos[x] == true)
             {
                 System.out.println("Grupo asignado: A");
             } else {
@@ -50,7 +50,7 @@ public class Arrays {
 
             int [] Binarios = null;
 
-            if (Binarios [x] == 1) {
+            if (Binarios[x] == 1) {
                 System.out.println("Genero: Mujer");
             } else {
                 System.out.println("Genero: Hombre");
