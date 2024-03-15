@@ -111,7 +111,7 @@ Ejemplo utilizado arreglos / array.
 
 <!----Separador---->
 
-Tiene similitud con la primer compilacion de ejemplos, solo que aqui se usan nombres en el arreglo.
+Tiene similitud con la primer compilacion de ejemplos, solo que aqui se utilizan nombres en el arreglo.
 
 <!----Separador---->
 
