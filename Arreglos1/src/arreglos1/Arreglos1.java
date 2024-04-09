@@ -28,24 +28,24 @@ public class Arreglos1 {
 
         String [] Meses = new String[12];
         char [] Letras2 = new char[7];
-        int nElementos;
+        int NElementos;
 
         System.out.println("Numero de elementos del arreglo");
-        nElementos = Leer.nextInt();
+        NElementos = Leer.nextInt();
 
-        int [] m = new int [nElementos];
+        int [] m = new int [NElementos];
         int k = 0;
 
         System.out.println("Ingresa los valores del arreglo");
 
-        for (k = 0; k < nElementos; k++)
+        for (k = 0; k < NElementos; k++)
         {
             System.out.print("m [" + k + "] = ");
             m[k] = Leer.nextInt();
         }
         System.out.println();
 
-        for (k = 0; k < nElementos; k++)
+        for (k = 0; k < NElementos; k++)
         {
             System.out.println(m [k] + " ");
         }
