@@ -46,17 +46,23 @@ public class PromedioCalificaciones {
             {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
-            } else {
+            }
+            else
+            {
             if (Promedio >= 7 && Promedio <= 8)
             {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
-            } else {
+            }
+            else
+            {
             if (Promedio >= 8 && Promedio <= 9)
             {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
                 System.out.println("El pago total es: " + PagoTotal);
-            } else {
+            }
+            else
+            {
             if (Promedio >= 9 && Promedio <= 10)
             {
                 PagoTotal = Mensualidad - (Mensualidad * .10f);
