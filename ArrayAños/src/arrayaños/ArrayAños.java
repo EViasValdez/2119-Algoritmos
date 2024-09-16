@@ -40,7 +40,7 @@ public class ArrayAños {
             Nums.add(Num);
         }
     }
-    public static ArrayList <Integer> matricula(int s) {
+    public static ArrayList <Integer> Matricula(int s) {
         String Letras [] = {"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"};
         return null;
     }
