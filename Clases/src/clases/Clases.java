@@ -27,12 +27,12 @@ public class Clases {
         "Riquelme", "Reyes", "Navarrete", "Campos", "Bustamante", "Pino", "Vega", "Cortes", "Romero", "Jimenez",
         "Carvajal", "Rojas", "Ortiz", "Sepulveda", "Lagos", "Riquelme", "Jara", "Torres", "Miranda", "Ortega"};
 
-        int a;
-        int b;
-        String c;
+        int A;
+        int B;
+        String C;
 
-        // a = ran.nextInt(49);
-        // b = ran.nextInt(49);
-        // c = nom[b] + " " + ape[d];
+        // A = ran.nextInt(49);
+        // B = ran.nextInt(49);
+        // C = Nombres[b] + " " + Apellidos[d];
     }
 }
