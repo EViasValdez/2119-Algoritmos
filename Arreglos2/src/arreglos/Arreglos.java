@@ -40,13 +40,13 @@ public class Arreglos {
         for (k = 0; k < NElementos; k++)
         {
             System.out.print("m[" + k + "] = ");
-            m [k] = leer.nextInt();
+            m[k] = leer.nextInt();
         }
         System.out.println();
 
         for (k = 0; k < NElementos; k++)
         {
-            System.out.println(m [k] + " ");
+            System.out.println(m[k] + " ");
         }
 
         ArrayList <Float> Notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear 

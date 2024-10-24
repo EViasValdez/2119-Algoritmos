@@ -25,7 +25,7 @@ public class Salarios {
         System.out.println("Numero de elementos del arreglo");
         NElementos = Leer.nextInt();
         
-        double[] Salario = new double[NElementos];
+        double [] Salario = new double[NElementos];
         double Suma = 0;
         int k = 0;
 

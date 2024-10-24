@@ -108,8 +108,8 @@ public class Arreglos1 {
         // int Valor = Numeros [2];
         // System.out.println(Numeros[2]);
         // System.out.println(Valor);
-        System.out.println(Semana [1]);// for (int i = 0; i <= 9; i++)
-        System.out.println(Letras [1]);
+        System.out.println(Semana[1]);// for (int i = 0; i <= 9; i++)
+        System.out.println(Letras[1]);
         // {
         // int Valor = Numeros[2];
         // System.out.println("26");
