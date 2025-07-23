@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"areadeltriangulo2","c":"AreadelTriangulo2","l":"AreadelTriangulo2()","u":"%3Cinit%3E()"},{"p":"areadeltriangulo2","c":"AreadelTriangulo2","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
