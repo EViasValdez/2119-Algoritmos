@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"promediocalificaciones","c":"PromedioCalificaciones","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"promediocalificaciones","c":"PromedioCalificaciones","l":"PromedioCalificaciones()","u":"%3Cinit%3E()"}];updateSearchResults();

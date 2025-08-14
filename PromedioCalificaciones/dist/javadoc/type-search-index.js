@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"promediocalificaciones","l":"PromedioCalificaciones"}];updateSearchResults();

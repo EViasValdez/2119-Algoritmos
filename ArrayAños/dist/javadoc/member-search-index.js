@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"arrayaños","c":"ArrayAños","l":"ArrayAños()","u":"%3Cinit%3E()"},{"p":"arrayaños","c":"ArrayAños","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"arrayaños","c":"ArrayAños","l":"Matricula(int)"}];updateSearchResults();

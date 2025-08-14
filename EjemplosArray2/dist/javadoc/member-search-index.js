@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"ejemplosarray2","c":"EjemplosArray2","l":"EjemplosArray2()","u":"%3Cinit%3E()"},{"p":"ejemplosarray2","c":"EjemplosArray2","l":"getName(String)","u":"getName(java.lang.String)"},{"p":"ejemplosarray2","c":"EjemplosArray2","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
