@@ -49,7 +49,8 @@ public class Arreglos {
             System.out.println(m[k] + " ");
         }
 
-        ArrayList <Float> Notas = new ArrayList<>(); // La Clase ArrayList se utiliza para crear 
+        ArrayList <Float> Notas = new ArrayList<>();
+        // La Clase ArrayList se utiliza para crear 
         // arreglos unidimensionales.
         // En este caso se creo un arreglo llamado "Notas" de tipo float y no se especifico el tamaño 
         // del mismo.
@@ -74,7 +75,8 @@ public class Arreglos {
 
         for (l = 0; l < Nalumnos; l++)
         {
-            Suma += Notas.get(l); // El método get obtiene un elemento del arreglo en este
+            Suma += Notas.get(l); 
+            // El método get obtiene un elemento del arreglo en este
             // caso obtiene el dato de la posición 1 del arreglo.
             System.out.println();
             System.out.printf("Nota media del curso: %5.2f", Suma / Nalumnos);
@@ -90,7 +92,7 @@ public class Arreglos {
         for (int i = 0; i <= 11; i++)
         {
             System.out.println("Los meses son: " + Meses[i]);
-          // Meses[i] = leer.next();
+            // Meses[i] = leer.next();
         }
         for (int j = 0; j <= 6; j++)
         {
