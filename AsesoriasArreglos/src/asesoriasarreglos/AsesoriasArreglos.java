@@ -42,7 +42,9 @@ public class AsesoriasArreglos {
             if (Nombre.equals(Nombres[i]))
             {
                 System.out.println("Si esta");
-            } else {
+            }
+            else
+            {
                 System.out.println("No esta");
             }
         }
@@ -50,7 +52,9 @@ public class AsesoriasArreglos {
             if (Apellido.equals(Apellidos[i]))
             {
                 System.out.println("Si existe");
-            } else {
+            }
+            else
+            {
                 System.out.println("No existe");
             }
         }

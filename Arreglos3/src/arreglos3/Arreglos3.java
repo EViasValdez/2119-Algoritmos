@@ -48,7 +48,9 @@ public class Arreglos3 {
             if (Precios[x] >= 5000)
             {
                 System.out.println("El precio es muy alto");
-            } else {
+            }
+            else
+            {
                 System.out.println("El precio es muy bajo");
             }
         }
@@ -56,7 +58,9 @@ public class Arreglos3 {
             if (Precios[x] < 0)
             {
                 System.out.println("No puede haber precios negativos");
-            } else {
+            }
+            else
+            {
             if (Precios[x] == 0)
             {
                 System.out.println("El precio debe ser mayor que 0");

@@ -44,7 +44,9 @@ public class Arrays {
             if (Datos[x] == true)
             {
                 System.out.println("Grupo asignado: A");
-            } else {
+            }
+            else
+            {
                 System.out.println("Grupo asignado: B");
             }
 
@@ -58,9 +60,9 @@ public class Arrays {
             System.out.println("Materias aprobadas" + Numero);
             System.out.println("");
             // Calificaciones.
-            int Suma = 0;
 
-            int i;
+            // int Suma = 0;
+            // int i;
         }
     }
 }

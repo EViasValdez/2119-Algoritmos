@@ -36,11 +36,15 @@ public class Ciclos {
             if (Calificacion[i] > 10 || Calificacion[i] < 0)
             {
                 Invalida++;
-            } else {
+            }
+            else
+            {
             if (Calificacion[i] >= 7)
             {
                 Aprobaron++;
-            } else {
+            }
+            else
+            {
             if (Calificacion[i] < 7)
             {
                 Reprobaron++;
