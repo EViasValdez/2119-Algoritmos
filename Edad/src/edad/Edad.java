@@ -23,7 +23,7 @@ public class Edad {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
 
-        float Edad, NumeroNiños, Promedio;
+        float Edad, Promedio;
 
         int Cuantos;
 

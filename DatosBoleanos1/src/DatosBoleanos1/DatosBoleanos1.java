@@ -45,7 +45,9 @@ public class DatosBoleanos1 {
         if ((Puerta == true) || (Ventana1 == true) || (Ventana2 == true))
         {
             System.out.println("El ladron entra");
-        } else {
+        }
+        else
+        {
             System.out.println("El ladron no puede entrar");
         }
     }

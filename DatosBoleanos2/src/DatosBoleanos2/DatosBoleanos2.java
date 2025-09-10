@@ -53,7 +53,9 @@ public class DatosBoleanos2 {
         if ((Valvula1 == true) || (Valvula2 == true) || (Valvula3 == true) || (Valvula4 == true) || (Bomba == true) || (EnergiaElectrica == false))
         {
             System.out.println("Tanque lleno");
-        } else {
+        }
+        else
+        {
             System.out.println("Tanque vació");
         }
     }

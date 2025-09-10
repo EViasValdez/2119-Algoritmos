@@ -34,18 +34,18 @@ public class Asesorias2 {
         }
         else
         {
-            if (Precio >= 500)
-            {
-                Descuento = Precio * .11f;
-                PrecioTotal = Precio - Descuento;
-                System.out.println("El precio total es: " + PrecioTotal);
-            }
+        if (Precio >= 500)
+        {
+            Descuento = Precio * .11f;
+            PrecioTotal = Precio - Descuento;
+            System.out.println("El precio total es: " + PrecioTotal);
+        }
         else
-            {
-                Descuento = Precio * .03f;
-                PrecioTotal = Precio - Descuento;
-                System.out.println("El precio total es: " + PrecioTotal);
-            }
+        {
+            Descuento = Precio * .03f;
+            PrecioTotal = Precio - Descuento;
+            System.out.println("El precio total es: " + PrecioTotal);
+        }
         }
     }
 }

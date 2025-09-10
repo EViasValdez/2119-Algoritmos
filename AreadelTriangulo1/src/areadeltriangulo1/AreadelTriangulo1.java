@@ -19,6 +19,7 @@ public class AreadelTriangulo1 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner Leer = new Scanner (System.in);
+        
         System.out.println("Ingresar base");
         int N1 = Leer.nextInt();
         System.out.println("Ingresar altura");
