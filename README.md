@@ -13,7 +13,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otras materias de ese mismo parcial.**
 
-**- Tambien cada proyecto ha sido compilado en JAR (archivo ejecutable de Java).**
+**- También cada proyecto ha sido compilado en JAR (archivo ejecutable de Java).**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
@@ -75,7 +75,7 @@ Version incompleta del programa anterior.
 <!----Separador---->
 
 ###### Arreglos1, Arreglos2, Salarios - 19/10/2019
-En el primer programa se asigna un total de salario y asigna una categoria, en el segundo asigna un descuento a un precio y muestra el total del precio.
+En el primer programa se asigna un total de salario y asigna una categoría, en el segundo asigna un descuento a un precio y muestra el total del precio.
 
 <!----Separador---->
 
@@ -109,7 +109,7 @@ Ejemplo utilizado arreglos / array.
 
 <!----Separador---->
 
-Tiene similitud con la primer compilacion de ejemplos, solo que aqui se utilizan nombres en el arreglo.
+Tiene similitud con la primer compilacion de ejemplos, solo que aquí se utilizan nombres en el arreglo.
 
 <!----Separador---->
 
@@ -154,7 +154,7 @@ Determinación de entrada a alguna actividad de la escuela de acuerdo a la edad.
 <!----Separador---->
 
 ###### Arreglos3, Menu1 - 06/12/19
-Realizacion de cálculos de precio utilizando arreglos.
+Realización de cálculos de precio utilizando arreglos.
 <!----Separador---->
 
 Utilización de menús usando el método Switch-Case.
