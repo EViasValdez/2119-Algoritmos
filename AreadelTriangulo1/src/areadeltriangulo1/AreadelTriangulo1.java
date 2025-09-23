@@ -28,6 +28,6 @@ public class AreadelTriangulo1 {
         int r;
         r = (N1 * N2) / 2;
 
-        System.out.println("El resultado del area es: " + r);
+        System.out.println("El resultado del área es: " + r);
     }
 }

@@ -28,7 +28,7 @@ public class Aplicacion {
         Names.add("Marisol");
         Names.add("Carla");
         Names.add("Hugo");
-        Names.add("Victor");
+        Names.add("Víctor");
         Names.add("Elisabeth");
         Names.add("Teresa");
 

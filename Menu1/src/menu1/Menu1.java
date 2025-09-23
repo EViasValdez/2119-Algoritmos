@@ -28,9 +28,9 @@ public class Menu1 {
 
         System.out.println("1 - Suma");
         System.out.println("2 - Resta");
-        System.out.println("3 - Multiplicacion");
-        System.out.println("4 - Division");
-        System.out.println("Elige una opcion");
+        System.out.println("3 - Multiplicación");
+        System.out.println("4 - División");
+        System.out.println("Elige una opción");
         Opc = Integer.parseInt(br.readLine());
 
         switch (Opc)
@@ -38,10 +38,10 @@ public class Menu1 {
         case 1:
             System.out.println("Escribe el primer numero");
             N1 = Float.parseFloat(br.readLine());
-            System.out.println("Escriba el segundo numero");
+            System.out.println("Escribe el segundo numero");
             N2 = Float.parseFloat(br.readLine());
             Suma = N1 + N2;
-            System.out.println("La suma es: " + Suma);
+            System.out.println("El resultado es: " + Suma);
         break;
 
         case 2:
@@ -50,7 +50,7 @@ public class Menu1 {
             System.out.println("Escribe el segundo numero");
             N2 = Float.parseFloat(br.readLine());
             Resta = N1 - N2;
-            System.out.println("La resta es: " + Resta);
+            System.out.println("El resultado es: " + Resta);
         break;
 
         case 3:
@@ -59,7 +59,7 @@ public class Menu1 {
             System.out.println("Escribe el segundo numero");
             N2 = Float.parseFloat(br.readLine());
             Multiplicacion = N1 * N2;
-            System.out.println("La multiplicacion es: " + Multiplicacion);
+            System.out.println("El resultado es: " + Multiplicacion);
         break;
 
         case 4:
@@ -68,7 +68,7 @@ public class Menu1 {
             System.out.println("Escribe el segundo numero");
             N2 = Float.parseFloat(br.readLine());
             Division = N1 / N2;
-            System.out.println("La division es: " + Division);
+            System.out.println("El resultado es: " + Division);
         break;
 
         default:

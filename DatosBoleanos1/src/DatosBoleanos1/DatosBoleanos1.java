@@ -44,11 +44,11 @@ public class DatosBoleanos1 {
 
         if ((Puerta == true) || (Ventana1 == true) || (Ventana2 == true))
         {
-            System.out.println("El ladron entra");
+            System.out.println("El ladrón entra");
         }
         else
         {
-            System.out.println("El ladron no puede entrar");
+            System.out.println("El ladrón no puede entrar");
         }
     }
 }

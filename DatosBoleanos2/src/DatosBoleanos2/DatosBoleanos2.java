@@ -32,16 +32,16 @@ public class DatosBoleanos2 {
 
         boolean Valvula1, Valvula2, Valvula3, Valvula4, Bomba, EnergiaElectrica;
 
-        System.out.println("Estado de la valvula 1");
+        System.out.println("Estado de la válvula 1");
         Valvula1 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la valvula 2");
+        System.out.println("Estado de la válvula 2");
         Valvula2 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la valvula 3");
+        System.out.println("Estado de la válvula 3");
         Valvula3 = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la valvula 4");
+        System.out.println("Estado de la válvula 4");
         Valvula4 = Boolean.parseBoolean(br.readLine());
 
         System.out.println("Estado de la bomba");

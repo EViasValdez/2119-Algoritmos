@@ -20,7 +20,7 @@ public class AreadelTriangulo2 {
         // TODO code application logic here
         Scanner Leer = new Scanner (System.in);
 
-        System.out.println("Calcular el area del triangulo");
+        System.out.println("Calcular el área del triangulo");
 
         System.out.println("Ingresar base");
         int N1 = Leer.nextInt();
@@ -31,7 +31,7 @@ public class AreadelTriangulo2 {
         int R;
         R = (N1 * N2) / 2;
 
-        System.out.println("El resultado del area es: " + R);
+        System.out.println("El resultado del área es: " + R);
         {
             // else (int = 2);
         }

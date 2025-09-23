@@ -41,7 +41,7 @@ public class Arreglos3 {
         Promedio = Suma / 10;
 
         System.out.println("El total de los precios es: " + Suma);
-        System.out.println("El promedio de los precios es: "  + Promedio);
+        System.out.println("El promedio de los precios es: " + Promedio);
 
         for (int x = 0; x < 10; x++)
         {

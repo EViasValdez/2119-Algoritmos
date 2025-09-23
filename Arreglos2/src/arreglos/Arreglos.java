@@ -50,7 +50,7 @@ public class Arreglos {
         }
 
         ArrayList <Float> Notas = new ArrayList<>();
-        // La Clase ArrayList se utiliza para crear 
+        // La clase ArrayList se utiliza para crear 
         // arreglos unidimensionales.
         // En este caso se creo un arreglo llamado "Notas" de tipo float y no se especifico el tamaño 
         // del mismo.

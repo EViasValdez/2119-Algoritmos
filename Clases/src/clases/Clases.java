@@ -23,9 +23,9 @@ public class Clases {
         "Martha", "Luis", "Silvia", "Sergio", "Alicia", "Teresa", "Alfredo", "Alberto", "Diego", "Carmen"};
         String Apellidos [] = {"Pérez", "Sánchez", "Cruz", "Hernández", "Vázquez", "Flores", "Gutiérrez", "Morales", "Díaz", "Ramírez",
         "Jiménez", "López", "González", "García", "Martínez", "Rodríguez", "Reyes", "Gómez", "Vargas", "Bravo",
-        "Espinoza", "Muñoz", "Soto", "Ernesto", "Flores", "Valdez", "Castillo", "Romero", "Zuñiga", "Contreras",
-        "Riquelme", "Reyes", "Navarrete", "Campos", "Bustamante", "Pino", "Vega", "Cortes", "Romero", "Jimenez",
-        "Carvajal", "Rojas", "Ortiz", "Sepulveda", "Lagos", "Riquelme", "Jara", "Torres", "Miranda", "Ortega"};
+        "Espinoza", "Muñoz", "Soto", "Ernesto", "Flores", "Valdez", "Castillo", "Romero", "Zúñiga", "Contreras",
+        "Riquelme", "Reyes", "Navarrete", "Campos", "Bustamante", "Pino", "Vega", "Cortes", "Romero", "Jiménez",
+        "Carvajal", "Rojas", "Ortiz", "Sepúlveda", "Lagos", "Riquelme", "Jara", "Torres", "Miranda", "Ortega"};
 
         // int A;
         // int B;

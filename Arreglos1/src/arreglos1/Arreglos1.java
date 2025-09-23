@@ -49,21 +49,20 @@ public class Arreglos1 {
         {
             System.out.println(m [k] + " ");
         }
-        ArrayList <Float> notas = new ArrayList <>(); // La Clase ArrayList se utiliza para crear
+        ArrayList <Float> notas = new ArrayList <>(); // La clase ArrayList se utiliza para crear
         // arreglos unidimensionales, en este caso se creo un arreglo llamado "notas de tipo float"
         // y no se especifico el tamaño del mismo.
         int l = 0;
 
         System.out.println("Introducir calificaciones, finalizar con -1");
-        System.out.printf("Alumnno numero %3d, calificaion media: ", ++l);
+        System.out.printf("Alumno numero %3d, calificación media: ", ++l);
 
         float calif = Leer.nextFloat();
         while (calif != -1)
         {
             notas.add(calif); // El método add se utiliza para ir agregando datos al arreglo.
             System.out.printf("Alumno numero %3d, nota media: ", ++l); // "printf" muestra un mensaje
-            // en pantalla donde se especifica el formato de los datos
-            // con "%d" para datos de tipo entero.
+            // en pantalla donde se especifica el formato de los datos con "%d" para datos de tipo entero.
             calif = Leer.nextFloat();
         }
         int Nalumnos = notas.size(); // El método size obtiene el tamaño del arreglo.
@@ -90,7 +89,7 @@ public class Arreglos1 {
         }
         for (int j = 0; j <= 6; j++)
         {
-            System.out.println("Dias de la semana");
+            System.out.println("Días de la semana");
             Car = System.in.read(); // Lee un arreglo de caracteres.
             System.in.read(); // Lee una linea en blanco.
             Letras2[j] = (char) Car; // Se asigna lo que vaya leyendo en la variable "car" a el arreglo "Letras2".

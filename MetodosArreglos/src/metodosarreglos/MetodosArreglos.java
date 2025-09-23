@@ -31,9 +31,9 @@ public class MetodosArreglos {
             Numeros[i] = Double.parseDouble(br.readLine());
         }
 
-        System.out.println("La suma es: " + Sumar (Numeros));
-        System.out.println("El mayor es: " + Mayor (Numeros));
-        System.out.println("El menor es: " + Menor (Numeros));
+        System.out.println("La suma es: " + Sumar(Numeros));
+        System.out.println("El mayor es: " + Mayor(Numeros));
+        System.out.println("El menor es: " + Menor(Numeros));
     }
     private static double Sumar(double [] Numeros) {
         double Suma = 0;

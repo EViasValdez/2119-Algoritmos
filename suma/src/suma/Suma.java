@@ -34,10 +34,10 @@ public class Suma {
         // Suma = Numero1 + Numero2;
         // System.out.println("La suma es: " + Suma (Numero1, Numero2));
 
-        System.out.println("La suma es: " + Suma (Numero1, Numero2));
-        System.out.println("La resta es: " + Resta (Numero1, Numero2));
-        System.out.println("La multiplicacion es: " + Resta (Numero1, Numero2));
-        System.out.println("La division es: " + Resta (Numero1, Numero2));
+        System.out.println("El resultado es: " + Suma(Numero1, Numero2));
+        System.out.println("El resultado es: " + Resta(Numero1, Numero2));
+        System.out.println("El resultado es: " + Multiplicacion(Numero1, Numero2));
+        System.out.println("El resultado es: " + Division(Numero1, Numero2));
     }
     private static float Suma(float Numero1, float Numero2) {
         float Suma = 0;

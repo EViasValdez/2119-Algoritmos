@@ -58,6 +58,6 @@ public class Ciclos {
         System.out.println("El promedio es: " + Promedio);
         System.out.println("Alumnos reprobados: " + Reprobaron);
         System.out.println("Alumnos aprobados: " + Aprobaron);
-        System.out.println("Promedios invalidos: " + Invalida);
+        System.out.println("Promedios inválidos: " + Invalida);
     }
 }
