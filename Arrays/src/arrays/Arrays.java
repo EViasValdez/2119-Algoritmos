@@ -32,7 +32,7 @@ public class Arrays {
         // 1 = Mujer
 
         System.out.println("Sea bienvenido");
-        System.out.println("Asignación de elementos de alumnos");
+        System.out.println("Asignación de elementos a alumnos");
         for (int x = 0; x < 10; x++)
         {
             Num = Num + 1;
