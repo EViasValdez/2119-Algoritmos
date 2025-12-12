@@ -13,7 +13,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otras materias de ese mismo parcial.**
 
-**- También cada proyecto ha sido compilado en formato JAR (ejecutable de Java).**
+**- También cada proyecto ha sido compilado en formato JAR.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
