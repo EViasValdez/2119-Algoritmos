@@ -100,7 +100,7 @@ Calculadora usando clases.
 
 <!----Separador---->
 
-Utilización de metodos y arreglos.
+Utilización de métodos y arreglos.
 
 <!----Separador---->
 
