@@ -1,7 +1,7 @@
 # Algoritmos
 
 <!----Descripción---->
-Documentos de la asignatura de algoritmos que fue la primera materia donde aprendí (de forma un poco complicada) sobre los entornos de programación, la mayoría de estos son archivos que fueron realizados usando Java (aunque un apartado de programa realizados en lenguaje C++).
+Documentos de la asignatura de algoritmos que fue la primera materia donde aprendí (de forma un poco complicada) sobre los entornos de programación, la mayoría de estos son archivos que fueron realizados usando Java.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
