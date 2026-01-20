@@ -1,7 +1,7 @@
 # Algoritmos
 
 <!----Descripción---->
-Documentos de la asignatura de algoritmos que fue la primera materia donde aprendí (de forma un poco complicada) sobre los entornos de programación, la mayoría de estos son archivos que fueron realizados usando Java.
+Documentos de la asignatura de algoritmos que fue la primera materia donde aprendí (de forma un poco complicada) sobre los entornos de programación, la mayoría de estos son archivos que fueron realizados usando Java, incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otras materias de ese mismo parcial y trate de completar algunas partes que no estaban terminadas antes de estas revisiones.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
@@ -9,11 +9,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 **- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin puntuaciones las líneas de código que mostraran texto ya que no se pueden ver de forma correcta en la ventana de ejecución de Apache NetBeans.**
 
-**- Trate de completar algunas partes que no estaban terminadas antes de estas revisiones.**
-
-**- Incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otras materias de ese mismo parcial.**
-
-**- También cada proyecto ha sido compilado en formato JAR.**
+**- Cada proyecto ha sido compilado en formato JAR.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
