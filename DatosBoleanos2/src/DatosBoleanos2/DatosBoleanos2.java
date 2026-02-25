@@ -47,7 +47,7 @@ public class DatosBoleanos2 {
         System.out.println("Estado de la bomba");
         Bomba = Boolean.parseBoolean(br.readLine());
 
-        System.out.println("Estado de la energia eléctrica");
+        System.out.println("Estado de la energía eléctrica");
         EnergiaElectrica = Boolean.parseBoolean(br.readLine());
 
         if ((Valvula1 == true) || (Valvula2 == true) || (Valvula3 == true) || (Valvula4 == true) || (Bomba == true) || (EnergiaElectrica == false))
