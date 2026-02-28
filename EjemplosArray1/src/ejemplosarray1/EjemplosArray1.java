@@ -24,6 +24,7 @@ public class EjemplosArray1 {
 
         Scanner Leer = new Scanner(System.in);
         Random alea = new Random();
+        
         String Animales[] = {"Pez", "Caballo", "Mapache", "Gato", "Oso"};
 
         ArrayList <String> Animales2 = new ArrayList<String>();
