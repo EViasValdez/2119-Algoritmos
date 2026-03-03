@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Documentos de la asignatura de algoritmos que fue la primera materia donde aprendí (de forma un poco complicada) sobre los entornos de programación, la mayoría de estos son archivos que fueron realizados usando Java, incluí algunos documentos que fueron realizados durante asesorías de esta materia y de otras materias de ese mismo parcial y trate de completar algunas partes que no estaban terminadas antes de estas revisiones.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas**
