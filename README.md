@@ -122,7 +122,7 @@ Uso de arreglos.
 <!----Separador---->
 
 ###### Aplicacion - 25/11/19
-Utilización de arreglos y listas con un scanner.
+Utilización de arreglos y listas con un escáner.
 
 <!----Separador---->
 
