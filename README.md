@@ -140,7 +140,7 @@ Utilización de arreglos.
 <!----Separador---->
 
 ###### PromedioCalificaciones, Edad - 30/11/19
-Se saca el promedio de diferentes calificaciones.
+Se saca el promedio de las diferentes calificaciones.
 
 <!----Separador---->
 
