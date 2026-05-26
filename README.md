@@ -104,7 +104,7 @@ Ejemplo utilizado arreglos / array.
 
 <!----Separador---->
 
-Tiene similitud con la primer compilacion de ejemplos, solo que aquí se utilizan nombres en el arreglo.
+Tiene similitud con la primer compilación de ejemplos, solo que aquí se utilizan nombres en el arreglo.
 
 <!----Separador---->
 
