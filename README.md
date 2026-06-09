@@ -152,7 +152,7 @@ Determinación de entrada a alguna actividad de la escuela de acuerdo a la edad.
 Realización de cálculos de precio utilizando arreglos.
 <!----Separador---->
 
-Utilización de menús usando el método Switch-Case.
+Utilización de menús a traves del método Switch-Case.
 
 <!----Separador---->
 
