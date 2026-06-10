@@ -40,11 +40,11 @@ public class TablasdeVerdad {
         boolean Ventana1, Ventana2, Puerta, Fuego, Humo, Digito1, Digito2, Digito3, Digito4, Digit1, Digit2, Digit3, Digit4;
         int Opcion;
 
-        System.out.println("Elige una opcion");
+        System.out.println("Elige una opción");
         System.out.println("1. Problema ventanas");
         System.out.println("2. Problema sensores");
         System.out.println("3. Problema caja fuerte");
-        System.out.println("4. Problema cajero automatico");
+        System.out.println("4. Problema cajero automático");
         
         Opcion = Integer.parseInt(br.readLine());
 
@@ -61,7 +61,9 @@ public class TablasdeVerdad {
             if (Ventana1 == true || Ventana2 == true || Puerta == true)
             {
                 System.out.println("La alarma se activa");
-            } else {
+            }
+            else
+            {
                 System.out.println("La alarma no se activa");
             }
         break;
@@ -73,7 +75,9 @@ public class TablasdeVerdad {
             if (Fuego == true || Humo == true)
             {
                 System.out.println("Los sensores se activan");
-            } else {
+            }
+            else
+            {
                 System.out.println("Los sensores no se activan");
             }
         break;
@@ -81,38 +85,41 @@ public class TablasdeVerdad {
         case 3:
             System.out.println("Primer dígito");
             Digito1 = Boolean.parseBoolean(br.readLine());
-            System.out.println("Segundo digito");
+            System.out.println("Segundo dígito");
             Digito2 = Boolean.parseBoolean(br.readLine());
-            System.out.println("Tercer digito");
+            System.out.println("Tercer dígito");
             Digito3 = Boolean.parseBoolean(br.readLine());
-            System.out.println("Cuarto digito");
+            System.out.println("Cuarto dígito");
             Digito4 = Boolean.parseBoolean(br.readLine());
 
             if (Digito1 == true || Digito2 == true || Digito3 == true || Digito4 == true)
             {
                 System.out.println("La caja se abre");
-            } else {
+            } else
+            {
                 System.out.println("La caja no se abre");
             }
         break;
 
         case 4:
-            System.out.println("Primer digito");
+            System.out.println("Primer dígito");
             Digit1 = Boolean.parseBoolean(br.readLine());
-            System.out.println("Segundo digito");
+            System.out.println("Segundo dígito");
             Digit2 = Boolean.parseBoolean(br.readLine());
-            System.out.println("Tercer digito");
+            System.out.println("Tercer dígito");
             Digit3 = Boolean.parseBoolean(br.readLine());
-            System.out.println("Cuarto digito");
+            System.out.println("Cuarto dígito");
             Digit4 = Boolean.parseBoolean(br.readLine());
 
             if (Digit1 == true || Digit2 == true || Digit3 == true || Digit4 == true)
             {
                 System.out.println("Puede retirar el dinero");
-            } else {
+            }
+            else
+            {
                 System.out.println("No puede retirar el dinero");
-        break;
-      }
+                break;
+            }
+        }
     }
-  }
 }

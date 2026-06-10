@@ -32,6 +32,7 @@ public class Arreglos {
 
         System.out.println("Numero de elementos del arreglo");
         NElementos = leer.nextInt();
+        
         int [] m = new int [NElementos];
 
         int k = 0;
@@ -70,7 +71,7 @@ public class Arreglos {
             Calif = leer.nextFloat();
         }
 
-        int Nalumnos = Notas.size(); // El metodo size obtiene el tamaño del arreglo.
+        int Nalumnos = Notas.size(); // El método size obtiene el tamaño del arreglo.
         float Suma = 0;
 
         for (l = 0; l < Nalumnos; l++)

@@ -54,7 +54,8 @@ public class Arreglos3 {
                 System.out.println("El precio es muy bajo");
             }
         }
-        for (int x = 0; x < 10; x++) {
+        for (int x = 0; x < 10; x++)
+        {
             if (Precios[x] < 0)
             {
                 System.out.println("No puede haber precios negativos");

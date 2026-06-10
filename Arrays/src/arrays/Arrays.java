@@ -24,8 +24,8 @@ public class Arrays {
         int Num = 0;
         int Numero = 0;
 
-        // float calificaciones;
-        // float calificacion;
+        // float Calificaciones;
+        // float Calificacion;
         // True = Grupo A
         // False = Grupo B
         // 0 = Hombre

@@ -72,7 +72,7 @@ public class Menu1 {
         break;
 
         default:
-            System.out.println("Opcion no valida");
+            System.out.println("Opción no valida");
         break;
 
         }

@@ -48,7 +48,8 @@ public class AsesoriasArreglos {
                 System.out.println("No esta");
             }
         }
-        for (int i = 1; i < 5; i++) {
+        for (int i = 1; i < 5; i++)
+        {
             if (Apellido.equals(Apellidos[i]))
             {
                 System.out.println("Si existe");
