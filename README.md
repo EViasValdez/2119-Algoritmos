@@ -144,7 +144,7 @@ Se saca el promedio de las diferentes calificaciones.
 
 <!----Separador---->
 
-Determinación de entrada a alguna actividad de la escuela de acuerdo a la edad.
+Definición de entrada a alguna actividad de la escuela de acuerdo a la edad.
 
 <!----Separador---->
 
