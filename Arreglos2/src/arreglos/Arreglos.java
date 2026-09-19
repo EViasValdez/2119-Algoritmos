@@ -53,8 +53,8 @@ public class Arreglos {
         ArrayList <Float> Notas = new ArrayList<>();
         // La clase ArrayList se utiliza para crear 
         // arreglos unidimensionales.
-        // En este caso se creo un arreglo llamado "Notas" de tipo float y no se especifico el tamaño 
-        // del mismo.
+        // En este caso se creo un arreglo llamado "Notas" de tipo float
+        // y no se especifico el tamaño del mismo.
         int l = 0;
 
         System.out.println("Introducir calificaciones, finalizar con -1");
