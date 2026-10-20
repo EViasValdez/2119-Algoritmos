@@ -6,7 +6,7 @@ Documentos de la asignatura de algoritmos que fue la primera materia donde apren
 
 <!----Notas---->
 **Notas**
-**- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin puntuaciones las líneas de código que mostraran texto ya que no se pueden ver de forma correcta en la ventana de ejecución de Apache NetBeans.**
+**- Corregí algunos errores ortográficos que tenían algunos textos, tuve que dejar sin corregir varias puntuaciones de las líneas de código que mostraran texto ya que no se pueden ver de forma correcta en la ventana de ejecución de Apache NetBeans.**
 
 **- Cada proyecto ha sido compilado en formato JAR.**
 <!----Separador de las notas---->
