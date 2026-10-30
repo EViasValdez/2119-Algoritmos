@@ -74,7 +74,6 @@ public class Menu1 {
         default:
             System.out.println("Opción no valida");
         break;
-
         }
     }
 }
