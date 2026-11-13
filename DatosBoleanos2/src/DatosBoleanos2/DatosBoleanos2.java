@@ -56,7 +56,7 @@ public class DatosBoleanos2 {
         }
         else
         {
-            System.out.println("Tanque vacio");
+            System.out.println("Tanque vacío");
         }
     }
 }
